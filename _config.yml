@@ -9,3 +9,5 @@ markdown: kramdown
 permalink: /:year/:month/:title
 sass:
   style: compressed
+gems:
+  - jekyll-sitemap

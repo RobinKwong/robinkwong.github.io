@@ -2,7 +2,6 @@
 layout: post
 title: How we did it&#58; Wearables at Work
 date: 2016-01-30 09:00
-tags: [project]
 ---
 
 In June 2015, I led an experiment in audience engagement and storytelling on social media at the Financial Times.

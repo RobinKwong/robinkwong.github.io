@@ -2,7 +2,6 @@
 layout: post
 title: Skills I've picked up
 date: 2016-01-29 09:00
-tags: [digital, skills]
 ---
 
 Before I became the Financial Times’ Special Projects Editor, I spent 18 months on the interactive desk. I arrived there with, basically, absolutely zero knowledge of even the basic skills.
