@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Not Last of Type</title>
+  <meta name="description" content="I always enjoy finding little ways to simplify writing CSS whenever possible. One common pattern when creating an inline navigation is to have spacing betwee...">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://www.robinkwong.com/2015/11/not-last-of-type">
+  <link rel="alternate" type="application/rss+xml" title="Robin Kwong | Project management in newsrooms" href="http://www.robinkwong.com/feed.xml">
+</head>
+
+  <body>
+    <main class="container">
+      <article class="article">
+  <h1 class="post-title" itemprop="name headline">Not Last of Type</h1>
+  <p class="post-meta"><time datetime="2015-11-23T17:16:00+00:00" itemprop="datePublished">Nov 23, 2015</time></p>
+  <p>I always enjoy finding little ways to simplify writing CSS whenever possible. One common pattern when creating an inline navigation is to have spacing between the navigation items.</p>
+
+<p>The basic code is usually written out below. Add the spacing to all items and then remove it from the last item using the <code class="highlighter-rouge">last-of-type</code> selector:</p>
+
+<figure class="highlight"><pre><code class="language-scss" data-lang="scss"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10</pre></td><td class="code"><pre><span class="nc">.nav</span> <span class="p">{</span>
+
+    <span class="nt">a</span> <span class="p">{</span>
+        <span class="nl">margin-right</span><span class="p">:</span> <span class="m">1rem</span><span class="p">;</span>
+
+        <span class="k">&amp;</span><span class="nd">:last-of-type</span> <span class="p">{</span>
+            <span class="nl">margin-right</span><span class="p">:</span> <span class="m">0</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="p">}</span><span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+<p>One way to get around having to specify a <code class="highlighter-rouge">margin-right</code> declaration for all navigation items is to add that <code class="highlighter-rouge">margin-right</code> to every item <em>except</em> the last item in one declaration. You can achieve this with the code below:</p>
+
+<figure class="highlight"><pre><code class="language-scss" data-lang="scss"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
+2
+3
+4
+5
+6</pre></td><td class="code"><pre><span class="nc">.nav</span> <span class="p">{</span>
+
+    <span class="nt">a</span><span class="nd">:not</span><span class="o">(</span><span class="nd">:last-of-type</span><span class="o">)</span> <span class="p">{</span>
+        <span class="nl">margin-right</span><span class="p">:</span> <span class="m">1rem</span><span class="p">;</span>
+    <span class="p">}</span>
+<span class="p">}</span><span class="w">
+</span></pre></td></tr></tbody></table></code></pre></figure>
+
+
+</article>
+
+      <footer class="footer">
+  <p>
+    <a href="/">Home</a>
+    <a href="https://twitter.com/robinkwong">Twitter</a>
+    <a href="https://github.com/robinkwong">Github</a>
+    <a href="https://uk.linkedin.com/in/robinkwong">LinkedIn</a>
+    <a href="https://www.facebook.com/robin.kwong.12">Facebook</a>
+  </p>
+  <p>&copy; Robin Kwong 2016</p>
+<!--   <p class="footer-peace">✌</p> -->
+</footer>
+
+    </main>
+  </body>
+</html>
