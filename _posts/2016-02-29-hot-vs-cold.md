@@ -11,13 +11,13 @@ This is what I've come up with so far. It's a mash-up of of [Marshall McLuhan](h
 
 Different types of media demand different levels of reader participation and concentration.  They have different effects on the reader, and you can map this along a continuum from hot to cold.
 
-##Hot
+## Hot
 - Does not require lots of concentration or participation
 - Can grab attention, and convey its information, quickly
 - Leaves little to imagination
 - Examples: Most Youtube videos, photos, [‘scan-able’ content](http://www.theguardian.com/media-network/media-network-blog/2013/aug/12/5-ways-listicle-changing-journalism)
 
-##Cold
+## Cold
 - Requires a lot of concentration and participation
 - Requires more in-depth study and ‘slower’ consumption, but also rewards it
 - Leaves lots to imagination &mdash; allows reader to become more involved

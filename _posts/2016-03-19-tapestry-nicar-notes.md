@@ -21,7 +21,7 @@ Literacy in data visualisation is by no means an unstoppable march of progress. 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-####From [Jessica Hullman's](https://twitter.com/JessicaHullman) talk
+#### From [Jessica Hullman's](https://twitter.com/JessicaHullman) talk
 
 We often want to display a sequence of graphics or charts to convey a point. There are a limited number of types of transitions from one to the next. Are certain types better or more preferable than others? Jessica's research shows that readers prefer transitions with lower cognitive cost than those with higher ones, i.e. transitions that are easier to grasp/understand.
 
@@ -46,7 +46,7 @@ Further questions:
 
 - What other methods or techniques help lower congitive cost? We know well-written annotations and titles help lower the cognitive cost of understanding a (single, static) data visualistion. What helps lower the cost of comprehending transitions? Animating the change?  
 
-####From [Nick Sousanis's](https://twitter.com/Nsousanis) talk
+#### From [Nick Sousanis's](https://twitter.com/Nsousanis) talk
 
 There is huge, untapped storytelling potential in being able to engage both the right and left brain simultaneously. One way of doing so: offer both a focused and a peripheral view. This is one of the things that made printed comics (and print newspapers) engaging. We have largely lost this on digital formats, and it is an especially acute problem on mobile, where we are forced into linearity. 
 
@@ -56,13 +56,13 @@ More fundamentally, Nick's view challenges the idea of universal publishing (i.e
 
 It is a fine tightrope to walk. The more platforms you optimise for, the higher the cost of production (and that relationship is likely exponential rather than linear). That cost can only be lowered by template-ising and standardising what you produce but you then run the risk of being not good enough on *any* platform, even the ones you optimise for. Because acrosss every platform, you are competing against people who are devoting the entirety of their resources and effort to make something outstanding specifically for that platform.
 
-##NICAR
+## NICAR
 
 You can find a comprehensive collection of NICAR slides and tip-sheets [here](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/)
 
 *Thursday*
 
-####What time, patience and a little OCD can teach you
+#### What time, patience and a little OCD can teach you
 
 There has been a clear evolution in how we are thinking about interactivitiy and its uses. There is now a much stronger sense that:
 
@@ -81,11 +81,11 @@ There has been a clear evolution in how we are thinking about interactivitiy and
 
 6. Another situation where interactivity makes sense is if we can create meaningful interaction and trust between user and computer. Examples of this would be quizzes at simplistic end of the spectrum, and chat bots that pass the Turing test at sophisticated end. See Gregor Aisch's [lightning talk](http://slides.com/drivenbydata/nicar16#/) for more on this
 
-####Elections API (plus the last bit of Algorithmic accountability)
+#### Elections API (plus the last bit of Algorithmic accountability)
 
 Slides [here](https://docs.google.com/presentation/d/1catL1YWPEKgAGDI7BX5bZnUsPQT5WE5b9cJj1XDZZW8/pub?start=false&loop=false&delayms=5000&slide=id.g10d5b0ccf7_3_0)
 
-####Stealth project management
+#### Stealth project management
 
 There are many people who have taken on *de facto* project management roles in newsrooms. Very few are recognised for their work or their skills, and few are given the authority to better carry out that work. There is huge hunger for community and knowledge sharing.
 
@@ -93,7 +93,7 @@ There are many people who have taken on *de facto* project management roles in n
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
-####VR interactives with Three.js
+#### VR interactives with Three.js
 
 [Walktrhough on Github](https://github.com/datadesk/vr-interactives-three-js)
 
@@ -101,7 +101,7 @@ There are many people who have taken on *de facto* project management roles in n
 
 *Friday*
 
-####Broadcast deep dive
+#### Broadcast deep dive
 
 Complex data visualisations do not work on screen. What works are people, confrontation, 'voice', and clear contrasts. This means there is separation of the 'back end' of the data journalism (which could be very complex and rigorous) and the 'front end' of what ends up on the screen. For most TV journalism, the data work is primarily done to kick off and inform shoe-leather reporting.
 
@@ -111,13 +111,13 @@ One very good discipline: TV reporters are told that just because they have the 
 
 Etherpad [here](https://public.etherpad-mozilla.org/p/opennews-2016-NICAR-conversations-distributed-news)
 
-####Data journalists and data teams
+#### Data journalists and data teams
 
-####Reverse engineering campaign finance stories
+#### Reverse engineering campaign finance stories
 
 Slides [here](https://docs.google.com/presentation/d/1sZ6ZK8SuvlGrORK3JNHpvyy1meLXsOniIJvmhjqvsPk/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
-####Lightning talks
+#### Lightning talks
 
 Slides [here](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/#zap)
 
@@ -125,15 +125,15 @@ Slides [here](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-
 
 *Saturday*
 
-####Let's talk leadership
+#### Let's talk leadership
 
 Very good session. Etherpad [here](https://public.etherpad-mozilla.org/p/opennews-2016-NICAR-conversations-leadership)
 
-####The best admin tools for the job
+#### The best admin tools for the job
 
 If you are working outside the very strict contraints of the main content management platform (i.e. by essentially designing and making your own microsites on a separate server), then even if you have templates and are standardising your production, updating individual pieces of content with site-wide CSS changes when your entire site does a redesign is just going to be hard. Even the New York Times haven't solved this problem yet.
 
-####Life cycle of a news app
+#### Life cycle of a news app
 
 We should be thinking about lifecycles of more than just interactive news apps. What is the lifecycle of a story? a coverage topic? As for how to manage end-of-life gracefully: The biggest thing you can do is to have a plan for it
 
@@ -141,6 +141,6 @@ We should be thinking about lifecycles of more than just interactive news apps. 
 
 Slides [here](http://bit.ly/clgfx-nicar16)
 
-####Snackable and shareable dataviz
+#### Snackable and shareable dataviz
 
 Data visualisations tailored to the platform works better than viz that aren't. For most social platforms (twitter, snapchat etc) the key is to keep the message simple. Headline text is precious and should convey the main point.

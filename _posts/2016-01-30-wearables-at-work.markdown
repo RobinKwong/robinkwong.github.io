@@ -24,7 +24,7 @@ The story idea came from Sarah O’Connor, the FT’s employment correspondent:
 
 >Being tracked at work is already a reality for many people and the trend is likely to spread as wearable smart devices become more popular. Business use of wearables will raise privacy concerns and blur the line between home and office, but they also promise productivity gains and the ability to make workers “happier, healthier and wealthier”.
 
-##How we told the story
+## How we told the story
 
 We fitted Sarah O’Connor with wearable tracking devices for a week while she did her reporting.
 
@@ -88,7 +88,7 @@ Inspired by ProPublica’s [Amanda Zamora](http://journalismcourses.org/SMA2015.
 
 One problem we ran into was that it was difficult to come up with targets because we didn’t have similar past projects to compare this to.  In the end we just came up with something that we thought sounded reasonable.
  
-##What we found
+## What we found
 *What are the benefits to making our reporting process transparent and public?*
 
 One of the big reasons why we chose to report the wearables at work story this way was because it was still a very nascent phenomenon in June 2015. Not a lot of companies were asking employees to use work-issued wearables, and so we knew it was going to be difficult for Sarah to find sources and report the story in the  traditional way.
@@ -106,7 +106,7 @@ Overall, Facebook pages are not a great storytelling platform. Besides the pinne
 
 Instead, it is probably better used as a place for either journalists or projects to have a digital presence over a much longer period of time than just four days. 
 
-##What did this project take
+## What did this project take
 
 About 20 to 25 full person-days of work, split between Robin Kwong, Sarah O’Connor, Nalini Sivathasan, Aleksandra Wisniewska and Kari Ruth-Pedersen.
   
