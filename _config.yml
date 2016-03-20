@@ -1,0 +1,13 @@
+# Site settings
+title: Robin Kwong | Project management in newsrooms
+baseurl: ""
+url: "http://www.robinkwong.com"
+description: "Personal website of Robin Kwong, special projects editor of the Financial Times, where he writes about project management in newsrooms and design thinking in journalism"
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap

@@ -1,0 +1,25 @@
+/* ==========================================================================
+   LAYOUT/ARTICLE
+   ========================================================================== */
+
+.article {
+  margin-bottom: 100px;
+  font-family: $f-serif;
+  
+  .post-title {
+  font-family: $f-sans-serif;
+  }
+
+  .post-meta {
+  font-family: $f-sans-serif;
+  }
+
+  h2 {
+  font-family: $f-sans-serif;
+  } 
+
+}
+
+iframe {
+  margin: 0 auto;
+}
