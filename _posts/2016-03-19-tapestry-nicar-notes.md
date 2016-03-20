@@ -7,9 +7,9 @@ tags: [digital, media, storytelling, data journalism]
 
 I went to the [Tapestry](www.tapestryconference.com) and [NICAR](http://www.ire.org/conferences/nicar2016/) conferences in Denver earlier this month. Here are my notes. These are thoughts triggered by the sessions and not comprehensive summaries.
 
-##Tapestry
+## Tapestry
 
-####From [Scott Klein's](https://twitter.com/kleinmatic) talk
+#### From [Scott Klein's](https://twitter.com/kleinmatic) talk
 
 Literacy in data visualisation is by no means an unstoppable march of progress. Ever since newspapers [first published](https://www.propublica.org/nerds/item/infographics-in-the-time-of-cholera) graphics in its pages, each generation of visual journalist has had to re-educate the public on how to read and interpret their work. Literacy of certain graphical forms can and has been lost &mdash; during the American civil war newspaper often published complex battle maps without extensive explanations because they were prevalent. Today we would find them hard to comprehend. This leads to some important questions:
 
