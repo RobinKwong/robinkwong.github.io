@@ -137,7 +137,7 @@ If you are working outside the very strict contraints of the main content manage
 
 We should be thinking about lifecycles of more than just interactive news apps. What is the lifecycle of a story? a coverage topic? As for how to manage end-of-life gracefully: The biggest thing you can do is to have a plan for it
 
-####Command line graphics
+#### Command line graphics
 
 Slides [here](http://bit.ly/clgfx-nicar16)
 
