@@ -50,7 +50,7 @@ This is more sweeping, analytical, and definitive.
 
 We hoped that this would generate greater interest in the project, encourage readers to share their own stories, and point us towards future stories on this topic.
 
-##What was new for the FT
+## What was new for the FT
 
 * Publish parts of a story or video, before assembling the best parts into a final, longer piece
 
@@ -89,7 +89,7 @@ Inspired by ProPublica’s [Amanda Zamora](http://journalismcourses.org/SMA2015.
 One problem we ran into was that it was difficult to come up with targets because we didn’t have similar past projects to compare this to.  In the end we just came up with something that we thought sounded reasonable.
  
 ## What we found
-*What are the benefits to making our reporting process transparent and public?*
+### What are the benefits to making our reporting process transparent and public?
 
 One of the big reasons why we chose to report the wearables at work story this way was because it was still a very nascent phenomenon in June 2015. Not a lot of companies were asking employees to use work-issued wearables, and so we knew it was going to be difficult for Sarah to find sources and report the story in the  traditional way.
 
@@ -99,7 +99,7 @@ We had a thousand followers by the end of the live stage. The link to the final 
 
 But those are small overall numbers even for the FT, and given the amount of effort we put in to achieve that result, it is not clear that this was a better approach compared to conventional ways of promotion and digital distribution.
 
-*How would we tell a story natively on Facebook? (as opposed to just publishing articles onto Facebook)*
+### How would we tell a story natively on Facebook? (as opposed to just publishing articles onto Facebook)
 
 We found that videos work much better than text. Short text snippets work better than long, considered articles.
 Overall, Facebook pages are not a great storytelling platform. Besides the pinned post, there is almost no control post curation. Facebook’s newsfeed algorithms and low organic reach for posts make it impossible to rely on any follower ever having seen an earlier post.
