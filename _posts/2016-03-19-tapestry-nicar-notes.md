@@ -107,7 +107,7 @@ Complex data visualisations do not work on screen. What works are people, confro
 
 One very good discipline: TV reporters are told that just because they have the numbers or even the incriminating documents, they *do not* have a story until they have the people (and the tape).
 
-####How should news app teams respond to era of distributed news
+#### How should news app teams respond to era of distributed news
 
 Etherpad [here](https://public.etherpad-mozilla.org/p/opennews-2016-NICAR-conversations-distributed-news)
 
