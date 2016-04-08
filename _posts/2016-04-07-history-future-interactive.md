@@ -86,4 +86,4 @@ As Evan Ratliff wrote in [*The Life and Death and Life of Magazines*](https://ev
 
 There may not necessarily be a linear march of progress towards greater literacy and sophistication. Periods when great art, and great pieces of journalism in new formats, may come and go in cycles. But all the signs point towards this being the part of the cycle that favours the creation of ambitious and experimental works. In that, I find my optimism for the future of interactive news.
 
-*What to read next: [Hot vs Cold](../02/2016-02-29-hot-vs-cold)
+*What to read next: [Hot vs Cold](../02/2016-02-29-hot-vs-cold)*
