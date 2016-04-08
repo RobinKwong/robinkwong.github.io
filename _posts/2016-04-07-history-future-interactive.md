@@ -57,7 +57,7 @@ A similar discussion is taking place among interactive documentary makers. In Po
 
 ![](/images/horse.gif)
 
-It is useful to think of news as art. Ambitious, original pieces of journalism are testimonies to historical moments. Their goal is not just to provide information, but also to interpret the world and provide a directed experience to its audience &mdash; goals shared by works of art. The two are not completely identical, of course. Journalism has an explicit obligation to provide truthful information that art doesn't always have.
+It is useful to think of news in terms of art. Ambitious, original pieces of journalism often are testimonies to historical moments. Their goal is not just to provide information, but also to interpret the world and provide a directed experience to its audience &mdash; goals shared by works of art. The two are not completely identical, of course. Journalism has an explicit obligation to provide fact-based information that art doesn't always have.
 
 The main benefit of thinking of news as art is that we can draw on a rich history of philosophical thought about the impact of digital disruption.
 
