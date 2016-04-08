@@ -3,6 +3,7 @@ layout: post
 title: What history can tell us about the future of interactive journalism
 date: 2016-04-08 00:30
 tags: [digital, media, storytelling, journalism, history, games studies, visual journalism]
+permalink: /history/
 ---
 
 [*Infographics in the time of cholera*, Scott Klein](https://www.guernicamag.com/daily/scott-klein-infographics-in-the-time-of-cholera/)
@@ -84,3 +85,5 @@ As Evan Ratliff wrote in [*The Life and Death and Life of Magazines*](https://ev
 > Great magazine pieces, after all, grow out of a simple transaction: an editor saying yes to an idea and, in turn, to a writer. Yes to investing in a writer who will risk her time and even safety to venture into the world and return with a story that makes sense of it. Yes to a writer brave enough to lay bare her own personal past as a window into an important issue. Yes to a writer who imparts her intellect and humor in a fresh perspective on art or culture. (Of course, great magazine writing involves more than just saying yes. It involves the editor eventually saying no: no to lazy phrasing, no to shaky facts, no to reporting shortcuts. When longform writing fails—as it did dangerously in widely-discussed incidents in Grantland and Rolling Stone not long ago, it is not because of the names we give it, the hashtags we apply to it, or its word-count ambitions. It fails because an editor declined to say no to facts that weren’t checked, or to a piece whose ambition had overstepped its humanity.)
 
 There may not necessarily be a linear march of progress towards greater literacy and sophistication. Periods when great art, and great pieces of journalism in new formats, may come and go in cycles. But all the signs point towards this being the part of the cycle that favours the creation of ambitious and experimental works. In that, I find my optimism for the future of interactive news.
+
+*What to read next: [Hot vs Cold](../02/2016-02-29-hot-vs-cold)
