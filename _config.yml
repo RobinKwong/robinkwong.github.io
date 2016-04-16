@@ -6,6 +6,7 @@ description: "Personal website of Robin Kwong, special projects editor of the Fi
 # Build settings
 include: [_pages]
 markdown: kramdown
+encoding: utf-8
 permalink: /:year/:month/:title
 sass:
   style: compressed
