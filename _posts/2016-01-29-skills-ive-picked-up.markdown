@@ -21,3 +21,5 @@ Proud to say that I now know a tiny smidgen about:
 * Human-centered design
 * Social media analytics
 * GIF/Meme-fu
+
+*What to read next*: [How we did it: Wearables at Work](../01/wearables-at-work)
