@@ -23,6 +23,10 @@
     flex-wrap: wrap;
   }
 
+  p > a {
+    max-width: 90%;
+  }
+
   span {
     color: rgba(#fff, .65);
     font-size: 14px;
