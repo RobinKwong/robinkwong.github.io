@@ -45,3 +45,5 @@ For example, “How best to tell a story?” used to be a relatively easy questi
 The editorial judgement to answer that question still rests firmly on the shoulder of the editor. But the workload and skill required to actually carry it out increases with both the scale of the project and how experimental it is.
 
 At some point it crosses the threshold from being a one-person job to being two distinct specialisations. The trick for newsrooms is knowing when it does so.
+
+*What to read next:* [What history can tell us about the future of interactive journalism](/history/)

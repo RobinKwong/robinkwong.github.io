@@ -46,3 +46,5 @@ New jobs or skills needed:
 
 - Gif gurus (though probably already among skillset of most social media editors)
 - Narrative designers, i.e. people who are currently employed by Bioware to design complex dialogue trees (for longform)
+
+What to read next: [Notes from the Tapestry and NICAR conferences](../03/tapestry-nicar-notes/)

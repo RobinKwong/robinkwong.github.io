@@ -27,4 +27,4 @@ Fortunately, newsrooms are not alone nor the first to face these issues: startup
 
 It’s time to change that. We live in chaotic times, and we need people who can help [tame chaos](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/), [crush entropy](http://randsinrepose.com/archives/entropy-crushers/), and free our journalists, designers and coders to do what they do best.
 
-*Next: [Why editors &#8774; project managers](/editors/)*
+*What to read next*: [Why editors &#8774; project managers](/editors/)

@@ -112,3 +112,5 @@ Instead, it is probably better used as a place for either journalists or project
 About 20 to 25 full person-days of work, split between Robin Kwong, Sarah O’Connor, Nalini Sivathasan, Aleksandra Wisniewska and Kari Ruth-Pedersen.
   
 In addition, we had support from Charlie Bibby, Petros Gioumpasis, Russell Birkett, Sarah Laitner, Maija Palmer, Michael Bruning and Karishma Kothari. Adam Jones’s team edited and produced the Business Life piece. Martin Stabe produced the podcast. Lloyd Thatcher designed the logo.
+
+*What to read next*: [Why newsrooms need project managers](/project-managers/)
