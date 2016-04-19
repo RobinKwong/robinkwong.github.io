@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help me build a bot&#42; to take my job
-date: 2016-04-19 23:00
+date: 2016-04-19 20:00
 tags: [altMBA project, goals, project management, tools]
 permalink: /build-bot-take-job/
 ---
