@@ -11,7 +11,7 @@ That advice has served me well in managing projects from [Digital Hunter Gathere
 
 Except&hellip;
 
-I’ve done this so many times now that it really is time to refactor for reuse. So here is my goal: I want to create a tool that will help other Financial Times editors do what I have become quite good at: running series and managing projects. I will produce this tool in three months time, by July 19.
+I’ve done this so many times now that it really is time to refactor for reuse. So here is my goal: I want to create a tool that will help other Financial Times editors do what I have become quite good at: running series and managing projects. I will produce this tool in three months' time, by July 19.
 
 This tool should be a newsroom resource for editors when they are put in charge of running a series or project. It should guide them through the process, ensure they enlist and notify the right people, and make sure that sufficient time is allocated for each part of the process.
 
@@ -21,7 +21,7 @@ It should make editors’ lives easier, not more complicated. It needs to be ver
 
 I hope this tool will help my colleagues and be of lasting value to the newsroom, but there is a personal motivation for why I’m doing this as well. Creating this tool and convincing editors to use it will reduce my workload because the alternative at the moment is for me to personally get involved to help. It will also be my first significant achievement and ‘deliverable’ in my new role as [special projects editor](/about/) of the FT.
 
-I have a plan for how to do this. Writing this document is step one.
+I have a plan for how to do this. Writing this document is part of step one.
 
 1. Set out the goals, scope and measures of success
 
