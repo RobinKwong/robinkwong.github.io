@@ -5,12 +5,11 @@ date: 2016-04-19 20:00
 tags: [altMBA project, goals, project management, tools]
 permalink: /build-bot-take-job/
 ---
-
 Brian Boyer, visuals editor at National Public Radio, once [gave some great advice](http://happyhacks.tumblr.com/post/99315291125/build-for-use-refactor-for-reuse) on how to approach a project. “Build for use, refactor for reuse”: Humans are bad at predicting things and technology changes rapidly, so you’re often better off just solving the problem at hand.
 
 That advice has served me well in managing projects from [Digital Hunter Gatherer](http://www.ft.com/intl/cms/s/0/f840dbc0-d34f-11e2-b3ff-00144feab7de.html), a reporting series on the multi-billion dollar data brokers industry back in 2013, to our most recent series on the upcoming [Brexit referendum](http://www.ft.com/brexit). 
 
-Except…
+Except&hellip;
 
 I’ve done this so many times now that it really is time to refactor for reuse. So here is my goal: I want to create a tool that will help other Financial Times editors do what I have become quite good at: running series and managing projects. I will produce this tool in three months time, by July 19.
 
@@ -54,5 +53,7 @@ So, I turn to you, dear reader: Got ideas? Suggestions? Tips? Places for me to l
 I am on robin.kwong@ft.com and I would love to get your help.
 
 \* *Might not actually end up being a bot* 
+
+---
 
 *What to read next*: [How we did it: Wearables at Work](../01/wearables-at-work)
