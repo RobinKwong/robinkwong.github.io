@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AltMBA Grids and Gestures
-date: 2016-05-15 09:00
+date: 2016-05-15 02:00
 tags: [altMBA project, gridsgestures, diary]
 permalink: /gridsgestures/
 ---
