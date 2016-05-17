@@ -98,6 +98,9 @@ Here are my grids for the past four weeks, in chronological order:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Last weekend of the <a href="https://twitter.com/alt_MBA">@alt_MBA</a>. Can&#39;t believe four weeks have gone by so quickly. <a href="https://twitter.com/hashtag/gridsgestures?src=hash">#gridsgestures</a> <a href="https://t.co/tEex94YeVO">pic.twitter.com/tEex94YeVO</a></p>&mdash; Robin Kwong (@RobinKwong) <a href="https://twitter.com/RobinKwong/status/731769580419465216">May 15, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sunday, May 15 <a href="https://twitter.com/hashtag/gridsgestures?src=hash">#gridsgestures</a> <a href="https://t.co/3rn4u2s2Wn">pic.twitter.com/3rn4u2s2Wn</a></p>&mdash; Robin Kwong (@RobinKwong) <a href="https://twitter.com/RobinKwong/status/732113710110638080">May 16, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 *What to read next*: [Help me build a bot* to take my job](/build-bot-take-job/)
