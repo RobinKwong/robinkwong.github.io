@@ -101,6 +101,12 @@ Here are my grids for the past four weeks, in chronological order:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Sunday, May 15 <a href="https://twitter.com/hashtag/gridsgestures?src=hash">#gridsgestures</a> <a href="https://t.co/3rn4u2s2Wn">pic.twitter.com/3rn4u2s2Wn</a></p>&mdash; Robin Kwong (@RobinKwong) <a href="https://twitter.com/RobinKwong/status/732113710110638080">May 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Forgot to post this earlier. Penultimate <a href="https://twitter.com/hashtag/gridsgestures?src=hash">#gridsgestures</a> <a href="https://twitter.com/alt_MBA">@alt_MBA</a> entry. Full collection here <a href="https://t.co/2GxuTc57Ls">https://t.co/2GxuTc57Ls</a> <a href="https://t.co/7BeY36jTDh">pic.twitter.com/7BeY36jTDh</a></p>&mdash; Robin Kwong (@RobinKwong) <a href="https://twitter.com/RobinKwong/status/732561433909678084">May 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">End of <a href="https://twitter.com/alt_MBA">@alt_MBA</a> but the start of many exciting new projects. Thank you <a href="https://twitter.com/Nsousanis">@Nsousanis</a> for teaching me <a href="https://twitter.com/hashtag/gridsgestures?src=hash">#gridsgestures</a> <a href="https://t.co/h5EoyZXvZD">pic.twitter.com/h5EoyZXvZD</a></p>&mdash; Robin Kwong (@RobinKwong) <a href="https://twitter.com/RobinKwong/status/732838317205622784">May 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 *What to read next*: [Help me build a bot* to take my job](/build-bot-take-job/)
