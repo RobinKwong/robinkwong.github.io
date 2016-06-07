@@ -2,7 +2,7 @@
 layout: post
 title: How to get more out of your newsroom experiments
 date: 2016-05-21 09:00
-tags: [experiments, process, poynter]
+tags: [experiments, process, poynter, press]
 permalink: /experiments/
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Journalism&#46;co&#46;uk podcast
 date: 2016-02-15 20:00
-tags: [digital, podcast, project management]
+tags: [digital, podcast, project management, press]
 ---
 I was a guest on this week's journalism.co.uk podcast, together with Katharine Bailey, head of news products at the Wall Street Journal.
 
