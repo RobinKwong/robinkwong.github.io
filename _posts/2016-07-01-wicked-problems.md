@@ -10,7 +10,7 @@ _Wicked problems in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Bu
 
 ### What problems are we actually solving for our subscribers?
 
-What do people actually want to pay us money for? Why do we exist as a sustainable business? The answer is not as straightforward as just 'the provision of information'. For any well-established 'legacy' media, there are bound to be multiple answers, valued differently by different their different customers: We help people make decisions. We entertain. We help build a better society. We help form and express your self-identity. 
+What do people actually want to pay us money for? Why do we exist as a sustainable business? The answer is not as straightforward as just 'the provision of information'. For any well-established 'legacy' media, there are bound to be multiple answers, valued differently by their different customers: We help people make decisions. We entertain. We help build a better society. We help form and express your self-identity. 
 
 None of these are new: We have long held certain implicit assumptions about what problems we solved by delivering our print newspaper daily to people's front doors. The issue is that it has been too long since we were forced to consciously consider this question, and it is unclear both how many of these problems still exist, and whether they are still being solved by our products.
 
