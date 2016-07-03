@@ -18,7 +18,7 @@ None of these are new: We have long held certain implicit assumptions about what
 
 What should we do when our customers no longer look to us to solve some of those problems for them? Or when there is no obvious way to digitally replicate past solutions (For example: Giving customers a way to be seen as the sort of financially literate, serious person who would carry a copy of the Financial Times newspaper in the subway)?
 
-On the other hand, we can now, in theory, better understand our customers. We can untangle their morass of mixed motivations and target specific problems with custom solutions. (For example: Some people have a fear of missing out and wanted a reliable daily catchup/roundup they can complete to assuage that fear, and so the Economist's Espresso newsletter and the [Quartz news app](../02/quartz-news-app) were born.)
+On the other hand, we can now, in theory, better understand our customers. We can untangle their morass of mixed motivations and target specific problems with custom solutions. (For example: Some people have a fear of missing out and wanted a reliable daily catchup/roundup they can complete to assuage that fear, and so the Economist's Espresso newsletter and the [Quartz news app](../2016/02/quartz-news-app) were born.)
 
 All business model innovations are either [bundling or unbundling](https://hbr.org/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money/). The history of established companies succeeding at unbundling their own existing products (and rebundling them) is &hellip; not great.
 
