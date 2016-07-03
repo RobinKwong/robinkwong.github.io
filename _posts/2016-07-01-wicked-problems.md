@@ -8,7 +8,7 @@ permalink: /wicked/
 
 _Wicked problems in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Buchanan](https://en.wikipedia.org/wiki/Richard_Buchanan_(academic)) sense of having [fundamental indeterminacy](http://www.coop2012.files.wordpress.com/2012/01/buchanan_wicked_problems.pdf)_
 
-**What problems are we actually solving for our subscribers?**
+## What problems are we actually solving for our subscribers?
 
 What do people actually want to pay us money for?
 
@@ -22,11 +22,11 @@ On the other hand, we can now, in theory, better understand our customers. We ca
 
 All business model innovations are either [bundling or unbundling](https://hbr.org/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money/). The history of established companies succeeding at unbundling their own existing products (and rebundling them) is &hellip; not great.
 
-**What platforms and formats should we optimise for?** 
+## What platforms and formats should we optimise for? 
 
 Should we only be on platforms that we are optimising our content for, or are we ok putting our content out on platforms without specifically optimising for it? (For example: Just use the article headline as the tweet text). Resource-wise, how many platforms can we afford to optimise for?
 
-**Should platform and format decisions be made on business model considerations or on storytelling considerations?**
+## Should platform and format decisions be made on business model considerations or on storytelling considerations?
 
 From a purely storytelling perspective, formats are not equal or fungible: some information and experiences are best conveyed through certain formats. 
 
@@ -42,11 +42,11 @@ Newspaper editors make these sorts of judgments daily about text formats ("This 
 
 The vast expansion of storytelling tools that come with digital will remain a mostly unrealised opportunity until we can figure that out. Until then, news organisations will continue to try to solve their customers' problems through formats in ways that are fundamentally disconnected from storytelling.
 
-**How do we get from here to there?**
+## How do we get from here to there?
 
 Especially when we can't rely on ever having a clear view of what 'there' is before we start acting and changing? How, in other words, do we get better at [experimentation](/experiments/), building up incremental improvements, and applying design thinking?
 
-**How should we be organised?**
+## How should we be organised?
 
 For most large news organisations, the starting point is a waterfall workflow within clearly defined desk structures. That won't go away overnight, but what now needs to be handled in a project team? 
 
