@@ -6,9 +6,9 @@ tags: [goals, business models, journalism]
 permalink: /wicked/
 ---
 
-_Wicked problems, in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Buchanan](https://en.wikipedia.org/wiki/Richard_Buchanan_(academic)) sense of having [fundamental indeterminacy](http://www.coop2012.files.wordpress.com/2012/01/buchanan_wicked_problems.pdf)_
+_Wicked problems in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Buchanan](https://en.wikipedia.org/wiki/Richard_Buchanan_(academic)) sense of having [fundamental indeterminacy](http://www.coop2012.files.wordpress.com/2012/01/buchanan_wicked_problems.pdf)_
 
-**What problems are we actually solving for our subscribers?
+**What problems are we actually solving for our subscribers?**
 
 What do people actually want to pay us money for?
 
