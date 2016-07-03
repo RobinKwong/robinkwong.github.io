@@ -6,9 +6,11 @@ tags: [goals, business models, journalism]
 permalink: /wicked/
 ---
 
-Wicked problems, in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Buchanan](https://en.wikipedia.org/wiki/Richard_Buchanan_(academic)) sense of having [fundamental indeterminacy](http://www.coop2012.files.wordpress.com/2012/01/buchanan_wicked_problems.pdf)
+_Wicked problems, in the [Rittel](https://en.wikipedia.org/wiki/Horst_Rittel)/[Buchanan](https://en.wikipedia.org/wiki/Richard_Buchanan_(academic)) sense of having [fundamental indeterminacy](http://www.coop2012.files.wordpress.com/2012/01/buchanan_wicked_problems.pdf)_
 
-**What problems are we actually solving for our subscribers?** _i.e. What do people actually want to pay us money for?_ 
+**What problems are we actually solving for our subscribers?
+
+What do people actually want to pay us money for?
 
 Why do we exist as a sustainable business? The answer is not as straightforward as just 'the provision of information'. For any well-established 'legacy' media, there are bound to be multiple answers, valued differently by different their different customers: We help people make decisions. We entertain. We help build a better society. We help form and express your self-identity. 
 
