@@ -26,5 +26,6 @@ These are articles, books, videos and podcasts that I find myself returning to o
 - [The world's simplest idea](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/transcript?language=en)
 - [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/), Rands in Repose
 - [How to plan](https://lengstorf.com/effective-project-planning/)
+- [How to decide what to work on](http://jvns.ca/blog/2016/08/16/how-do-you-work-on-something-important/)
 - [Conducting retrospectives](http://happyhacks.tumblr.com/post/116464561825/conduct-regular-retrospectives)
 - [How to give presentations](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
