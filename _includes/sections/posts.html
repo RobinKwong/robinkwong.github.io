@@ -3,7 +3,7 @@
   <ul class="list">
     {% for item in site.posts %}
     <li>
-      <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="project-date">{{ item.date | date:"%m/%Y"}}</span></p>
+      <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="date">{{ item.date | date:"%m/%Y"}}</span></p>
     </li>
     {% endfor %}
   </ul>
