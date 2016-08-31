@@ -1,13 +1,22 @@
 <section class="section">
-  <h2 class="section-title"><span>&#20845;</span><span>Recommendations</span></h2>
-  <p>"Have you seen this yet?" has been the subject line of so many of my emails that I've decided instead to post one new link a week here to something relating to digital or visual journalism.
+  <h2 class="section-title"><span>&#20845;</span><span>Reads</span></h2>
+  <div class="section-content body">
+  <p><i>"Have you seen this yet?"</i></p> 
+  <p>Weekly recommendations of articles pertinent to digital and visual journalism.</p>
 
-  The latest:</p>
-  <ul class="list">
-   	{% for item in site.data.recommendations  %}
+  <p>The latest:</p>
+  <ul class="recommendations list">
+      {% for item in site.data.recommendations limit:1 %}
       <li>
-        <p><a target="_blank" href="{{ item.url }}">{{ item.title }}</a> <span class="project-date">{{ item.date }}</span></p>
+        <span class="date">{{ item.date }}</span><br>
+        {{ item.title }}
+        <p>
+        {{ item.description }}
+        </p>
       </li>
-    {% endfor %}
+
+      {% endfor %}
   </ul>
+  <p><a href="/recommendations/">&#8594; Past recommendations</a></p>
+  </div>
 </section>
