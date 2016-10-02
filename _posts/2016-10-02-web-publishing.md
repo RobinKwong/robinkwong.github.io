@@ -4,7 +4,7 @@ title: Eight questions to ask before committing to any web publishing platform
 date: 2016-10-02 09:00
 tags: [purpose, publishing, platforms, distributed content]
 permalink: /web-publishing/
-redirect_from: "/medium"
+redirect_from: "/medium/"
 ---
 Anyone who wants to publish content on the web faces a bewildering array of choices these days. They could use Medium or Wordpress, post directly on LinkedIn or Facebook, or use Squarespace or Wix to help them build a website.
 
