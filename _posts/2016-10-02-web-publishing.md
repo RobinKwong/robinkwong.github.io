@@ -6,11 +6,11 @@ tags: [purpose, publishing, platforms, distributed content]
 permalink: /web-publishing/
 redirect_from: "/medium/"
 ---
-Anyone who wants to publish content on the web faces a bewildering array of choices these days. They could use Medium or Wordpress, post directly on LinkedIn or Facebook, or use Squarespace or Wix to help them build a website.
+Anyone keen to write on the web faces a bewildering array of choices: They could use Medium or Wordpress, post directly on LinkedIn or Facebook, or use Squarespace or Wix to help them build a website. Or, if they want to dig deeper, they could explore [this list](https://github.com/postlight/awesome-cms) of web content management systems.
 
-When I started this site, I considered all these options &mdash; and chose none of them in the end. Instead, I built www.robinkwong.com using a heavily-modified Jekyll template, and am hosting it on Github pages. I also chose not to use any audience analytics or tracking cookies. 
+When I started this site, I decided to build [www.robinkwong.com](http://www.robinkwong.com) using a heavily-modified Jekyll template, and to host it on Github pages. I also chose not to use any audience analytics or tracking cookies. 
 
-I arrived at these decisions through asking myself a series of questions that, I think, are important not just for neophyte bloggers, but for any content producer having to deal with increasingly powerful web platforms in an age of distributed content.
+I arrived at these decisions through asking myself a series of questions that are important not just for neophyte bloggers, but for any content producer having to deal with increasingly powerful web platforms in an age of distributed content.
 
 ## What's the site for?
 Why does your site exist? Knowing the answer to that question makes the subsequent questions a lot easier to answer.
