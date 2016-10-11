@@ -44,7 +44,7 @@ It has also spawned new forms. Note the heavy use of annotations here.
 
 It is tempting to see this as a march of progress that leads to ever-greater literacy and sophistication in visual journalism. Instead, I am struck by the prospect that we might simply be repeating past historical cycles. 
 
-At this year’s [NICAR and Malofiej conferences](../03/tapestry-nicar-notes), two different strands of thought emerged about the future direction of interactive news. One was Gregor’s call to arms to produce works that derives value uniquely from their interactivity.
+At this year’s [NICAR and Malofiej conferences](../2016/03/tapestry-nicar-notes), two different strands of thought emerged about the future direction of interactive news. One was Gregor’s call to arms to produce works that derives value uniquely from their interactivity.
 
 The second came broadly from [Archie Tse](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf) and [Lena Groeger’s](http://bit.ly/malofiej24) talks at Malofiej.  Archie’s rules for visual storytelling and Lena’s coining of the ‘rhetorical scroll’ both emphasised how and when interactivity (in its broadest sense) should be used in the service of storytelling.
 
