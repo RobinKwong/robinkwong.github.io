@@ -10,7 +10,7 @@ When I tell people I will be going on sabbatical for much of November and Decemb
 
 I've mostly just been saying "nothing", or "I'll just rest and relax", or "maybe I'll do some travelling. I don't know yet"
 
-But, to be honest, I *do* know what I want to do. I've just been too embarassed to admit it. But hey, people probably already think I'm weird and/or a nerd, so here it is. A(n evolving) list of the things I'm actually looking forward to doing during my sabbatical. 
+To be honest, I *do* know what I want to do. I've just been too embarassed to admit it. But hey, people probably already think I'm weird and/or a nerd, so here it is. A(n evolving) list of the things I'm actually looking forward to doing during my sabbatical. 
 
 - Read [Jonne Arjoranta](https://twitter.com/jaranta)'s academic paper on the [hermaneutic challenge in King of Dragon Pass](http://www.academia.edu/27610983/What_Does_it_Mean_to_be_Orlanthi_Hermeneutic_Challenge_in_King_of_Dragon_Pass). In fact, read all of his [papers](http://jyu.academia.edu/JonneArjoranta)
 - Finish listening to every single [Design Matters](http://www.debbiemillman.com/designmatters/) podcast episode. Yes, all 260 of them.
