@@ -24,3 +24,5 @@ To be honest, I *do* know what I want to do. I've just been too embarassed to ad
 - Go birdwatching at Sevenoaks nature reserve
 - Finish walking the [London Loop](https://tfl.gov.uk/modes/walking/loop-walk). We've done up to section 11 (out of 23)
 - Write posts, on here
+
+*What to read next*: [The first 180 days of a special projects editor](/180-days/) 
