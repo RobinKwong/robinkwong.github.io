@@ -16,7 +16,8 @@ To be honest, I *do* know what I want to do. I've just been too embarassed to ad
 - Finish listening to every single [Design Matters](http://www.debbiemillman.com/designmatters/) podcast episode. Yes, all 260 of them.
 - Play Civ 6. For the *entire* time
 - Take this [Introduction to Complexity](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016) mooc
-- Read Drucker's *Managing for Results* and *Managing in Turbulent Times*  
+- Read Drucker's *Managing for Results* and *Managing in Turbulent Times*
+- Attend NYU Game Center's [Practice conference](http://gamecenter.nyu.edu/events/practice/practice-2016/)
 - Finish reading the last 292 pages of Neal Stephenson's *Seveneves* (which I have only just realised is a palindrome)
 - Finish watching season 2 of Chef's Table
 - Watch Mr Robot (both seasons)
