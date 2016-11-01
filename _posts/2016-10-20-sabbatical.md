@@ -23,6 +23,8 @@ To be honest, I *do* know what I want to do. I've just been too embarassed to ad
 - Watch Mr Robot (both seasons)
 - Go birdwatching at Sevenoaks nature reserve
 - Finish walking the [London Loop](https://tfl.gov.uk/modes/walking/loop-walk). We've done up to section 11 (out of 23)
+- Actually do the design exercises in [Elizabeth Sampat's book](https://www.patreon.com/twoscooters)
+- Play around with Aframe and basic coding in VR
 - Write posts, on here
 
 *What to read next*: [The first 180 days of a special projects editor](/180-days/) 
