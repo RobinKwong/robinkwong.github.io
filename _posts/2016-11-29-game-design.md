@@ -31,3 +31,5 @@ I received some great advice and recommendations in that 4-minute rapid fire ses
 - Michael Block
 - *Peace Maker*
 - *Syrian Journey: Choose your own escape route*
+
+*What to read next*: [PRACTICE 2016 conference notes](/practice16/)
