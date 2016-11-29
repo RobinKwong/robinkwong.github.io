@@ -2,11 +2,11 @@
 layout: post
 title: Open problem: Using game design techniques in journalism
 date: 2016-11-29 09:00
-tags: [journalism, game desing, practice2016]
+tags: [journalism, game design, digital, conference, games]
 permalink: /game-design/
 ---
 
-At the [Practice game design conference](http://gamecenter.nyu.edu/events/practice/practice-2016/) in New York in November, I had the opportunity to present an 'open problem' to the assembled group of designers and practitioners in attendance. 
+At the [PRACTICE 2016 game design conference](http://gamecenter.nyu.edu/events/practice/practice-2016/) in New York in November, I had the opportunity to present an 'open problem' to the assembled group of designers and practitioners in attendance. 
 
 I'm interested in using game design techniques in journalism, so the problem I presented was: 
 
