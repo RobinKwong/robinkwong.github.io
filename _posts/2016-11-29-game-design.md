@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Open problem: Using game design techniques in journalism
-date: 2016-11-29 09:00
+title: Using game design techniques in journalism
+date: 2016-11-28 09:00
 tags: [journalism, game design, digital, conference, games]
 permalink: /game-design/
 ---
