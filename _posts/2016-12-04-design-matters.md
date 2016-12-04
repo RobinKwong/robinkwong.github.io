@@ -23,6 +23,8 @@ I worte a simple webscraper using [Beautiful Soup](https://www.crummy.com/softwa
 
 **The good news:** I've only already listened to 86 out of 270 episodes
 
+Here's the full list. I've greyed out the ones I've listened to.
+
 {% include millman_episodes.html %}
 
 *What to read next*: [Things I actually want to do during my sabbatical](/sabbatical/)
