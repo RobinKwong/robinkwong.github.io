@@ -1,0 +1,8 @@
+  <ul class="list">
+    {% for item in site.data.millman %}
+    <li{% if item.listened %} class="listened"{% endif %}>
+      <p><a href="{{ item.url }}">{{ item.name }}</a> <span class="date">{{ item.year | year:"%Y"}}</span></p>
+    </li>
+    {% endfor %}
+  </ul>
+  <p></p>
