@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So, how was your sabbatical?
+title: '"So, how was your sabbatical?"'
 date: 2016-12-09 09:00
 tags: [sabbatical, hobbies, interest, meditation]
 permalink: /sabbatical-summary/
