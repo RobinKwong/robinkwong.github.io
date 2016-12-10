@@ -17,39 +17,39 @@ I went into my sabbatical thinking: "Finally. Now that I don't have to go into t
 
 But now that it is drawing to an end, I realise that's not really what sabbaticals are for at all. Work is for producing output; sabbaticals are for digesting input.
 
-I think there are three useful things you could do to 'digest input' during a sabbatical:
+What I've learnt is that there are three things I could usefully do to 'digest input' during a sabbatical:
  
-### Widen your internal and external circles
+### Widen my internal and external circles
 
 I know it sounds like crazy hippie talk, but I do think there is something to the idea of expanding your consciousness and being more [open to allowing genius to descend upon your work](https://www.ted.com/talks/elizabeth_gilbert_on_genius/transcript?language=en).
 
 As David Lynch wrote, ideas are like fish: "Little fish swim on the surface, but the big ones swim down below. If you can expand the container you're fishing in &mdash; your consciousness &mdash; you can catch bigger fish."
 
-How do you expand that container, that internal circle? For me, meditation helps. Spending time with people that matter to me helps. Writing about it, as I am doing so now, helps. These are specific techniques, for which your mileage may vary, but the point is that they all facilitate a better understanding of who you are and why you do what you do. 
+How to expand that container, that internal circle? For me, meditation helps. Spending time with people that matter to me helps. Writing about it, as I am doing so now, helps. These are specific techniques that might not work for everyone, but for me, they facilitate a better understanding of who I am and why I do what I do. 
 
-This needs to be complemented by taking in outside stimuli to expand your external circle. Use your sabbatical to read, watch, listen or play. Go to conferences for industries adjacent to the fields you work in, and be a neophyte there. Acquire new literary or cultural heroes.
+At the same time, this needs to be complemented by taking in outside stimuli to expand my external circle. So I used my sabbatical to read, watch, listen and play. I went to conferences for industries adjacent to the field I work in. I acquired new literary and cultural heroes.
 
 ![](/images/fish.jpg)
 
 <p class="caption"><a href="https://www.flickr.com/photos/usdagov/13560800594/in/photolist-mEjDyN-2A36ni-ier2yn-an25SW-nXKetT-6iFc6f-84ERZj-ocmtUg-6daYS3-JqXRnN-dFm5Yg-4wJ7rp-7ks4SM-NznD9-6A2j1t-KzqqS-xcLdVb-AAmFK-oCh8Eg-4qHCDj-5gWhvD-5ghw7N-AAqSM-2eCbdE-cVwcF3-2A7swj-5ghw87-2ixtFk-7VBU5D-PmFMLR-2o3Pa9-4cGiq7-4wNfQj-4xmgWj-EuMksD-2bHd5A-6C5VVC-6tNLwY-rvyzMr-angwbe-brDyq5-71RjmL-7Rhxhx-bzsTEV-5dsrk3-dAxeiH-9qCKy6-5RcDJJ-4Sxux-oSBPhs" target="_blank">Cedar sculpin (Emily Harrington/E.H. Illustration)</a></p>
 
-### Check your trajectory
+### Check my trajectory
 
 As [Stefan Sagmeister says](https://soundcloud.com/designmatters/stefan-sagmeister), sabbaticals are the best strategy "to make sure that what I do remains a calling and doesn't deteriorate into a job, or into career".
 
-Use the time to reflect and make sure you're on the right track. Ask yourself: 
+I spent a fair amount of time reflecting and making sure I was on the right track. I asked myself: 
 
-- Are you still learning new things? 
-- What is the work you would do if you had your dream job? 
-- What's stopping you from doing that work now?
+- Am I still learning new things? 
+- What is the work I would do if I had my dream job? 
+- What's stopping me from doing that work now?
 
-Make course adjustments as necessary.
+I have some course adjustments in mind for 2017 as a result. Details to come in a later post.
 
 ### Form new habits
 
-If you are really determined to do something productive during your sabbatical, I can think of nothing else that would have more impact than to (try to) form a new habit.
+Despite all this, I still couldn't entirely give up on the idea that I ought to be doing something productive during my sabbatical. So I thought about what I could do that would have the biggest impact on my life &mdash; and yet was not work. The answer was to (try to) form a new habit.
 
-Habits are powerful. They're difficult to form consciously, but [it can be done](https://www.youtube.com/watch?v=OMbsGBlpP30). Going on sabbatical gives you an abrupt change from your daily routine, and a continuous chunk of uninterrupted time &mdash; conditions conducive to forming new habits. 
+Habits are powerful. They're difficult to form consciously, but [it can be done](https://www.youtube.com/watch?v=OMbsGBlpP30). Going on sabbatical was an abrupt change to my daily routine, and gave me a continuous chunk of uninterrupted time &mdash; conditions conducive to forming new habits. 
 
 But even then, it's not easy to do. I started exercising daily, but struggled at meditating daily, even though I'm more convinced of the benefits of the latter than the the former. Keeping it going beyond my sabbatical is a challenge I'm looking forward to.
 
