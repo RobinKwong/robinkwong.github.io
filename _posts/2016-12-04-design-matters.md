@@ -13,15 +13,15 @@ As David Bayles and Ted Orland wrote in *Art & Fear*:
 
 > It won't help you to know exactly what Van Gogh needed to gain or lose in order to get on with his work. What is worth recognizing is that Van Gogh needed to gain or lose at all, that his work was no more or less inevitable than yours, and that he &mdash; like you &mdash; had only himself to fall back on.
 
-I wanted to finish listening to all 269 Design Matters episodes during my sabbatical. I naïvely thought I was most of the way there already, even though I actually had no idea of my progress since I jumped around the episodes in my listening, and used different podcast apps.
+I wanted to finish listening to all 272 Design Matters episodes during my sabbatical. I naïvely thought I was most of the way there already, even though I actually had no idea of my progress since I jumped around the episodes in my listening, and used different podcast apps.
 
 So how will I know when I've finished? By building a database! The [Design Matters](http://www.debbiemillman.com/designmatters) site has a page for every episode. You can navigate through it by search or filters, but there's no single place with the full listing.
 
 I worte a simple webscraper using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to get the full list, and spent the better part of an afternoon going through the list manually to mark which ones I had already listened to.
 
-**The bad news:** I've actually only listened to 86 out of 270 episodes
+**The bad news:** I've actually only listened to 98 out of 272 episodes
 
-**The good news:** I've only already listened to 86 out of 270 episodes
+**The good news:** I've only already listened to 98 out of 272 episodes
 
 Here's the full list. I've greyed out the ones I've listened to.
 
