@@ -19,9 +19,9 @@ So how will I know when I've finished? By building a database! The [Design Matte
 
 I worte a simple webscraper using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) to get the full list, and spent the better part of an afternoon going through the list manually to mark which ones I had already listened to.
 
-**The bad news:** I've actually only listened to 107 out of 272 episodes
+**The bad news:** I've actually only listened to 115 out of 272 episodes
 
-**The good news:** I've only already listened to 107 out of 272 episodes
+**The good news:** I've only already listened to 115 out of 272 episodes
 
 Here's the full list. I've greyed out the ones I've listened to.
 
