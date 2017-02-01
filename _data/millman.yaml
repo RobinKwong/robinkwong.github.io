@@ -1,4 +1,14 @@
 -
+    name: Anil Dash
+    url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-anil-dash
+    year: 2017
+    listened: y
+-
+    name: Brian Koppelman
+    url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-brian-koppelman
+    year: 2017
+    listened: y
+-
     name: Adam J Kurtz
     url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-adam-j-kurtz
     year: 2016
@@ -6,7 +16,7 @@
 -
     name: Gail Bichler
     url: https://soundcloud.com/designmatters/gail-bichler
-    year: Feb-16
+    year: 2016
     listened: y
 -
     name: Cindy Gallop
@@ -502,7 +512,7 @@
     name: Michael Rock 
     url: http://www.debbiemillman.com/designmatters/michael-rock/
     year: 2013
-    listened: 
+    listened: y
 -
     name: Maggie Macnab 
     url: http://www.debbiemillman.com/designmatters/maggie-macnab/
