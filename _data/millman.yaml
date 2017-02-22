@@ -1,9 +1,13 @@
 -
+    name: Nicholas Blechman 
+    url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-nicholas-blechman
+    year: 2017
+    listened: y
+-
     name: Seth Godin
     url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-seth-godin
     year: 2017
     listened: y
-
 -
     name: Anil Dash
     url: https://soundcloud.com/designmatters/design-matters-with-debbie-millman-anil-dash
@@ -578,12 +582,12 @@
     name: Roberto de Vicq de Cumptich 
     url: http://www.debbiemillman.com/designmatters/roberto-de-vicq-de-cumptich/
     year: 2013
-    listened: 
+    listened: y
 -
     name: Sophie Blackall 
     url: http://www.debbiemillman.com/designmatters/sophie-blackall/
     year: 2013
-    listened: 
+    listened: y
 -
     name: Jen Bilik 
     url: http://www.debbiemillman.com/designmatters/jen-bilik/
@@ -708,7 +712,7 @@
     name: Martin Venezky 
     url: http://www.debbiemillman.com/designmatters/martin-venezky/
     year: 2011
-    listened: 
+    listened: y
 -
     name: Peter Mendelsund 
     url: http://www.debbiemillman.com/designmatters/peter-mendelsund/
@@ -1365,12 +1369,12 @@
     year: 2005
     listened: 
 -
-    name: Grant McCracken, Part 2 
+    name: Grant McCracken, Part 2
     url: http://www.debbiemillman.com/designmatters/grant-mccracken-part-2/
     year: 2005
     listened: 
 -
-    name: Grant McCracken, Part 1 
+    name: Grant McCracken, Part 1
     url: http://www.debbiemillman.com/designmatters/grant-mccracken-part-1/
     year: 2005
     listened: 
