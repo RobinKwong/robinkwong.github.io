@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What a newsroom project management toolkit might look like
+title: A newsroom project management toolkit
 date: 2017-03-15 09:00
 tags: [journalism, digital, press, project management]
 permalink: /project-toolkit/
