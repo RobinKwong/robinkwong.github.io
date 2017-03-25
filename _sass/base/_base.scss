@@ -31,3 +31,11 @@ a {
     color: rgba(#fff, .5);
   }
 }
+
+@media (max-width: 767px) {
+  
+  body {
+    font-size: 18px;
+  }
+
+}
