@@ -40,13 +40,7 @@ So even though there is still [so](https://www.nytimes.com/2017/03/18/public-edi
 
 ---
 
-> The path forward is hazy. We need to enable people to hear different perspectives and make sense of a very complicated — and in many ways, overwhelming — information landscape. We cannot fall back on standard educational approaches because the societal context has shifted. We also cannot simply assume that information intermediaries can fix the problem for us, whether they be traditional news media or social media.
->
->We need to get creative and build the social infrastructure necessary for people to meaningfully and substantively engage across existing structural lines. This won’t be easy or quick, but if we want to address issues like propaganda, hate speech, fake news, and biased content, we need to focus on the underlying issues at play. No simple band-aid will work.
-
-<div class="quote-attrib"><a href="https://points.datasociety.net/did-media-literacy-backfire-7418c084d88d#.97zezi4re" target="_blank"><i>Did Media Literacy Backfire?</i></a><br>Danah Boyd</div>
-
-<span class="firstLetter">N</span>o simple band-aid will work, but as information intermediaries, news media can start by focusing on how we can equip people to ask the right questions, rather than just feeding them what we think are the right answers. 
+<span class="firstLetter">T</span>here are no easy solutions, but we as news media can start by focusing on how we can equip people to ask the right questions, rather than just feeding them what we think are the right answers. 
 
 Instead of trying to make it effortless for people to understand a complex and chaotic world, we can strive to make it inviting for them to explore that world, and reflect upon it.
 
