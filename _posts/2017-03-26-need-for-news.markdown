@@ -34,6 +34,8 @@ There's nothing wrong with catering to a target market; it makes good business s
 
 But few, if any, of us became journalists to write for 4 per cent of the world. To the extent that journalism has a civic as well as a commercial imperative, being irrelevant to 96 per cent of the population ought to be seen as an urgent crisis.
 
+Especially when our failure to help people meaningfully and substantively engage with the world is leading to issues like propaganda, hate speech, fake news, and biased content, as Danah Boyd pointed out in [*Did Media Literacy Backfire*](https://points.datasociety.net/did-media-literacy-backfire-7418c084d88d#.97zezi4re).  
+
 So even though there is still [so](https://www.nytimes.com/2017/03/18/public-editor/a-community-of-one-the-times-gets-tailored.html) [much](https://trackchanges.postlight.com/authoritative-readable-branded-report-from-poynter-design-challenge-part-2-42cef2bd0b67#.7en4fc5qw) [more](http://engineroom.ft.com/2016/04/04/a-faster-ft-com/) [we](https://mondaynote.com/quality-for-news-is-mostly-about-solving-the-reputation-issue-fdebd0dcc9e2#.o1g6og2dk) [can](https://points.datasociety.net/did-media-literacy-backfire-7418c084d88d#.uhu6cyvkv) [do](http://scripting.com/2016/12/10/perspectiveIsEverything.html) to better serve people who need and seek out the news, we must also try a different approach. One that asks: 
 
 "How do we <i>create</i> a need for news?"
