@@ -22,11 +22,11 @@ permalink: /need-for-news/
 
 💁: "I need to stay on top of what's happening in the world"
 
-👨🏾: "I need to research a particular issue for work"
+🕴️: "I need to research a particular issue for work"
 
-👼: "I need to know what's trending"
+👨: "I need to know what's trending"
 
-But while these statements may represent different customer segments, they also share the common feature of expressing a curiosity about the world. 💁, 👨🏾 and 👼 all belong in the 4 per cent of people who 'bother with the news'. 
+But while these statements may represent different customer segments, they also share the common feature of expressing a curiosity about the world. 💁, 🕴 and 👨️ all belong in the 4 per cent of people who 'bother with the news'. 
 
 The entire business and practice of journalism is built on the foundational assumption that people come to us with a need to be informed. Thompson Reuters brands itself as ['The Answer Company'](https://www.thomsonreuters.com/en/about-us/the-answer-company.html). The Economist is for ["the globally curious"](https://medium.com/severe-contest/from-man-in-a-suit-to-the-globally-curious-4ed44704550a#.5iyksfvfh). The New York Times has staked its future on being ["an authoritative, clarifying and vital destination"](https://www.nytimes.com/projects/2020-report/) for its readers.
 
@@ -60,7 +60,7 @@ The roots of this thinking goes back at least a decade, to Bret Victor's canonic
 
 <div class="quote-attrib"><a href="http://worrydream.com/MagicInk/" target="_blank"><i>Magic Ink</i></a><br>Bret Victor</div>
 
-These are good design principles that [we follow at the Financial Times](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4). But problems arise when everyone takes the easy way out &mdash; choosing only to ask readers to scroll, for example, instead of trying to make something "specatcular" happen. Or, when we design only for 💁, 👨🏾 or 👼 because we pretend to know what their needs are, and because we know that they will bother with the news. 
+These are good design principles that [we follow at the Financial Times](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4). But problems arise when everyone takes the easy way out &mdash; choosing only to ask readers to scroll, for example, instead of trying to make something "specatcular" happen. Or, when we design only for 💁, 🕴 and 👨️ because we pretend to know what their needs are, and because we know that they will bother with the news. 
 
 Too often, we fail to imagine that 'the viewer' could be motivated by anything other than self-interest:
 
