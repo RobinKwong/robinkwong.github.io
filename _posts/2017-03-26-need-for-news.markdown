@@ -10,14 +10,6 @@ permalink: /need-for-news/
 
 <div class="quote-attrib"><a href="https://www.ft.com/content/eef2e2f8-0383-11e7-ace0-1ce02ef0def9" target="_blank"><i>The Problem with Facts</i></a><br>Tim Harford</div>
 
-<p></p>
-
-> Q: *You advise your students to subscribe to a journal they disagree with as a way of fighting the echo chamber. But you don’t believe they do.*
->
-> A: The bigger problem is they don’t subscribe to a journal they do agree with. I don’t think they read anything, and I don’t mean my students in particular, I mean people in general. I’ve had people ask, “Well, what can I do to be better informed?” I say, “I start every morning reading The Washington Post.” They say, “Well, that’s biased and liberal, and I’m not going to read it.” I say, “All right, read The Wall Street Journal.” “Well, that’s just…I’m not reading it.” In other words, I’m not going to read anything. What they really want to know is how do I wake up every morning and glance at a screen and then call myself informed?
-
-<div class="quote-attrib"><a href="http://www.macleans.ca/society/why-americans-have-come-to-worship-their-own-ignorance/" target="_blank"><i>Why Americans have come to worship their own ignorance</i></a><br> Tom Nichols, interviewed by Brian Bethune</div>
-
 <span class="firstLetter">P</span>roduct developers like to use 'personas' &mdash; archetypes that embody a set of goals and behaviours &mdash; to better understand the customers they are designing for. In digital news companies, designers might differentiate between the following personas:
 
 💁: "I need to stay on top of what's happening in the world"
@@ -82,13 +74,13 @@ If we design news stories solely for narcissists, how can we be surprised to dis
 
 <span class="firstLetter">I</span> am lucky enough to have a chance to explore these issues on the inaugural FT-Nikkei fellowship programme. I will be in San Francisco until May 30 for the fellowship, and will be chronicling what I learn on this blog. To summarise, these are the questions I will be exploring:
 
-- What does it mean for games to be journalism? Is interactive non-fiction an oxymoron?
-
 - How can we create a need for news by igniting curiosity? How can we make the FT a place that sparks new enquiry, instead of one that just answers our readers questions?
 
 - How can journalism encourage exploration, particularly through the use of digital technologies including interactivity and Virtual Reality?
 
 - How do we tell stories that create emotional understanding and empathy?
+
+- What does it mean for games to be journalism? Is interactive non-fiction an oxymoron?
 
 *What to read next*: [Two types of journalism](/two-types/)
 
