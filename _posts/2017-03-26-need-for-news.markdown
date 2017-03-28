@@ -52,7 +52,7 @@ The roots of this thinking goes back at least a decade, to Bret Victor's canonic
 
 <div class="quote-attrib"><a href="http://worrydream.com/MagicInk/" target="_blank"><i>Magic Ink</i></a><br>Bret Victor</div>
 
-These are good design principles that [we follow at the Financial Times](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4). But problems arise when everyone takes the easy way out &mdash; choosing only to ask readers to scroll, for example, instead of trying to make something "specatcular" happen. Or, when we design only for 💁, 🕴 and 👨️ because we pretend to know what their needs are, and because we know that they will bother with the news. 
+These are good design principles that [we follow at the Financial Times](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4). But problems arise when everyone takes the easy way out &mdash; choosing only to ask readers to scroll, for example, instead of trying to make something "spectacular" happen. Or, when we design only for 💁, 🕴 and 👨️ because we pretend to know what their needs are, and because we know that they will bother with the news. 
 
 Too often, we fail to imagine that 'the viewer' could be motivated by anything other than self-interest:
 
