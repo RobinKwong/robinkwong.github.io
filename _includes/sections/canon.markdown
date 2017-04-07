@@ -29,3 +29,4 @@ These are articles, books, videos and podcasts that I find myself returning to o
 - [How to decide what to work on](http://jvns.ca/blog/2016/08/16/how-do-you-work-on-something-important/)
 - [Conducting retrospectives](http://happyhacks.tumblr.com/post/116464561825/conduct-regular-retrospectives)
 - [How to give presentations](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
+- [NASA's 100 rules for project managers](http://www.eecs.yorku.ca/course_archive/2002-03/W/ENG2000/Nasa's_100_PM_Rules.html)
