@@ -3,6 +3,7 @@
   <ul class="list">
 	{% for item in site.tags.press %}
     <li>
+      <p class = "outlet">{{ item.outlet}}</p>
       <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="date">{{ item.date | date:"%m/%Y"}}</span></p>
     </li>
 	{% endfor %}
