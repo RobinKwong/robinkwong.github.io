@@ -3,12 +3,15 @@ layout: post
 title: Why I talk about what I do
 date: 2017-02-12 09:00
 tags: [journalism, digital, press, project management]
+outlet: The Splice Newsroom
 permalink: /public-speaking/
 ---
 
-I had the pleasure recently of answering questions about what I do from Alan Soon of The Splice Newsroom. [The full interview is here](https://medium.com/splicenewsroom/leading-millennials-robin-kwong-financial-times-55e13f5ee93f#.bof6ordln).
+> Read [the full interview](https://medium.com/splicenewsroom/leading-millennials-robin-kwong-financial-times-55e13f5ee93f#.bof6ordln) at The Splice Newsroom 
 
-In the interview, I explained that my role as Special Projects Editor involved not just digital experimentation, but also taking the ones that works and democratising it to benefit everyone in the newsroom. 
+***
+
+In this interview, I explained that my role as Special Projects Editor involved not just digital experimentation, but also taking the ones that works and democratising it to benefit everyone in the newsroom. 
 
 But really, I should have included a third plank. The act of public speaking: giving interviews, writing blog posts, and [speaking at conferences](https://www.newsrewired.com/2017/02/08/live-special-projects/) about my work and how I see the world. 
 

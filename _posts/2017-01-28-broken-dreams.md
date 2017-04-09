@@ -3,8 +3,13 @@ layout: post
 title: Bring me your broken dreams
 date: 2017-01-27 09:00
 tags: [journalism, project management, press, digital]
+outlet: Digiday
 permalink: /broken-dreams/
 ---
+
+> Read the [full interview](http://digiday.com/publishers/financial-times-special-projects/) at Digiday
+
+***
 
 I spoke to Lucinda Southern, a reporter at Digiday, [for an interview](http://digiday.com/publishers/financial-times-special-projects/) about my first year as Special Projects Editor at the Financial Times.
 

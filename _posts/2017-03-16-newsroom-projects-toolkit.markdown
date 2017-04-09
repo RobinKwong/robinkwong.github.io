@@ -3,8 +3,13 @@ layout: post
 title: The FT's newsroom project management toolkit
 date: 2017-03-15 09:00
 tags: [journalism, digital, press, project management]
+outlet: Source Opennews
 permalink: /project-toolkit/
 ---
+
+> Read the [full story](https://source.opennews.org/articles/ikea-inspired-workflow/) on Source Opennews
+
+***
 
 Nearly a year ago I [set myself a goal](/build-bot-take-job/): To create a tool that will help other Financial Times editors become better at running series of stories, and managing digital projects.
 
