@@ -1,10 +1,27 @@
 <section class="section">
   <h2 class="section-title"><span>&#19968;</span><span>Welcome</span></h2>
   <div class="section-content body">
-    <p>This is a website about the people who live and work at the intersection of journalism and technology.</p>
+    <p>This is a website about how people can organise themselves to create meaningful work at the intersection of journalism and technology.</p>
 
-    <p>In particular, I am interested in how they organise themselves to create meaningful work. I will be using this space to write about the rapid changes in journalism. A good place to start would be my post on <a href="/project-managers/">why newsrooms need project managers</a>.</p>
+    <p>It is also the personal website of Robin Kwong, Special Projects Editor at the Financial Times.</p>
 
-    <p>Who am I? My name is Robin Kwong, and I am Special Projects Editor at the Financial Times. This is my personal website. You can find out <a href="/about/">more about me</a> below.</p>
+    <p>You can start reading my posts below.</p> 
+
+    <p>I recommend one piece of digital journalism every week. This week's recommendation is:<br>
+   	  <ul class="recommendations list">
+      {% for item in site.data.recommendations limit:1 %}
+      <li>
+        <span class="date">{{ item.date }}</span><br>
+        {{ item.title }}
+        <p>
+        {{ item.description }}
+        </p>
+      </li>
+
+      {% endfor %}
+ 	  </ul>
+ 	</p>
+
+    <p>Or, you can find out <a href="/about/">more about me</a>. My CV is <a href="https://uk.linkedin.com/in/robinkwong" target="_blank">on LinkedIn</a>. Want to get in touch? Email me at robin.kwong@gmail.com or follow me <a href="https://twitter.com/RobinKwong" target="_blank">on Twitter</a></p>
   </div>
 </section>
