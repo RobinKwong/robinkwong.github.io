@@ -2,9 +2,14 @@
   <h2 class="section-title"><span>&#20108;</span><span>Posts</span></h2>
   <ul class="list">
     {% for item in site.posts %}
-    <li>
+    {% if item.tags contains "press" %}
+    	{% continue %}
+    {% else %}
+   	<li>
       <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="date">{{ item.date | date:"%m/%Y"}}</span></p>
     </li>
+    {% endif %}
+
     {% endfor %}
   </ul>
 </section>
