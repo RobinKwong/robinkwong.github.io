@@ -1,0 +1,29 @@
+---
+layout: default
+title: Nikkei-FT Fellowship
+permalink: /fellowship/
+---
+<a href="/">← Home</a>
+<p></p>
+
+<section class="section">
+  <h2 class="section-title"><span>&#x4e09;</span><span>Fellowship</span></h2>
+  <div class="section-content body">
+
+{% capture my-include %}{% include fellowship.markdown %}{% endcapture %}
+{{my-include | markdownify }}
+
+<p>I will be chronicling what I've learnt in this section. A good place to start is <a href="/need-for-news/">this post</a>, where I lay out my case for why these are important questions.</p>
+  </div>
+  
+  <ul class="list">
+    {% for item in site.posts %}
+    {% if item.tags contains "fellowship" %}
+   	<li>
+      <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="date">{{ item.date | date:"%m/%Y"}}</span></p>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+

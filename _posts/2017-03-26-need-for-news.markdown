@@ -2,7 +2,7 @@
 layout: post
 title: How do we create a need for news?
 date: 2017-03-26 09:00
-tags: [journalism, digital, interactivity, highlight]
+tags: [journalism, digital, interactivity, fellowship, highlight]
 permalink: /need-for-news/
 ---
 
@@ -72,15 +72,15 @@ If we design news stories solely for narcissists, how can we be surprised to dis
 
 ---
 
-<span class="firstLetter">I</span> am lucky enough to have a chance to explore these issues on the inaugural FT-Nikkei fellowship programme. I will be in San Francisco until May 30 for the fellowship, and will be chronicling what I learn on this blog. To summarise, these are the questions I will be exploring:
+<span class="firstLetter">I</span> am lucky enough to have a chance to explore these issues on the inaugural FT-Nikkei fellowship programme. I will be in San Francisco until May 30 for the fellowship, and [will be chronicling](/fellowship/) what I learn on this blog. To summarise, these are the questions I will be exploring:
 
 - How can we create a need for news by igniting curiosity? How can we make the FT a place that sparks new enquiry, instead of one that just answers our readers questions?
 
 - How can journalism encourage exploration, particularly through the use of digital technologies including interactivity and virtual reality?
 
-- How do we tell stories that create emotional understanding and empathy?
+- How do we tell stories that create [emotional understanding](/two-types/) and empathy?
 
 - What does it mean for games to be journalism? Is interactive non-fiction an oxymoron?
 
-*What to read next*: [Two types of journalism](/two-types/)
+<p><a href="/fellowship/">&#8594; Fellowship Section</a></p>
 
