@@ -76,7 +76,7 @@ If we design news stories solely for narcissists, how can we be surprised to dis
 
 - How can we create a need for news by igniting curiosity? How can we make the FT a place that sparks new enquiry, instead of one that just answers our readers questions?
 
-- How can journalism encourage exploration, particularly through the use of digital technologies including interactivity and Virtual Reality?
+- How can journalism encourage exploration, particularly through the use of digital technologies including interactivity and virtual reality?
 
 - How do we tell stories that create emotional understanding and empathy?
 
