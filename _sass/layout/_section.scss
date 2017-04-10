@@ -40,3 +40,17 @@ span.date {
 p.outlet {
   font-size: 0.85em;
 }
+
+span.most-recent {
+  font-family: $f-sans-serif;
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+
+  span.most-recent {
+    font-size: 18px;
+  }
+
+}

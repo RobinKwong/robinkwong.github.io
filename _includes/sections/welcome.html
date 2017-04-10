@@ -3,25 +3,13 @@
   <div class="section-content body">
     <p>This is a website about how people can organise themselves to create meaningful work at the intersection of journalism and technology.</p>
 
-    <p>It is also the personal website of Robin Kwong, Special Projects Editor at the Financial Times.</p>
+    <p>It is also the personal website of Robin Kwong, Special Projects Editor at the Financial Times. You can start reading <a href="#highlight">my posts</a> below. My most recent post is on:</p> 
 
-    <p>You can start reading my posts below.</p> 
+    <p><span class="most-recent"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></span></p> 
 
-    <p>I recommend one piece of digital journalism every week. This week's recommendation is:<br>
-   	  <ul class="recommendations list">
-      {% for item in site.data.recommendations limit:1 %}
-      <li>
-        <span class="date">{{ item.date }}</span><br>
-        {{ item.title }}
-        <p>
-        {{ item.description }}
-        </p>
-      </li>
+    <p>I also <a href="/recommendations/">recommend</a> one piece of digital journalism every week.</p>
 
-      {% endfor %}
- 	  </ul>
- 	</p>
-
-    <p>Or, you can find out <a href="/about/">more about me</a>. My CV is <a href="https://uk.linkedin.com/in/robinkwong" target="_blank">on LinkedIn</a>. Want to get in touch? Email me at robin.kwong@gmail.com or follow me <a href="https://twitter.com/RobinKwong" target="_blank">on Twitter</a></p>
+    <p>Want to find out more <a href="#about">about me</a>? My CV is <a href="https://uk.linkedin.com/in/robinkwong" target="_blank">on LinkedIn</a>.</p>
+    <p>Want to get in touch? Email me at robin.kwong@gmail.com or follow me <a href="https://twitter.com/RobinKwong" target="_blank">on Twitter</a></p>
   </div>
 </section>
