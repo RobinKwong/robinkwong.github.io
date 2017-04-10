@@ -2,7 +2,7 @@
 layout: post
 title: Why editors &#8774; project managers
 date: 2016-02-07 09:00
-tags: [management, newsroom, editors]
+tags: [management, newsroom, editors, highlight]
 permalink: /editors/
 ---
 Project management is fundamentally about organisation and communication, two skills also found in successful editors. This raises the question of why &mdash; and when &mdash; there ought to be two distinct roles.

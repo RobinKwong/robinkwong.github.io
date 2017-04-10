@@ -2,7 +2,7 @@
 layout: post
 title: How do we create a need for news?
 date: 2017-03-26 09:00
-tags: [journalism, digital, interactivity]
+tags: [journalism, digital, interactivity, highlight]
 permalink: /need-for-news/
 ---
 

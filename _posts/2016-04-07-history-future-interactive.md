@@ -2,7 +2,7 @@
 layout: post
 title: What history can tell us about the future of interactive journalism
 date: 2016-04-08 00:30
-tags: [digital, media, storytelling, journalism, history, games studies, visual journalism]
+tags: [digital, media, storytelling, journalism, history, games studies, visual journalism, highlight]
 permalink: /history/
 ---
 

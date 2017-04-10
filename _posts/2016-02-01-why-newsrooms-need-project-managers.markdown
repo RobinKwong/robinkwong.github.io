@@ -2,7 +2,7 @@
 layout: post
 title: Why newsrooms need project managers
 date: 2016-01-31 09:00
-tags: [management]
+tags: [management, highlight]
 permalink: /project-managers/
 ---
 *Or, who you need after you’ve added coders, designers and social media specialists to your newsroom*

@@ -2,7 +2,7 @@
 layout: post
 title: Wicked problems in the business of journalism
 date: 2016-07-03 09:00
-tags: [goals, business models, journalism]
+tags: [goals, business models, journalism, highlight]
 permalink: /wicked/
 ---
 

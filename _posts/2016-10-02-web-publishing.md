@@ -2,7 +2,7 @@
 layout: post
 title: Eight questions to ask before choosing a web publishing platform 
 date: 2016-10-02 09:00
-tags: [purpose, publishing, platforms, distributed content]
+tags: [purpose, publishing, platforms, distributed content, highlight]
 permalink: /web-publishing/
 redirect_from: "/medium/"
 ---
