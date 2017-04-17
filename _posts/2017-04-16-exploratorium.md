@@ -72,7 +72,7 @@ It may seem an obvious point, but if you want people to explore and indulge thei
 
 ## Prioritise user testing
 
-One of the most central and prominent spaces within the Exploratorium is the Exhibit Development Shop, where new exhibits are desigened and made. Visitors can play with the new, often half-finished, exhibits just as they would any other exhibit in the museum. Staff working in the machine shop can observe how visitors interact with their works-in-progress, and make adjustments accordingly. 
+One of the most central and prominent spaces within the Exploratorium is the Exhibit Development Shop, where new exhibits are designed and made. Visitors can play with the new, often half-finished, exhibits just as they would any other exhibit in the museum. Staff working in the machine shop can observe how visitors interact with their works-in-progress, and make adjustments accordingly. 
 
 In fact, this ethos of user testing and joint development is central to the origin story of the entire museum. It's not only the visitors who are learning by doing; the museum itself is, too.
 
