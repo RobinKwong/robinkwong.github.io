@@ -5,7 +5,7 @@ date: 2017-04-16 09:00
 tags: [journalism, digital, museum, interactivity, games, fellowship]
 permalink: /exploratorium/
 ---
-A big focus of my [Nikkei-FT Fellowship](/fellowship/) is the question of how we can use interactivity in digital journalism to encourage exploration and curiosity.
+A big focus of my [Nikkei-FT Fellowship](/fellowship/) is the question of how we can use interactivity in digital journalism to [encourage exploration and curiosity](/need-for-news/).
 
 To answer this question, I started looking at other places where this was being done well:
 
@@ -23,9 +23,9 @@ How does the Exploratorium encourage exploration, and what can makers of interac
 
 ![](/images/exploratorium_start.jpg)
 
-The first exhibits that a visitor encounters have several characteristics that make them good 'tutorials' that prepare visitors for the rest of the museum. 
+The first exhibits that a visitor encounters have several characteristics that make them good 'tutorials' for the rest of the museum. 
 
-- They are, as the sign says, open-ended. There are no specific goals you have to reach, as a visitor.
+- They are, as the sign says, open-ended. There are no specific goals or win conditions.
 - They are physical. You engage with these exhibits by turning a dial or a crank, or pressing a button, as opposed to passive observation.
 - They are varied, and social. One of the opening exhibits can be explored alone, but another is collaborative, while a third is competitive (race a friend to get a butterfly-like object to the top)
 - Finally, they...
@@ -46,11 +46,11 @@ Every exhibit in the museum follows the same pattern:
 
 This is a design that prioritises exploration over pedagogy. The 'so what', which is given primacy in most news storytelling, is the *least* prioritised aspect of the exhibit. 
 
-By establishing a design pattern and sticking to it, the Exploratorium helps lower the cognitive load of engaging with any subsequent exhibit That is generally not the case with most interactive news stories &mdash; just because you've once learnt how to use an interactive calculator published by the FT, for example, doesn't mean that it'll be easier for you to learn how to use the next one.
+By establishing a design pattern and sticking to it, the Exploratorium helps lower the cognitive load of engaging with each subsequent exhibit. That is generally not the case with most interactive news stories &mdash; just because you've once learnt how to use an interactive calculator published by the FT, for example, doesn't mean that it'll be easier for you to learn how to use the next one.
 
 ## A sense of safety
 
-People are risk adverse. We don't like to be shown to be ignorant or wrong. If we want people to engage with new things, we have to provide them with a sense of safety.
+People are risk adverse. We don't like to be shown to be ignorant or wrong. If designers want people to engage with new things, they have to provide them with a sense of safety.
 
 Frank Oppenheimer emphasised that "no one ever failed a science museum". The exploratorium ensures that by creating a space where it is the social norm to explore, experiment, and even to fail. Initially hesitant visitors become less so when they see others playing with the exhibits. 
 
@@ -60,19 +60,21 @@ How do we create a similar set of social norms around interactive pieces of jour
 
 ## Setting the right expectations
 
-It's called *The Exploratorium*. Those who show up are pre-disposed to exploring and engaging their curiosity. In many ways, more than half the battle has already been won by the time a person hands over $29.95 to enter the museum.
+It's *called* The Exploratorium. Those who show up are pre-disposed to exploring and engaging their curiosity. In many ways, more than half the battle has already been won by the time a person hands over $29.95 to enter the museum.
 
 ## Breaking expectations
 
-And yet, much of what's in the exploratorium defies the preconception of what one would encounter in a museum. There are exhibits on wheels that you can encouraged to rotate. There are live mosquitos and decaying rats. The exploratorium encourages visitors to try new experiences by surprising first, and informing after.
+And yet, much of what's in the exploratorium defies the preconception of what one would encounter in a museum. There are exhibits on wheels that you are encouraged to rotate. There are live mosquitos and decaying rats. The exploratorium encourages visitors to try new experiences by surprising first, and informing after.
 
 ## Richness and variety
 
-It may seem an obvious point, but if you want people to explore and indulge their curiosity, then you have to give a rich enough world to explore. The Exploratorium has hundreds of exhibits and 50,000 pages on its website. By contrast, the recent trend in journalistic data visualisation has been for the author to pre-determine the story and guide readers through it, hiding away data that is irrelevant to the story.
+It may seem an obvious point, but if you want people to explore and indulge their curiosity, then you have to give them a rich enough world to explore. The Exploratorium has hundreds of exhibits and 50,000 pages on its website. By contrast, the recent trend in data visualisation in journalism has been for the author to pre-determine the story and guide readers through it, hiding away data that is irrelevant to the story, and removing interactivity because, supposedly, "people don't explore, anyways".
 
 ## Prioritise user testing
 
-One of the most central and prominent spaces within the Exploratorium is the Exhibit Development Shop, in front of which are placed new, and often half-finished, exhibits for visitors to play with. Staff working in the machine shop can observe how visitors interact with their works-in-progress, and make adjustments accordingly. In fact, this ethos of user testing and joint development is central to the origin story of the entire museum. It's not only the visitors who are learning by doing; the museum itself is, too.
+One of the most central and prominent spaces within the Exploratorium is the Exhibit Development Shop, where new exhibits are desigened and made. Visitors can play with the new, often half-finished, exhibits just as they would any other exhibit in the museum. Staff working in the machine shop can observe how visitors interact with their works-in-progress, and make adjustments accordingly. 
+
+In fact, this ethos of user testing and joint development is central to the origin story of the entire museum. It's not only the visitors who are learning by doing; the museum itself is, too.
 
 ![](/images/exploratorium_machine.jpg)
 
