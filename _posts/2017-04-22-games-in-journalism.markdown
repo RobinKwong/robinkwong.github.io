@@ -52,11 +52,11 @@ I am also interested in exploring the role that journalists can play in giving v
 
 <br>
 
+<span class="firstLetter">G</span>ames have a unique power. It has so far mainly been used for entertainment. Some game designers have used it to tell personal stories. But I believe the conditions are ripe for using games to explain what is happening in the world, to author biographies instead of autobiographies, and to help close the emotional distance between people and the stories they hear.
+
 > Games changes how we see topics, it changes our perceptions about those people in topics, and it changes ourselves. We change as people through games, because we're involved, and we're playing, and we're learning as we do so.
 
 <div class="quote-attrib"><a href="https://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding/transcript?language=en#t-539591" target="_blank"><i>Gaming for Understanding</i></a><br> Brenda Romero</div>
-
-<span class="firstLetter">G</span>ames have a unique power. It has so far mainly been used for entertainment. Some game designers have used it to tell personal stories. But I believe the conditions are ripe for using games to explain what is happening in the world, to author biographies instead of autobiographies, and to help close the emotional distance between people and the stories they hear.
 
 This is important if journalism is to help foster greater [emotional, rather than rational, understanding](/two-types/). The goal is not to paralyse readers through affective empathy. But, in rupturing their shields and showing a different view of the world, to create room for growth and the possibility of creative breakthrough. As Nick Sousanis put it so elegantly in [*Unflattening*](http://www.hup.harvard.edu/catalog.php?isbn=9780674744431):  
 
