@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problem seeking, not problem solving
-date: 2017-04-23 09:00
+date: 2017-04-25 09:00
 tags: [design]
 permalink: /problem-seeking/
 ---
