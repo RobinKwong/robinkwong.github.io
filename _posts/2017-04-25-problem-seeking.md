@@ -19,4 +19,4 @@ From Brian Collins's [interview with Debbie Millman](https://soundcloud.com/desi
 
 <div class="quote-attrib"><a href="https://soundcloud.com/designmatters/design-matters-with-debbie-millman-brian-collins" target="_blank">Brian Collins</a></div>
 
-*What to read next*: [Wicked problems in the business of journalism](/wickedd/)
+*What to read next*: [Wicked problems in the business of journalism](/wicked/)
