@@ -18,7 +18,7 @@ permalink: /need-for-news/
 
 👨: "I need to know what's trending"
 
-But while these statements may represent different customer segments, they also share the common feature of expressing a curiosity about the world. 💁, 🕴 and 👨️ all belong in the 4 per cent of people who 'bother with the news'. 
+But while these statements may represent different customer segments, they also share the common feature of expressing a curiosity about the world. 💁, 🕴 and 👨️ would all belong to the 4 per cent of people who 'bother with the news', in Tim Harford's example. 
 
 The entire business and practice of journalism is built on the foundational assumption that people come to us with a need to be informed. Thompson Reuters brands itself as ['The Answer Company'](https://www.thomsonreuters.com/en/about-us/the-answer-company.html). The Economist is for ["the globally curious"](https://medium.com/severe-contest/from-man-in-a-suit-to-the-globally-curious-4ed44704550a#.5iyksfvfh). The New York Times has staked its future on being ["an authoritative, clarifying and vital destination"](https://www.nytimes.com/projects/2020-report/) for its readers.
 
