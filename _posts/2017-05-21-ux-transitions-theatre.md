@@ -41,7 +41,7 @@ Why do humans do things? Who knows. There are loads of different theories, but a
 
 1. *Competence*: A big reason why low use-ability turns people off, since it challenges their sense of competence.
 2. *Autonomy*: The need to have volition and make meaningful choices. This is one reason why even if a static visualisation is more usable, people will still try to click on it and expect things to happen.
-3. *Relatedness*: People need to have meangingful relationship with others. Note that this can be manifested either through cooperation or competition.
+3. *Relatedness*: People need to have meaningful relationship with others. Note that this can be manifested either through cooperation or competition.
 
 Intrinsic motivation can be deterred, or reinforced, by external sources of motivation (rewards and punishments). This is why motivation is so hard to study and design for.
 
