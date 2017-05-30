@@ -72,7 +72,7 @@ If we design news stories solely for narcissists, how can we be surprised to dis
 
 ---
 
-<span class="firstLetter">I</span> am lucky enough to have a chance to explore these issues on the inaugural FT-Nikkei fellowship programme. I will be in San Francisco until May 30 for the fellowship, and [will be chronicling](/fellowship/) what I learn on this blog. To summarise, these are the questions I will be exploring:
+<span class="firstLetter">I</span> am lucky enough to have a chance to explore these issues on the inaugural Nikkei-FT fellowship programme. I will be in San Francisco until May 30 for the fellowship, and [will be chronicling](/fellowship/) what I learn on this blog. To summarise, these are the questions I will be exploring:
 
 - How can we create a need for news by igniting curiosity? How can we make the FT a place that sparks new enquiry, instead of one that just answers our readers questions?
 
