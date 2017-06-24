@@ -5,9 +5,9 @@ date: 2017-06-24 09:00
 tags: [journalism, digital, interactivity, highlight]
 permalink: /slow-innovation/
 ---
-*This post is written parly in response to [What happens when a big news company makes a small bet on “slow innovation”?](http://www.niemanlab.org/2017/06/what-happens-when-a-big-news-company-makes-a-small-bet-on-slow-innovation/)*
+*This post is written partly in response to [What happens when a big news company makes a small bet on “slow innovation”?](http://www.niemanlab.org/2017/06/what-happens-when-a-big-news-company-makes-a-small-bet-on-slow-innovation/)*
 
-Big, legcay newsrooms have diverse goals and obligations. It is useful to break it down into smaller parts to better understand it. The way I do so is using the metaphors of the Factory (🏭), the Workshop (🔨), and the Laboratory (⚗️), since they represent different mindsets and value different things.
+Big, legcay newsrooms have diverse goals and obligations. It is useful to break it down into smaller parts to better understand it. The way I do so is using the metaphor of the Factory (🏭), the Workshop (🔨), and the Laboratory (⚗️), since they represent different mindsets and value different things.
  
 ## 🏭 The Factory 
  
@@ -39,12 +39,12 @@ As such, the workshop values:
 
 - Time taken to attend to details
 - Quality over quantity 
-- Risks taken in the search for a big pay-off
+- Risks taken in search of a big pay-off
 - Craftsmanship and uniqueness
 - Exclusivity: Only possible with specialist skills
 - Novelty
 
-Workshops differ from factories in being more project-based, more agile and more collaborative. As Special Projects editor, I have tried to delineate and codify how newsroom workshops should organise themselves: from writing about [the need for project managers](/project-managers/) to producing the [Special Projects Toolkit](/project-toolkit/). 
+Workshops differ from factories in being more project-based, more agile and more collaborative. As Special Projects editor, I have tried to delineate and codify how newsroom workshops should organise themselves, from writing about [the need for project managers](/project-managers/) to producing the [Special Projects Toolkit](/project-toolkit/). 
 
 Still, most newsroom workshops are run like mini-factories. Or rather, since most departments are tasked with doing both 🏭 and 🔨 work, they tend to revert to a factory mentality even when they should be operating as a workshop. 
 
@@ -57,24 +57,28 @@ So, how do you:
  
 This is where the laboratory comes in. The laboratory collaborates with workshops to test new ideas in formats or delivery channels. 
 
-But unlike the workshop, the laboratory is not a production unit. It should deliver prototypes that have the potential to be turned into templates, but should not be heavily involved turning those prototypes into templates, which require a more factory-like mindset of incremental and continuous improvements.
+Unlike the workshop, the laboratory is not a production unit. It delivers prototypes that have the potential to be turned into templates, but does not become heavily involved that work, which require a more factory-like mindset of incremental and continuous improvements.
  
-This is important, because it allows one central laboratory to collaborate with the multiple workshops that exist through the newsroom. By doing so, the laboratory has an overview that helps it figure out how the factory lines should be changed.
+This is important, because it allows one small, central laboratory to collaborate with the multiple workshops that exist through the newsroom. This gives the laboratory the overview needed to figure out how the factory lines should be changed.
 
 Without a laboratory, innovation will still occur in workshops, but they risk becoming quarantined within individual silos. 
  
-Ideally, a new idea is initially tested by the laboratory in conjunction with a workshop. It shows promise, and is then taken over by the workshop to try out in different types of situations. Success at this stage leads to growing demand for it, and the factory line is changed to incorporate it. 
+Ideally, a new idea is initially tested by ⚗️ + 🔨 working together. It shows promise, and is then taken over by 🔨 to try out in different types of situations. Success at this stage leads to growing demand for it, until eventually the 🏭 is changed to incorporate it. 
  
 There are many ideas that don’t (and shouldn’t) make it through that whole process. But that’s ok &mdash; you still get value out of it if the workshop can use it to do something impressive for one story. 
 
 ## Concluding thoughts
  
-This is, of course, a highly idealised, abstract mental model. In reality the lines are a lot messier and there is a lot more overlap with people and teams performing multiple functions. But I think it is still a useful way of thinking about what are the structures needed for innovation to diffuse in a large organisation.
+This is, of course, a highly idealised, abstract mental model. In reality there is a lot more overlap with people and teams performing multiple functions. But I think it is still a useful way of thinking about the structures needed for innovation to diffuse in a large organisation.
 
-There is a central paradox to any change initiative: The new way only delivers its main benefits once all the pieces are in place, but you cannot change or do everything all at once, and inertia always favours the old way. 
+There is a central paradox to any change initiative: The new way of doing things only delivers its main benefits once all the pieces are in place, but you cannot change everything at once, and inertia always favours the old way. 
 
-Clarity in how 🏭, 🔨, and ⚗️ fit together, and the role that each plays in ensuring the success of the entire newsroom, can ensure there is focus and sustained progress on the [“No. 6 on the list”](http://www.niemanlab.org/2017/06/what-happens-when-a-big-news-company-makes-a-small-bet-on-slow-innovation/) issues that Sam Ford and Federico Rodríguez Tarditi referred to in their article.
+Clarity in how 🏭, 🔨, and ⚗️ fit together, and the role that each plays in the newsroom's success in navigating tumultous times, can ensure there is focus and sustained progress on the [“No. 6 on the list”](http://www.niemanlab.org/2017/06/what-happens-when-a-big-news-company-makes-a-small-bet-on-slow-innovation/) issues that Sam Ford and Federico Rodríguez Tarditi referred to in their article.
 
-While I think the laboratory is crucial in providing a space and a way to challenge dominant assumptions and explore alternatives, the greatest effort should go towards the the most difficult aspect: the linkages between the three units: How does an idea get from ⚗️ to all the 🔨s? What is the process of turning something used for a few stories made in a 🔨 into a template for the 🏭? 
+While I think the laboratory is crucial in providing a space and a way to challenge dominant assumptions and explore alternatives, the greatest effort should go towards the the most difficult aspect: the linkages between the three units. 
+
+How does an idea get from ⚗️ to all the 🔨s? What is the process of turning something used for a few stories made in a 🔨 into a template for the 🏭? 
+
+The answer to those questions will be unique to each organisation. Being able to answer them will be the difference between success and failure.
 
 *What to read next*: [Wicked problems in the business of journalism](/wicked/)
