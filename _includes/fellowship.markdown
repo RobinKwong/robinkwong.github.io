@@ -1,4 +1,4 @@
-I am participating in the inaugural Nikkei-FT fellowship programme in San Francisco, from March to May 2017. During the fellowship, I will be exploring:
+I participated in the inaugural Nikkei-FT fellowship programme in San Francisco, from March to May 2017. During the fellowship, I explored:
 
 - How can we create a need for news by igniting curiosity? How can we make the FT a place that sparks new enquiry, instead of one that just answers our readers questions?
 
