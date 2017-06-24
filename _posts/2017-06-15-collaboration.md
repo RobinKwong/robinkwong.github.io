@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 lessons in editorial collaboration
-date: 2017-06-19 09:00
+date: 2017-06-15 09:00
 tags: [Fellowship, collaboration, press]
 outlet: Journalism.co.uk
 permalink: /ft-nikkei-collaboration/
