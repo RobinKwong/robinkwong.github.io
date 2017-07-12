@@ -7,7 +7,7 @@ permalink: /slow-innovation/
 ---
 *This post is written partly in response to [What happens when a big news company makes a small bet on “slow innovation”?](http://www.niemanlab.org/2017/06/what-happens-when-a-big-news-company-makes-a-small-bet-on-slow-innovation/)*
 
-Big, legcay newsrooms have diverse goals and obligations. It is useful to break it down into smaller parts to better understand it. The way I do so is using the metaphor of the Factory (🏭), the Workshop (🔨), and the Laboratory (⚗️), since they represent different mindsets and value different things.
+Big, legacy newsrooms have diverse goals and obligations. It is useful to break it down into smaller parts to better understand it. The way I do so is using the metaphor of the Factory (🏭), the Workshop (🔨), and the Laboratory (⚗️), since they represent different mindsets and value different things.
  
 ## 🏭 The Factory 
  
