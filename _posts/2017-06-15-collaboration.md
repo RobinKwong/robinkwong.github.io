@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 lessons in editorial collaboration
+title: Three lessons in editorial collaboration
 date: 2017-06-15 09:00
 tags: [fellowship, collaboration, press]
 outlet: Journalism.co.uk
