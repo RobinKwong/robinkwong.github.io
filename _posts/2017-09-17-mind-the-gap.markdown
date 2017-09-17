@@ -3,7 +3,7 @@ layout: post
 title: Mind the gap
 date: 2017-09-17 09:00
 tags: [journalism, digital, interactivity, fellowship, highlight]
-permalink: /the-gap/
+permalink: /mind-the-gap/
 ---
 I set out at the beginning of the [FT-Nikkei fellowship](/fellowship/) asking how we can create a [need for news](/need-for-news/): How journalism can encourage curiosity, empathy, and [emotional understanding](/two-types/) to lead people to look beyond their narcissistic instincts.
 
