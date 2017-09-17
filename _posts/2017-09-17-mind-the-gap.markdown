@@ -45,7 +45,9 @@ Business-driven software development lives in the world of martini stems: it is 
 
 <div class="quote-attrib"><a href="https://vimeo.com/190908762" target="_blank"><i>The Website Obesity Crisis</i></a><br>Maciej Cegłowski</div>
 
-<span class="firstLetter">I</span> have come away at the end of my fellowship with a more nuanced view of how we can foster curiosity and help people ask the right questions. Instead of rejecting solutions-based journalism in favour of one designed from the ground up for empathy and emotional understanding, I'm advocating for a more blended approach that asks simply that we are mindful to leave a gap for our audience to interact, to have a voice, and to participate.
+<span class="firstLetter">I</span> have come away at the end of my fellowship with a more nuanced view of how we can foster curiosity and help people ask the right questions. 
+
+Instead of rejecting solutions-based journalism in favour of one designed from the ground up for empathy and emotional understanding, I'm advocating for a more blended approach that asks simply that we are mindful to leave a gap for our audience to interact, to have a voice, and to participate.
 
 As the late, great Leonard Cohen sang: 
 
