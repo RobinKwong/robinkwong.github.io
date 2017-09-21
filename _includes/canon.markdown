@@ -20,6 +20,7 @@ These are articles, books, videos and podcasts that I find myself returning to o
 - [The Secret Formula](https://gimletmedia.com/episode/16-the-secret-formula/), Startup Podcast 
 - [Understanding Comics](http://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X/ref=sr_1_1?s=books&ie=UTF8&qid=1453827847&sr=1-1&keywords=scott+mccloud+understanding+comics), Scott McCloud
 - [Considerations for Expressive Simulation](https://vimeo.com/149287018), Anna Kipnis
+- [How I Make Explorable Explanations](http://blog.ncase.me/how-i-make-an-explorable-explanation/amp/), Nicky Case
 
 ## Management
 
