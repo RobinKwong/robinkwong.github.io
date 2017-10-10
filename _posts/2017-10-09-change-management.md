@@ -21,9 +21,9 @@ permalink: /change-management/
 
 As Simon Sinek noted, successful and inspired organisations can trace what they do and how they do it to a central purpose &mdash; [their “Why”](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/). But the “Why” is not enough on its own. Organisations show up in the world through what they do and how they do it. 
 
-The work of a company is to translate its purpose into products, services, and customer relationships. The former tends to remain the same, while the latter often changes in response to changes in the market. How the two relate to each other can either be implicitly understood by the organisation's members, or explicitly outlined and articulated.
+The work of a company is to translate its purpose into products, services, and customer relationships. The former tends to remain the same, while the latter often changes in response to shifts in the market. How the two relate to each other can either be implicitly understood by the organisation's members, or explicitly outlined and articulated.
 
-I believe the lifecycle of an organisation alternates between periods when the relationship is implicit, and when it needs to be made explicit so that relationship between purpose and action could be re-examined. This switching between implicitness and explicitness is the process of organisational change.
+I believe the lifecycle of an organisation alternates between periods when the relationship between purpose and action is implicit, and when it needs to be made explicit so that relationship could be re-examined. This switching between implicitness and explicitness is the process of organisational change.
 
 Take the story of an archetypal start up that achieves success and grows. In the beginning, the founders are brought together by their mission &mdash; a single inspired idea. Through their struggle to bring that idea to life, they share a deep, implicit understanding of the relationship between their purpose and the startup's early products.
 
