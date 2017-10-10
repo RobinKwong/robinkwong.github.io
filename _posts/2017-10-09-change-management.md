@@ -17,7 +17,7 @@ permalink: /change-management/
 
 <div class="quote-attrib"><a href="http://pangaro.com/littlegreybook.pdf" target="_blank"><i>Notes on the Role of Leadership and Language<br>in Regenerating Organisations</i></a></div>
 
-<span class="firstLetter">I</span> am increasingly of the view that change management largely consists in navigating what to render explicit and what to make implicit in an organisation. 
+<span class="firstLetter">I</span> am increasingly of the view that change management largely consists of navigating what to render explicit and what to make implicit in an organisation. 
 
 As Simon Sinek noted, successful and inspired organisations can trace what they do and how they do it to a central purpose &mdash; [their “Why”](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action/). But the “Why” is not enough on its own. Organisations show up in the world through what they do and how they do it. 
 
