@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Implicitness &#8725; explicitness in organisational change
+title: Organisational change is know what to articulate and what to leave unsaid
 date: 2017-10-09 09:00
-tags: [journalism, digital, change, highlight]
+tags: [journalism, digital, change, management]
 permalink: /change-management/
 ---
 
