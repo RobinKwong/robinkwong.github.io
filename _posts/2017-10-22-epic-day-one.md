@@ -10,13 +10,15 @@ permalink: /epic-day-one/
 ### What does AI mean to you?
 
 _Dawn Nafus - Intel_
+
 AI: Discursive and engineering
 Discursive - where it's at is v early stage and eveyrone has to have an opinion
 
 See two directions:
-- An opportunity for us to do slow data. Really spend time with the input data that goes into the machine learning algorithms
 
-- Sharpen our instincts with respect to the kinds of jobs we say yes to vs the jobs we say no to. Who do we enable to control the data and the narrative 
+1. An opportunity for us to do slow data. Really spend time with the input data that goes into the machine learning algorithms
+
+2. Sharpen our instincts with respect to the kinds of jobs we say yes to vs the jobs we say no to. Who do we enable to control the data and the narrative 
 
 _Christian Madsbjerg - ReD Associates_
 
@@ -28,9 +30,8 @@ We're under-indexing on understanding people and over-indexing on understanding 
 
 I just think we should spend a bit more time observing the world rather than looking at a screen.
 
-_Melissa Cefkin - Nissan Research Centre_
-
 _Mark Burrell—Watson Health, IBM_
+
 70s and 80s, lots of discussion about not just artificial intelligence but more generally about what intelligence is. 
 
 Think there isn't just one type of intelligence.
@@ -52,7 +53,7 @@ On some systems that are more important, need decision support system: transpare
 
 Are we building appropriate trust - neither too little or too much so they imbue it with magical qualities
 
-Melissa: Autonomous systems are relational systems.
+_Melissa Cefkin - Nissan Research Centre_: Autonomous systems are relational systems.
 What's changed is the structures and systems of our work, and how we are equipped today to do the work to craete such systems
 
 With the distributed nature of the internet it's possible to annotate and create more input than before. 
@@ -71,6 +72,9 @@ Dawn: one reason why temperature controls get made into many products is because
 
 Lots of unexpected allies: data scientists, for example. There is a course at UC Davis on Data Archaeology taught by both an anthropologist and data scientist - why is that column there?
 
+Christian: If you go back 5 to 10 years ago this conference was all about design - how to work with and influence designers. Today, all we've talked about is how to work with engineers.
 
+Dawn: On ethics of AI - one important thing is to make it very concrete and very clear when an ethical decision is being made.
 
+Mark: One important role of research: How to help the people you work with figure out what problems to solve.
 
