@@ -17,6 +17,8 @@ There are a lot of interesting overlaps between reporting and observational rese
 
 Some techniques of Observational Research: Counting, Timing, Diagramming and Mapping.
 
+![](/images/epic-day-one-2.jpg)
+
 Observational Research is about constructing your own data sets. *But*, the use of those data sets is very different from quantitative data analysis/data science. With OR, the purpose is that through the _process_ of observing and creating the data set, you spark your own curiosity and generate questions and hypotheses.
 
 Notation of your field notes: always include location, date, time and time span, and what's being observed. This is necessary for turning your observations into data sets later on.
