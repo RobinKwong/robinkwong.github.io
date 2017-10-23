@@ -5,6 +5,66 @@ date: 2017-10-22 09:00
 tags: [conference, ethnography]
 permalink: /epic-day-one/
 ---
+I am attending the (Ethnographic Practice in Industry Conference)[https://2017.epicpeople.org] from October 22-25. Here are my notes from day one of the conference.
+
+## Fundamentals of Observational Research
+
+How to alienate yourself sufficiently from the context so you can find what's interesting?
+
+What to observe? generally falls under 4 categories - People, Things, Actions and Settings.
+
+There are a lot of interesting overlaps between reporting and observational research. Maybe the key difference is output and purpose? 
+
+Some techniques of Observational Research: Counting, Timing, Diagramming and Mapping.
+
+Observational Research is about constructing your own data sets. *But*, the use of those data sets is very different from quantitative data analysis/data science. With OR, the purpose is that through the _process_ of observing and creating the data set, you spark your own curiosity and generate questions and hypotheses.
+
+Notation of your field notes: always include location, date, time and time span, and what's being observed. This is necessary for turning your observations into data sets later on.
+
+When including additional details: What's the purpose of your notes? Answering that will let you figure out what's the narrowest set of data you need (you want to avoid being overwhelmed/overloaded with too much information.)
+
+Purpose of note taking is both to document data and also to help you focus.
+
+(Q: How can you do observational research in digital contexts?)
+
+With OR, we're getting a feeling here that speaks in numbers. Don't try for it to be statistically significant or representative.
+
+Observational research is a way to figure out what your focus shoudl be through trial and error
+
+Some tips and tricks: Start simple, have clear goals and hypotheses, list out things that you might want to observe and keep that list around as a guide, beware of the fire hose of information.
+
+## Ethnographic research design
+
+Research process as design process - becoming designerly
+
+It's very hard to both be producing knowledge and producing things at the same time. (i.e. data analysis and storytelling)
+
+Can think about design process as: Understand-->Create-->Execute
+
+
+On creativity (one of the 4 Cs of design): Intellectual mood board of methods
+
+Why it becomes hard to advocate when you don't have precise measures:
+
+- people's expectations. They have a language around precise measures
+- authority and credibility
+- precise measures can be an opportunity to showcase thick descriptions
+
+When advocating and running into problems. Use left hand/right hand method. Left hand=what was literally said. Right hand=subtexts, both yours and the other person's
+(Kassandra is the patron saint/goddess of researchers)
+
+How to convince of rigor:
+
+- qualitative research software
+- Show the counting up
+- Understanding where fear lies
+- Reframe: Give them a goal/target to work towards that will provide a source of pride or challenge.
+
+Keeping files: The key is reduction and synthesis. Also, consistent effort.
+
+Key to producingn quality research designs:
+Must have credibility, analyzability, transparency and usefulness. 
+
 ## Doing Design Research in a Cognitive World
 
 ### What does AI mean to you?
@@ -77,4 +137,12 @@ Christian: If you go back 5 to 10 years ago this conference was all about design
 Dawn: On ethics of AI - one important thing is to make it very concrete and very clear when an ethical decision is being made.
 
 Mark: One important role of research: How to help the people you work with figure out what problems to solve.
+
+Q: how do we use ML/AI to do better ethnography?
+
+Dawn: Don't really know, but one example of when she wished there was computer vision/AI was when sorting through lots of images. in general - useful for automating data analysis/processing but don't let it make decisions for you.
+
+Melissa: there's no general AI at the moment they are all very targetted, so you have to be very clear about what problem you are trying to solve. 
+
+Christian: introduce different people to the process. reality is a powerful thing if you introduce it.
 
