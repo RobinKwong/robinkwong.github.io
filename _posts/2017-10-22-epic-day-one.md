@@ -41,8 +41,14 @@ It's very hard to both be producing knowledge and producing things at the same t
 
 Can think about design process as: Understand-->Create-->Execute
 
+Researchers generate Thick Understanding-->Actionable Objects-->Precise measures
+
+Can think of research along 2 axes - designerly <-> scientific, and qualitative <-> quantitative.
+
+![](/images/epic_notes.jpg)
 
 On creativity (one of the 4 Cs of design): Intellectual mood board of methods
+
 
 Why it becomes hard to advocate when you don't have precise measures:
 
@@ -123,6 +129,8 @@ Christian: Two jobs - one is extension of man. but isn't there a job for AI itse
 Dawn: Work practices. One area I do have some hope is, having some data in hand that we can all look at could help. Won't shake strong ideology but could be a better approach.
 
 Melissa: What does it mean to do more ethnographic type of work when it's so foundational - 8 years lead time between research and product on the road.
+
+Autonomous systems are essentially relational systems. We need to be involved in the shifting of relationships
 
 newer/newish useful work - Can we put in place measurement and evaluations systems that can play a role in affecting the output.
 
