@@ -5,7 +5,7 @@ date: 2017-10-22 09:00
 tags: [conference, ethnography]
 permalink: /epic-day-one/
 ---
-I am attending the (Ethnographic Practice in Industry Conference)[https://2017.epicpeople.org] from October 22-25. Here are my notes from day one of the conference.
+I am attending the [Ethnographic Practice in Industry Conference](https://2017.epicpeople.org) from October 22-25. Here are my notes from day one of the conference.
 
 ## Fundamentals of Observational Research
 
@@ -124,13 +124,13 @@ Dawn: Work practices. One area I do have some hope is, having some data in hand 
 
 Melissa: What does it mean to do more ethnographic type of work when it's so foundational - 8 years lead time between research and product on the road.
 
-newer/newish useful work: Can we put in place measurement and evaluations systems that can play a role in affecting the output.
+newer/newish useful work - Can we put in place measurement and evaluations systems that can play a role in affecting the output.
 
 Christian: There's a place to be critical of the ideology, for example with agile.
 
 Dawn: one reason why temperature controls get made into many products is because it's relatively easy data to work with (and therefore we're going to scope our problem accordingly). But instead should ask whether this is a problem we should be working on at all.
 
-Lots of unexpected allies: data scientists, for example. There is a course at UC Davis on Data Archaeology taught by both an anthropologist and data scientist - why is that column there?
+Lots of unexpected allies - data scientists, for example. There is a course at UC Davis on Data Archaeology taught by both an anthropologist and data scientist - why is that column there?
 
 Christian: If you go back 5 to 10 years ago this conference was all about design - how to work with and influence designers. Today, all we've talked about is how to work with engineers.
 
@@ -138,7 +138,7 @@ Dawn: On ethics of AI - one important thing is to make it very concrete and very
 
 Mark: One important role of research: How to help the people you work with figure out what problems to solve.
 
-Q: how do we use ML/AI to do better ethnography?
+### Q: how do we use ML/AI to do better ethnography?
 
 Dawn: Don't really know, but one example of when she wished there was computer vision/AI was when sorting through lots of images. in general - useful for automating data analysis/processing but don't let it make decisions for you.
 
