@@ -5,7 +5,10 @@ date: 2017-10-22 09:00
 tags: [conference, ethnography]
 permalink: /epic-day-one/
 ---
-I am attending the [Ethnographic Practice in Industry Conference](https://2017.epicpeople.org) from October 22-25. Here are my notes from day one of the conference. [Day two notes are here](/epic-day-two/)
+I am attending the [Ethnographic Practice in Industry Conference](https://2017.epicpeople.org) from October 22-25. Here are my notes from day one of the conference. 
+
+[Notes for day two](/epic-day-two/)
+[Notes for day three](/epic-day-three/)
 
 ## Fundamentals of Observational Research
 
