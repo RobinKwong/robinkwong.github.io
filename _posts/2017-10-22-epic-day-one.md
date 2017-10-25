@@ -7,8 +7,12 @@ permalink: /epic-day-one/
 ---
 I am attending the [Ethnographic Practice in Industry Conference](https://2017.epicpeople.org) from October 22-25. Here are my notes from day one of the conference. 
 
-[Notes for day two](/epic-day-two/)
-[Notes for day three](/epic-day-three/)
+- [Notes for day four](/epic-day-four/)
+
+- [Notes for day three](/epic-day-three/)
+
+- [Notes for day two](/epic-day-two/)
+
 
 ## Fundamentals of Observational Research
 
