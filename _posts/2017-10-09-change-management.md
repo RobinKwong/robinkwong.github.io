@@ -2,7 +2,7 @@
 layout: post
 title: On language, articulation, and organisational change
 date: 2017-10-09 09:00
-tags: [journalism, digital, change, management]
+tags: [journalism, digital, change, management, highlight]
 permalink: /change-management/
 ---
 
