@@ -13,6 +13,8 @@ I am attending the [Ethnographic Practice in Industry Conference](https://2017.e
 
 - [Notes for day four](/epic-day-four/)
 
+- [Summary of notes](/epic-summary/)
+
 
 ## Fundamentals of Observational Research
 
@@ -168,6 +170,8 @@ Christian: introduce different people to the process. reality is a powerful thin
 - [Notes for day three](/epic-day-three/)
 
 - [Notes for day four](/epic-day-four/)
+
+- [Summary of notes](/epic-summary/)
 
 
 
