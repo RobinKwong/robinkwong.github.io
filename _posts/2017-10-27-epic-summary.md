@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Epic 2017 conference note summary
+title: What I learnt from hanging out with ethnographers
 date: 2017-10-27 10:00
-tags: [conference, ethnography]
+tags: [conference, ethnography, highlight]
 permalink: /epic-summary/
 ---
 
