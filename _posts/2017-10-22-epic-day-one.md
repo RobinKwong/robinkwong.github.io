@@ -7,11 +7,11 @@ permalink: /epic-day-one/
 ---
 I am attending the [Ethnographic Practice in Industry Conference](https://2017.epicpeople.org) from October 22-25. Here are my notes from day one of the conference. 
 
-- [Notes for day four](/epic-day-four/)
+- [Notes for day two](/epic-day-two/)
 
 - [Notes for day three](/epic-day-three/)
 
-- [Notes for day two](/epic-day-two/)
+- [Notes for day four](/epic-day-four/)
 
 
 ## Fundamentals of Observational Research
@@ -162,4 +162,14 @@ Dawn: Don't really know, but one example of when she wished there was computer v
 Melissa: there's no general AI at the moment they are all very targetted, so you have to be very clear about what problem you are trying to solve. 
 
 Christian: introduce different people to the process. reality is a powerful thing if you introduce it.
+
+- [Notes for day two](/epic-day-two/)
+
+- [Notes for day three](/epic-day-three/)
+
+- [Notes for day four](/epic-day-four/)
+
+
+
+
 
