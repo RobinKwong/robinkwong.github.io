@@ -58,7 +58,9 @@ Some of this has to do with grappling with tools and techniques of digital obser
 
 ### Having an impact
 
-How to advocate and create change within a shifting corporate context is a running theme. (The Ethnography/agile session that I missed, for example). What was interesting to me is the framing/language used was interventions, which seems to presuppose being in the position of coming in from the outside and of not being in charge. To me, this recalls discussions around design leadership and (to grossly stereotype) software engineers who spent much less time discussing and just went ahead and built technology/engineering-driven companies (and who are now having to return to discussing/examining issues of culture)
+How to advocate and create change within a shifting corporate context was a running theme in the conference (The Ethnography/agile session that I missed, for example). What was interesting to me is the framing/language used was interventions and recommendations, which seems to presuppose the ethnographer as coming in from the outside and of not being in charge. Much of the questions and discussion appeared to revolve around how researchers can be leaders and impact strategy.
+
+To me, this echoes similar discussions among designers about 'design leadership' or (to grossly stereotype) how software engineers just went ahead and built technology/engineering-driven companies (and who are now having to return to discussing/examining issues of culture).
 
 
 ## Choice quotes
