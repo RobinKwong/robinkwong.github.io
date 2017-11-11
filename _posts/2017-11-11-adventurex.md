@@ -7,7 +7,7 @@ permalink: /adventureX/
 ---
 I'm at the [AdventureX conference](http://www.adventurexpo.org/) this weekend. These are the notes
 
-## Dave Gilbert
+## Dave Gilbert _Getting Your Game in Focus_
 
 Keeping your focus: how to keep your project grounded and realistic and within a manageable scope
 
@@ -42,11 +42,11 @@ So need a secondary focus: Rosa and Joey
 
 By approaching it from a new angle, usually enough to get back to where Ineeded to be. so needed a 3rd focus:
 
-the game itself 
+The game itself 
 
 sometimes that's not enough, so, 4th focus:
 
-the whole series.
+The whole series.
 
 So, when people say that the backstory and the overarching meta-narrative is a bit of a mess, that's because it's at the bottom of the priority list.
 
@@ -78,4 +78,68 @@ In this talk, spoke a lot about motivation and confidence: often why it takes so
 
 It's much better to expand your comfort zone than to try to really get out of it. Just as important to make sure you don't land yourself in the frustration zone.
 
+## Jess Haskins _The Politics of Worldbuilding_
 
+You may not be interested in politics, but politics is interested in you.
+
+World building is politics, and there are some things we have to consider as we tell stories and contruct worlds and meanings. 
+
+Portfolio: https://paperback-studio.com/portfolio/
+
+Why do we have to talk about politics? All art is political, whether the artist thinks so or not. Developers are becoming more mindful and thoughtful about games the creat.
+
+You've probably heard lines like "It's just a game" before, typically right after someone gets into hot water, but "we weren't making a poilitical statement" = "we made a political statement unconsciously"
+
+When the poltiics of your work go unexamined, they tend to reflect the status quo, or unconscious biases
+
+Dr Katz professional therapist: we did some focus groups, and found out that the target audience are men, my age, who are me.
+
+Worldbuilding is a rhetocial exercise.
+
+As a worldbuilder you get to choose not just how to present those facts, but what those facts even are.
+
+how do you go about building a world in an intentional way?
+
+You are constructing a simplified, comprehensible sociology, geography, etc
+
+for gala collider, had folders with names like 'space', 'time', 'timeline of the galaxy' etc
+
+have different levels:
+
+- Geography and ecology 
+
+is usually where we start.
+
+this ia lot of fun but there's more:
+
+- Simulation of physical resources and material conditions. don't have to simulate this in the game but need it to make sense
+
+Next:
+
+- Political, economic and social systems
+
+Next:
+
+- Culture, arts, theology, etc
+
+These levels are all intertwined and related to each other.
+
+World builders are polymaths. In a sense you are what you eat, so watch your media diet. 
+
+Often when reaching out in worldbuilding, can fall into orientalism and cultural appropriation.
+
+how to avoid this?
+
+- do your research
+
+- maybe consider drawing on your own neighbourhood and own knowledge of where you come from.
+
+- consult others and involve outside voices
+
+- be willing to open your work to critique and other points of view
+
+What happened to 'write what you know'? Not terribly useful for fanasty 
+
+Don't be afraid to stray from your lane to make mistakes, rock the boat, and stepping outside the mainstream.
+
+Representation really does matter.
