@@ -143,3 +143,9 @@ What happened to 'write what you know'? Not terribly useful for fanasty
 Don't be afraid to stray from your lane to make mistakes, rock the boat, and stepping outside the mainstream.
 
 Representation really does matter.
+
+Q: How to fix established worlds?
+A: Sometimes there are older ideeas. Sometimes can maybe, not mention those ideas any more. If character or issue is core to the world, then maybe can bring in new characters to balance representation.
+
+Q: How do you know you're on the right track? Is it just instinct, or is there something more?
+A: Have to start with own instinct, but important, too, to show it to others with diverse opinions and get feedback.
