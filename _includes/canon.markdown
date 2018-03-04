@@ -21,6 +21,7 @@ These are articles, books, videos and podcasts that I find myself returning to o
 - [Understanding Comics](http://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X/ref=sr_1_1?s=books&ie=UTF8&qid=1453827847&sr=1-1&keywords=scott+mccloud+understanding+comics), Scott McCloud
 - [Considerations for Expressive Simulation](https://vimeo.com/149287018), Anna Kipnis
 - [How I Make Explorable Explanations](http://blog.ncase.me/how-i-make-an-explorable-explanation/amp/), Nicky Case
+- [We need fast design that is faster and slow design that is slower](http://www.zeldman.com/2018/02/24/need-design-faster-design-slower/)
 
 ## Management
 
