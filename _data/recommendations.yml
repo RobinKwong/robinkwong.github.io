@@ -1,4 +1,8 @@
-- title: <a href-"http://med.stanford.edu/news/all-news/2018/02/infectious-disease-expert-explains-data-via-contraptions.html?linkId=48847686" target="_blank">Infectious-disease expert explains data via sculptures, contraptions<a/>
+- title: <a href="https://www.nytimes.com/interactive/2018/03/14/climate/easter-island-erosion.html" target="_blank">Easter Island is Eroding</a>
+  description: A really interesting mixture of scrollytelling, ambient drone video, and traditional layout
+  date: 19/03/2018
+
+- title: <a href="http://med.stanford.edu/news/all-news/2018/02/infectious-disease-expert-explains-data-via-contraptions.html?linkId=48847686" target="_blank">Infectious-disease expert explains data via sculptures, contraptions</a>
   description: A nice example of using 3D data visualisation to explain complex findings in microbiology and immunology
   date: 11/03/2018
 
