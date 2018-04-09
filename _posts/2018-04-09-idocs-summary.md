@@ -52,4 +52,4 @@ Here's a partial list of the projects I found out about at the conference.
 
 [Alma](http://alma.arte.tv/en/) Testimony of a member of one of Guatemala's most brutal gangs.
 
-[The New Rules of Public Art](https://studiotosituation.files.wordpress.com/2015/01/the_new_rule_of_public_art.pdf)
+[The New Rules of Public Art](https://studiotosituation.files.wordpress.com/2015/01/the_new_rule_of_public_art.pdf) I especially like rule number 8: Share ownership freely, but authorship wisely.
