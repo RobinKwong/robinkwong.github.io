@@ -1,7 +1,7 @@
 <section class="section">
-  <h2 class="section-title"><span>&#x56db;</span><span>All posts</span></h2>
+  <h2 class="section-title"><span>&#x56db;</span><span>Posts</span></h2>
   <ul class="list">
-    {% for item in site.posts %}
+    {% for item in site.posts limit:10 %}
     {% if item.tags contains "press" %}
     	{% continue %}
     {% else %}
@@ -10,5 +10,6 @@
     </li>
     {% endif %}
     {% endfor %}
+  <p class="archive-link"><a href="/archives/">&#8594; Older posts</a></p>
   </ul>
 </section>
