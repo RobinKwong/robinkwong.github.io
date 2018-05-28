@@ -6,6 +6,15 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+	<meta name="application-name" content="Robin Kwong | Project management in newsrooms"/>
+	<meta name="msapplication-TileColor" content="##E5792" />
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png" />
+	<meta name="msapplication-notification" content="frequency=30;polling-uri=https://notifications.buildmypinnedsite.com/?feed=robinkwong.com/feed.xml&amp;id=1;polling-uri2=https://notifications.buildmypinnedsite.com/?feed=robinkwong.com/feed.xml&amp;id=2;polling-uri3=https://notifications.buildmypinnedsite.com/?feed=robinkwong.com/feed.xml&amp;id=3;polling-uri4=https://notifications.buildmypinnedsite.com/?feed=robinkwong.com/feed.xml&amp;id=4;polling-uri5=https://notifications.buildmypinnedsite.com/?feed=robinkwong.com/feed.xml&amp;id=5;cycle=1" />
+
   <meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@robinkwong">
 	<meta name="twitter:creator" content="@robinkwong">
@@ -18,8 +27,6 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content:"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 	<meta property="og:title" content:"{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-
-	<meta name="msapplication-TileColor" content="#cccccc">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
