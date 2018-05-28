@@ -2,7 +2,7 @@
 layout: post
 title: Lessons from the Ethnographic Pratice in Industry Conference
 date: 2017-10-27 10:00
-tags: [conference, ethnography, highlight]
+tags: [conference, ethnography]
 permalink: /epic-summary/
 ---
 
