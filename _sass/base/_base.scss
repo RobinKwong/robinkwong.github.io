@@ -30,7 +30,17 @@ a {
   @include on-event {
     color: rgba(#fff, .5);
   }
+
 }
+
+a.arrow {
+  font-family: $f-sans-serif;
+  color: #684d6a;
+}
+
+p.arrow-container {
+    margin-top: 1.5em;
+  }
 
 @media (max-width: 767px) {
   
