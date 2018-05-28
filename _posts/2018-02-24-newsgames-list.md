@@ -5,6 +5,8 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital]
 permalink: /newsgames-list/
 ---
+_Updated May 28, 2018_
+
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
 This proliferation means that the boundaries between what is a newsgames, simulations, interactive explanation and interactive fiction is becoming increasingly blurred. And that, I think, is a good thing. 
@@ -12,8 +14,11 @@ This proliferation means that the boundaries between what is a newsgames, simula
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Really cute news game about understanding the new Singapore government budget <a href="https://twitter.com/hashtag/SGBudget2018?src=hash&amp;ref_src=twsrc%5Etfw">#SGBudget2018</a> from <a href="https://twitter.com/STcom?ref_src=twsrc%5Etfw">@STcom</a> <a href="https://t.co/xA0GkUqsHO">https://t.co/xA0GkUqsHO</a> I guess from <a href="https://twitter.com/vivi_pazos?ref_src=twsrc%5Etfw">@vivi_pazos</a> and team? <a href="https://twitter.com/RobinKwong?ref_src=twsrc%5Etfw">@RobinKwong</a> someone should collect links to all of these in one place</p>&mdash; Yan (@yanoak) <a href="https://twitter.com/yanoak/status/965768546637643777?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I haven't seen that list compiled anywhere else yet, so I'm going to attempt to do it here. Apologies in advance for any I have missed - let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter!
+Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gamejournalism), and Ian Bogost's book, [Newsgames](http://bogost.com/books/newsgamesbook/), gives a comprehensive overview. 
 
+But in any case, here's the list I compiled. Apologies in advance for any I have missed, and please let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter! 
+
+_Thanks to Peter Yeung for pointing out some of the ones below_
 
 - [You are Jeff Bezos, where should HQ2 go?](http://gatehousenews.com/amazon)
 
@@ -47,9 +52,21 @@ I haven't seen that list compiled anywhere else yet, so I'm going to attempt to 
 
 - [Bury me, my Love](http://burymemylove.arte.tv/)
 
+- [The Good, the Bad and the Accountant](https://jplusplus.github.io/the-accountant/#/)
+
+- [The Waiting Game](http://projects.propublica.org/asylum/)
+
+- [Think Military Strikes Could Stop North Korea? Try It and See.](https://www.nytimes.com/interactive/2018/05/24/opinion/north-korea-trump-military-strikes.html)
+
+- [Could you be a cricket umpire?](https://www.thetimes.co.uk/article/cricket-umpire-lbw-game-tg06rcv7s)
+
 - [#Hacked](http://www.julianaruhfus.com/interactive-investigations/hacked/)
 
 - [Pirate fishing](http://www.julianaruhfus.com/interactive-investigations/pirate-fishing-2/)
+
+- [The good, the bad, and the accountant](https://jplusplus.github.io/the-accountant/#/)
+
+- [Play Our Game To See If You Can Travel From Glasgow To London On A Typical Day As A Wheelchair User](https://www.buzzfeed.com/louiseridley/can-you-travel-from-glasgow-to-london-as-a-wheelchair-user?utm_term=.uw3BzjAv#.vxlRqx5w)
 
 - [The Uber Game](https://ig.ft.com/uber-game/)
 
@@ -62,6 +79,10 @@ I haven't seen that list compiled anywhere else yet, so I'm going to attempt to 
 - [1979 Revolution: Black Friday](http://store.steampowered.com/app/388320/1979_Revolution_Black_Friday/)
 
 - [Spot the ball](https://www.theguardian.com/sport/series/spot-the-ball)
+
+- [Paper Brexit](https://gregbuchanan.itch.io/paper-brexit)
+
+- [Paper Drumpf](https://www.gregbuchanan.co.uk/game/#/paper-drumpf/)
 
 - [The Evolution of Trust](http://ncase.me/trust/)
 
