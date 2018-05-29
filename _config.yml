@@ -1,7 +1,7 @@
 # Site settings
 title: Robin Kwong | Project management in newsrooms
 baseurl: ""
-url: "http://www.robinkwong.com"
+url: "https://www.robinkwong.com"
 description: "Personal website of Robin Kwong, head of digital delivery of the Financial Times, where he writes about project management in newsrooms and design thinking in journalism"
 # Build settings
 include: [_pages]
