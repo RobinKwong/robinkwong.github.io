@@ -6,26 +6,27 @@ tags: [project, interactivity, audience, journalism, highlight]
 permalink: /cnl-scratch/
 ---
 
-Contemporary Narratives Laboratory (CNL) is a partnership between People's Palace Projects, Queen Mary University of London, The Financial Times and Battersea Arts Centre. This collaborative research project brings together artists, researchers and journalists to explore how creative approaches to storytelling can support innovation in journalistic and artistic practices
+Contemporary Narratives Laboratory (CNL) is a partnership between People's Palace Projects, Queen Mary University of London, The Financial Times and Battersea Arts Centre. It brings together artists, researchers and journalists to explore how creative approaches to storytelling can support innovation in journalistic and artistic practices.
 
 See [this earlier post](/cnl/) for an introduction to the project and an explanation of our motivations and goals.
 
 ***
 
-On June 29, after just a week of development and rehearsal time, five sets of artists presented their works-in-progress to a live audience of 40 people at the Battersea Arts Centre.
+On June 29, after just four days of development and rehearsal, five sets of artists presented their works-in-progress to a live audience of 40 people at the Battersea Arts Centre.
 
-The artists were paired up with Financial Times reporters, and each of their 10-minute pieces explored differents ways in which theatre, performance and journalism can come together to create experiences.
+The artists were paired up with Financial Times reporters and each of their 10-minute pieces explored how theatre, performance and journalism can come together to spark curiosity and create meaningful experiences.
 
 ### Actions from the afterlife
 _Rhiannon Armstrong / Emma Jacobs_
 
 Rhiannon chose to work Emma Jacobs' story on 'grief tech', or [How technology is changing the way we grieve](https://www.ft.com/content/95dc5584-1c12-11e8-aaca-4574d7dabfb6). In her piece, Emma wrote about technology such as AI chatbots and digital monuments that sought to help people communicate their loss and process their grief.
 
-“With so much anguish about technology ruining people’s ability to forge human connections, grief tech feels, perversely, rather cathartic to me," Emma wrote. "Strip out the exuberance of tech inventors and what you find is nothing new — just the latest machine through which to process grief.”
+“With so much anguish about technology ruining people’s ability to forge human connections, grief tech feels, perversely, rather cathartic to me," Emma wrote in her story. "Strip out the exuberance of tech inventors and what you find is nothing new — just the latest machine through which to process grief.”
 
 ![](/images/rhiannon.png)
+<p class="caption"><i>Actions from the afterlife</i>, Rhiannon Armstrong</p>
 
-Rhiannon created an interactive piece that asked participants sat around a table to perform actions on behalf of others in the audience. It represented how the commemorative rituals we do for those who have died are what makes up their afterlife. This provided a jumping off point to explore the more general question of how we do things for and on behalf of others as part of our online life, of private grief vs public ritual, and, crucially, who profits from digital acts of remembrance.
+Rhiannon created an interactive piece that asked participants sat around a table to perform actions on behalf of others in the audience. It represented the commemorative rituals we do for those who have died, and argues that it is those actions that make up their afterlife. This provided a jumping off point to explore how we do things for and on behalf of others as part of our online life, of private grief vs public ritual, and, crucially, who profits from digital acts of remembrance.
 
 It's a live piece of work. "Thinking, feeling and doing are all part of the experience," Rhiannon said. This meant careful control of the pacing to "put space in there for audiences to have their own thought processes and make their own connections".
 
@@ -36,9 +37,9 @@ _[Rhiannon Armstrong](http://www.rhiannonarmstrong.com/) makes work under the li
 ### Work Tribes
 _Paula Varjack / Emma Jacobs and Andrew Hill_
 
-[Work Tribes](https://www.ft.com/work-tribes) is a new series in the Financial Times about the people who populate our modern workplaces, from Millennial managers and Mompreneurs to the professional conference-goer and the long-distance commuter. It's a fictional column, but the characters and workplace dynamics in the pieces are informed by Emma and Andrew's observations and experience in their career covering business life and management.
+[Work Tribes](https://www.ft.com/work-tribes) is a new series in the Financial Times about the people who populate our modern workplaces, from Millennial managers and Mompreneurs to the professional conference-goer and the long-distance commuter. It's a fictional column, but the characters and workplace dynamics it describes are informed by Emma and Andrew's observations and experience in their career covering business life and management.
 
-Paula brought these characters to life in a series of vignettes. She approached the pieces with the idea of providing for the audience "an alien point of view into a foreign world...Finance as something very public but also very exclusive/private/closed off".
+Paula brought these characters to life in a series of vignettes. She approached the pieces with the idea of providing "an alien point of view into a foreign world...Finance as something very public but also very exclusive/private/closed off".
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BklCcVlgRHF/" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BklCcVlgRHF/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">End of day 4 at @batterseaartscentre devising performance based on the @financialtimes work tribes column as part of #contemporarynarratives @peoplespalaceprojects #worktribes scratch tomorrow afternoon , talk about process on Monday. Front image features (from left to right) the management guru, the mum-preneur , the ambitious intern and the worried worker. 2nd image features the millennial manager</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/paulavarjack/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> Paula Varjack</a> (@paulavarjack) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-06-28T18:39:41+00:00">Jun 28, 2018 at 11:39am PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
 
@@ -49,16 +50,17 @@ _[Andrew Hill](https://www.ft.com/andrew-hill) is an associate editor and the ma
 ### Blockchain as memory
 _Harun Morrison / Chloe Cornish_
 
-Reporters have to learn about their beats before they can explain and analyse the news to readers. To do so, they construct mental models of their areas of coverage. These mental models are usually hidden from readers but are hugely important because they inform and underpin the reporter's articles. When Chloe first started covering blockchain and cryptocurrencies, the metaphor of Blockchain as Memory stuck in her mind as a way of understanding this complex subject. Thinking about the ways in which the two were similar, or where they differed, helped Chloe make sense of blockchain technology.
+Reporters have to learn about their beats before they can explain and analyse the news to readers. To do so, they construct mental models of their areas of coverage. These mental models are usually hidden from readers but are hugely important because they inform and underpin the reporter's articles. When Chloe first started covering blockchain and cryptocurrencies, the metaphor of Blockchain as Memory stuck in her mind as a way of understanding this complex subject. Thinking about the ways in which the two are similar, and where they differed, helped Chloe make sense of blockchain technology.
 
 Harun tackled this piece by considering several other questions. 
 
 - In what way could a financial instrument be an artwork?
 - To what degree can an artwork embrace some of the modes of the current financial system?
 - If economies and societies are a series of contracts and bets, how is that some forms of betting carry differnt moral judgements than others? 
-- The actors who get to actively influence the outcome of those bets tend to have the luxury to think and plan for the long term. How do we recreate their systemic and long-term thinking for people who don't have that luxury?
+- Those who are in positions to actively influence societal outcome tend to have the luxury to think and plan for the long term. How do we recreate that type of systemic and long-term thinking for people who don't have the luxury?
 
 ![](/images/harun.png)
+<p class="caption">Harun Morrision</p>
 
 These questions led to the concept that Harun presented: Pose a series of questions about the state of the world that won't be proven true until twenty, or fifty years later. Each question becomes a wager that the audience can bet on using real money, and all the bets in this prediction market is transacted and tracked using cryptocurrency and blockchain technology. That cryptocurrency becomes both a financial instrument and the artwork itself. 
 
@@ -79,9 +81,10 @@ This tension became a focus of the conversations between Tassos and Leslie.
 
 "We talked about the difficulty of understanding the complex chains of cause and effect in the human impact on climate, and how that gives wriggle room for doubt when people want to doubt," Tassos said. "As a species, we are wired to perceive our impact on systems when there is immediate feedback for our actions, where individual actions can be tallied. We are wired for stories."
 
-![](/images/tassos.png) 
+![](/images/tassos.png)
+<p class="caption"><i>Ten</i>, Tassos Stevens</p> 
 
-_Ten_ was the resulting work. The audience, as a group, won if exactly ten people stood up at the end of the game, but the rules created incentives for individuals to act against the groups' interest. At the end of the contest, Tassos brought the game back to the theme of climate change by asking the audience to discuss, and collectively answer, a climate change-related question.
+_Ten_ was the resulting work. The audience, as a group, won if exactly ten people stood up at the end of the game, but the rules created incentives for individuals to act against the group's interest. At the end of the contest, Tassos brought the game back to the central theme by asking the audience to discuss, and collectively answer, a climate change-related question.
 
 > I aimed to design a game which would not in any way literally model a climate system but rather some of the experiences of agency which we have when trying to decipher actions. Not much would happen. It might be uncertain what was in play. It would require a coordination of a group. There would be a tension between individuals and the group.
 
@@ -105,6 +108,7 @@ This contrast was interesting because Uber ostensibly has a business-to-business
 
 ![](/images/conrad1.png)
 ![](/images/conrad2.png)
+<p class="caption">Conrad Murray</p>
 
 Andre and Conrad used rap, beatboxing and spoken-word poetry to focus the performance's emphasis on the language. The performance had two halves: the first where Conrad played an Uber driver, and the second where he played an Uber executive. 
 
@@ -119,7 +123,5 @@ _[Conrad Murray](https://www.conradmurray.org/) is one half of theatre company B
 A big part of the Battersea Arts Centre's Scratch process is feedback and iteration. By performing the works live in front of an audience, even after just a week of development, we were able to gather some really useful feedback.
 
 On the Monday after the Scratch performance, we held a discussion with the artists and other participants to discuss and review process.  Next, we'll need to go over the audience feedback so that we can refine our questions, present some learnings, and regroup to chart the next steps of this project.
-
-More to come, hopefully soon!
 
 *What to read next*: [The Contemporary Narratives Lab](/cnl/) 
