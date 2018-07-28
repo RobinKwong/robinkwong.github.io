@@ -112,7 +112,7 @@ This contrast was interesting because Uber ostensibly has a business-to-business
 
 Andre and Conrad used rap, beatboxing and spoken-word poetry to focus the performance's emphasis on the language. The performance had two halves: the first where Conrad played an Uber driver, and the second where he played an Uber executive. 
 
-"We could have take the material and create a play, but actually the fact that it’s a collaboration means that you need to take it and present it in the way the FT would present it – not with an obvious slant towards one party or the other," Andre said.
+"We could have taken the material and created a play, but by working with it in different ways we can keep the audience aware that these words come from a journalist's interviews - we can keep the source material slightly visible and perhaps present it in a balanced way, similar to what the FT would do, but in a different format," Andre said.
 
 _[Andre Piza](http://www.peoplespalaceprojects.org.uk/en/staff/andre-piza/) is a researcher and theatre director regularly collaborating with People’s Palace Projects, an arts research centre based at Queen Mary University of London. Originally a graduate in Journalism from University of São Paulo, he has also worked with Battersea Arts Centre, Theatre Royal Stratford East and Contact Theatre (Manchester)._
 
