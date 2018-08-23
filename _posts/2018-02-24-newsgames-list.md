@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital]
 permalink: /newsgames-list/
 ---
-_Updated May 28, 2018_
+_Updated 23 Aug, 2018_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -81,6 +81,8 @@ _Thanks to Peter Yeung for pointing out some of the ones below_
 - [1979 Revolution: Black Friday](http://store.steampowered.com/app/388320/1979_Revolution_Black_Friday/)
 
 - [Spot the ball](https://www.theguardian.com/sport/series/spot-the-ball)
+
+- [What makes a World Cup winner?](https://www.telegraph.co.uk/world-cup/world-cup-2018-winners-predictions-forecast-champions/)
 
 - [Paper Brexit](https://gregbuchanan.itch.io/paper-brexit)
 
