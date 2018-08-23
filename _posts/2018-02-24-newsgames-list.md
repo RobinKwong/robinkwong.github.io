@@ -36,6 +36,8 @@ _Thanks to Peter Yeung for pointing out some of the ones below_
 
 - [Brexit Bus](https://advisa.se/en/research/brexit-bus/)
 
+- [Pick Your Own Brexit](https://www.bloomberg.com/graphics/2018-pick-your-own-brexit/)
+
 - [Build your own trading bot](https://www.wsj.com/graphics/build-your-own-trading-bot/)
 
 - [The Trading Game](https://www.bloomberg.com/features/2015-stock-chart-trading-game/)
