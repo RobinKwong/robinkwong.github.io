@@ -6,7 +6,7 @@ tags: [project, interactive, journalism, newsgames, highlight]
 permalink: /uber-game-reflections/
 ---
 
-Exactly a year ago today, we published [the Uber Game](https://ig.ft.com/uber-game), a newsgame that puts players into the shoes of a full-time Uber driver. It was an exploration how interactive storytelling can be used in service of journalism &mdash; and an experiment in [fostering curiosity about the news](/need-for-news/).  
+A year ago, we published [the Uber Game](https://ig.ft.com/uber-game), a newsgame that puts players into the shoes of a full-time Uber driver. It was an exploration how interactive storytelling can be used in service of journalism &mdash; and an experiment in [fostering curiosity about the news](/need-for-news/).  
 
 This past year has been a good one for the Uber Game. Besides quickly becoming one of the most read pieces of journalism published by the Financial Times in 2017, it has won a number of awards: at the [Society of News Design](https://www.snd.org/bodd/about/2017-results/#ED), [Online Journalism Awards](https://awards.journalists.org/entries/the-uber-game/), the [Intenational Serious Play Awards](https://seriousplayconf.com/2018-award-winners/) and the [Malofiej International Infographics Awards](http://www.malofiejgraphics.com/wp-content/uploads/2018/03/M26-Awards-List-DEF.pdf), and shortlisted at the [Gerald Loeb](https://www.anderson.ucla.edu/gerald-loeb-awards) and [Data Journalism Awards](https://www.datajournalismawards.org/shortlist/). 
 
