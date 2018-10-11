@@ -8,7 +8,17 @@ permalink: /epic-summary/
 
 I attended the 2017 [Ethnographic Pratice in Industry Conference](https://2017.epicpeople.org/), or EPIC for short, in Montreal from October 22-25. 
 
+[ed. I'm back at EPIC for 2018! [Day 1 notes here](/epic2018-day-one/)]
+
 ![](/images/epic.JPG)
+
+- [Notes for day one](/epic-day-one/)
+
+- [Notes for day two](/epic-day-two/)
+
+- [Notes for day three](/epic-day-three/)
+
+- [Notes for day four](/epic-day-four/)
 
 I had two motivations for going:
 
