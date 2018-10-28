@@ -6,7 +6,7 @@ tags: [conference, ethnography]
 permalink: /epic2018-summary/
 ---
 
-![](/images/epic2018/epicsummary.JPG)
+![](/images/epic2018/epicsummary.jpg)
 
 It was a joy to be back at EPIC &mdash; the [Ethnographic Praxis in Industry Conference](https://2018.epicpeople.org) &mdash; for a second year.
 
