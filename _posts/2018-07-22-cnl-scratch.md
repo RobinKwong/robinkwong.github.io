@@ -10,6 +10,8 @@ Contemporary Narratives Laboratory (CNL) is a partnership between People's Palac
 
 See [this earlier post](/cnl/) for an introduction to the project and an explanation of our motivations and goals.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6O_iX6YOEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
 
 On June 29, after just four days of development and rehearsal, five sets of artists presented their works-in-progress to a live audience of 40 people at the Battersea Arts Centre.
