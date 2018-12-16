@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NiemanLab Predictions for Journalism 2018
+title: Nieman Lab Predictions for Journalism 2018
 date: 2017-12-13 09:00
 tags: [digital, journalism, press]
 outlet: Nieman Lab
