@@ -2,7 +2,7 @@
 layout: post
 title: A list of recent newsgames
 date: 2018-02-24 20:00
-tags: [journalism, games, digital]
+tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
 _Updated 3 March 2019_
