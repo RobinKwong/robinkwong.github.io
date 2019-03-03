@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital]
 permalink: /newsgames-list/
 ---
-_Updated 10 September, 2018_
+_Updated 3 March 2019_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -19,6 +19,8 @@ Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gam
 But in any case, here's the list I compiled. Apologies in advance for any I have missed, and please let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter! 
 
 _Thanks to Peter Yeung for pointing out some of the ones below_
+
+- [The Amazon Race](https://mobile.abc.net.au/news/2019-02-27/amazon-warehouse-workers-game-race/10803346)
 
 - [The Betsy Devos board game](https://www.washingtonpost.com/graphics/2018/lifestyle/magazine/ben-folds-artists-alternative-storytelling-issue/?noredirect=on&utm_term=.71fe90b4e9f4#pg-devos)
 
