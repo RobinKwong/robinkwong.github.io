@@ -12,15 +12,15 @@ I gave the following keynote on the media stage at the [Fifteen Seconds Festival
 
 <hr>
 
-![](/images/fifteenseconds/slide1.jpeg)
+![](/images/fifteenseconds/Slide1.jpeg)
 
 I’ve never confessed this in front of such a large audience before, but, I’m a nerd. And if there’s one thing that I’ve always been passionate about, it’s computer games.
 
-![](/images/fifteenseconds/slide2.jpeg)
+![](/images/fifteenseconds/Slide2.jpeg)
 
 Growing in Hong Kong as a kid in the 80s, in between getting straight As at school, and then piano lessons and swimming lessons and judo lessons, computer games were my escape. I still remember my sense of anticipation at being able to escape into and explore a mysterious new world the first time I popped the Myst CD into my computer's CD-ROM drive.  Or my plaintive cries of "Just one more turn, mom!" when I was deep into a game of civilisation and it was past my bedtime. 
 
-![](/images/fifteenseconds/slide3.jpeg)
+![](/images/fifteenseconds/Slide3.jpeg)
 
 Or, indeed, my sense of frustration when playing Oregon Trail, and half of my settlers would die of horrific diseases before we made it even half-way across.
 
@@ -30,11 +30,11 @@ But other lessons stood me in good stead. I learnt teamwork, and strategy, and f
 
 So take Oregon Trail for example. The stories were the ones that I told myself about my plucky band of explorers, and the trials and tribulations they went through as they headed west.  The system was the map of the US. The weather. How far the settlers could actually go in a day. And the system taught me the value of calculated risk-taking, and careful management of resources. 
 
-![](/images/fifteenseconds/slide4.jpeg)
+![](/images/fifteenseconds/Slide4.jpeg)
 
 Fast forward 10 years, and I’m working in London for the Financial Times.  I’m still a nerd, but now I’m a *news nerd*, which means both that I was using code and programming to do journalism, and also that I'm asking questions about the story and the systems of journalism: What is the mission of what we do? What systems - workflows, networks, organisations - enable us to do this work? And, crucially, how can we do it better?
 
-![](/images/fifteenseconds/slide5.jpeg)
+![](/images/fifteenseconds/Slide5.jpeg)
 
 It was a good time to be thinking these deep, weighty questions about the future of journalism, because the industry as a whole, and the Financial Times was no exception, was undergoing massive change and disruption. Readers were shifting from the newspaper to digital devices. When I first joined the Financial Times 12 years ago, 80%, or four out of every five subscriber were print-only. They were literally buying a newspaper from us. Today, the same proportion - 80% - are digital-only subscribers. We have subscribers who have never seen the FT in print before and wonder about why our website has this strange pink-coloured background.
 
@@ -42,37 +42,37 @@ And one question that I kept returning to, was that despite all this change and 
 
 Audience engagement was starting to become a big deal in many newsrooms including ours, but it was mostly concerned with questions of _before_ and _after_. So for example, _before_ you, as a reader, arrive at an FT article, how can we use search engine optimisation to help you find the relevant article more easily? Or, _after_ you've finished reading an article, how can we encourage you to comment below the line or to share the article on social media?
 
-![](/images/fifteenseconds/slide6.jpeg)
+![](/images/fifteenseconds/Slide6.jpeg)
 
 So, being a good millennial, I decided to follow my passion. I wondered what would happen if we could combine the magic and power of video games, with the rigour and reporting of journalism? What if we could make a really good news game?
 
 And so we did.
 
-![](/images/fifteenseconds/slide7.jpeg)
+![](/images/fifteenseconds/Slide7.jpeg)
 
 We made [The Uber Game](https://ft.com/ubergame/). It's available for free at ft.com/ubergame. In this game, you play as a full-time Uber driver in San Francisco, trying to make a living.
 
-![](/images/fifteenseconds/slide8.jpeg)
+![](/images/fifteenseconds/Slide8.jpeg)
 
 You have a week to make a thousand dollars, and you do so by driving around the city and completing rides. And in the course of doing so, you come across different dilemma.
 
-![](/images/fifteenseconds/slide9.jpeg)
+![](/images/fifteenseconds/Slide9.jpeg)
 
 For example, in this one, you had promised your son to be home by 7pm to help him with his homework. It's getting close to that time, but you get a message from Uber that says you have just a few more rides before you complete your quest, which earns you a big cash bonus. Do you keep driving, or do you keep your promise?
 
-![](/images/fifteenseconds/slide10.jpeg)
+![](/images/fifteenseconds/Slide10.jpeg)
 
 Everything in the Uber Game is journalism and comes from reported facts.  We interviewd dozens of Uber drivers to source not just the _stories_ - the scenarios and dilemmas that you come across in the game - but also the nubmers that underpin the _system_. We asked very specific questions, like, how many rides do you complete on average in an hour? or how much do you actually earn if you complete a quest?
 
-![](/images/fifteenseconds/slide11.jpeg)
+![](/images/fifteenseconds/Slide11.jpeg)
 
 And on the flip side, the costs - the parts that are often overlooked. What is your fuel cost per month? or how much do you have to budget for repairs?
 
-![](/images/fifteenseconds/slide12.jpeg)
+![](/images/fifteenseconds/Slide12.jpeg)
 
 And what the game teaches you, is that when you combine your revenue and your costs, your profits are often less than you expect them to be.
 
-![](/images/fifteenseconds/slide13.jpeg)
+![](/images/fifteenseconds/Slide13.jpeg)
 
 The Uber Game was a big success for us. Nearly half a million people have now played the game, and they have each spent 20 minutes, on average, playing the game. To put this into context, our average time on page for an FT article is just over a minute.
 
@@ -82,7 +82,7 @@ But if we are to fulfil our mission as journalists, which is to help people unde
 
 Oh, and yeah. We won a bunch of awards for the Uber Game, in both journalism and innovation awards, so that was cool.
 
-![](/images/fifteenseconds/slide14.jpeg)
+![](/images/fifteenseconds/Slide14.jpeg)
 
 I'd love to stand here and tell this beautiful story about how this childhood passion of mine enabled us to create a successful newsgame, but the reality is that I'm by no means a trained, professional game designer. So when we set out to make the Uber Game, I knew I needed help.
 
@@ -96,15 +96,15 @@ One of the points that Celia makes, is that emotions affect cognition. You learn
 
 So, emotional storytelling is powerful.  It can help shape people's worldviews, and through doing so, affect their cognition. And we know this works, because we've seen it in action in journalism.
 
-![](/images/fifteenseconds/slide15.jpeg)
+![](/images/fifteenseconds/Slide15.jpeg)
 
 We've seen it in action in tabloid newspapers that prey on people's fear and anxiety and sense of scarcity. We've seen it in action in talk shows that rile up people's anger and sense of injustice.
 
-![](/images/fifteenseconds/slide16.jpeg)
+![](/images/fifteenseconds/Slide16.jpeg)
 
 And more recently, we've seen it in action in social media, where the power of targetted advertising has led to the creation of memes and posts that are specifically designed to manipulate people through their emotions. This was, in essence, the Cambridge Analytica scandal.
 
-![](/images/fifteenseconds/slide17.jpeg)
+![](/images/fifteenseconds/Slide17.jpeg)
 
 All of this is creating a world that is more fragmented, more divided, and more tribal than ever before. It is creating a crisis for journalism, because people don't trust us, the journalists, and the work that we do anymore. They are more likely to shout "fake news!" when they come across something they don't like, rather than engage with the facts in healthy debate.
 
@@ -130,7 +130,7 @@ This video was filmed, directed and masterminded by my colleague Juliet Ridell. 
 
 So, to recap: We've turned to game designers for help to make the news experience more interactive and more engaging. We've collaborated with poets to help us convey emotional understanding. The next question we asked ourselves, was: what if the news experience was _embodied_, and much more of a two-way conversation between audience and storyteller?
 
-![](/images/fifteenseconds/slide20.jpeg)
+![](/images/fifteenseconds/Slide20.jpeg)
 
 For this, we turned to theatre-makers and artists for help.
 
@@ -146,35 +146,35 @@ So Tassos, the artist, took that and created this game, where everyone in the ro
 - We had a piece of conceptual artwork that compared blockchain to human memory
 - We had a piece of participatory theatre that explored grief and technology.
 
-![](/images/fifteenseconds/slide21.jpeg)
+![](/images/fifteenseconds/Slide21.jpeg)
 
 The experiment at the Battersea Arts Centre was just that - an experiment. It was a small first step towards figuring out how artists and journalists could collaborate effectively. But what it led to was the discovery that we weren't alone, and that there were lots of people in both theatre and journalism who are interested in exploring this in-between space.
 
 So at the end of last year I flew down to Johannesburg, in South Africa, for a project funded by the Open Societies Foundation. It was structured very similarly to what we did at the Battersea Arts Centre: It paired up investigative journalists with local artists to create new works that reached audiences who would not normally either buy a newspaper, or buy a ticket to go into a theatre.
 
-![](/images/fifteenseconds/slide22.jpeg)
+![](/images/fifteenseconds/Slide22.jpeg)
 
 This is the De Balie culture centre in Amsterdam, where for the last few months they have been conducting a very interesting experiment in [live journalism](https://debalie.nl/live-journalism/), and asking the question of what it means to bring an investigation and reporting into a topic into a space over a period of several months. 
 
-![](/images/fifteenseconds/slide23.jpeg)
+![](/images/fifteenseconds/Slide23.jpeg)
 
 They are using theatre and performance to not just convey an emotional understanding, but also to create a space for dialogue between people on different sides of an issue. In this project, the facts are the jumping-off point to explore both the stories and the system.
 
-![](/images/fifteenseconds/slide24.jpeg)
+![](/images/fifteenseconds/Slide24.jpeg)
 
 I'm proud to be a nerd, and a news nerd, because it gives me optimism and enthusiasm about how journalism and grow and thrive at a time when there is a lot of doom and gloom about our industry. So, to close, I'd like to tell you about some of the future possilities and interdisciplinary spaces that I'm excited to explore next.
 
 As more news organisations become subscription- and membership-based, what can we learn from sports teams and churches about growing and nurturing a following?
 
-![](/images/fifteenseconds/slide25.jpeg)
+![](/images/fifteenseconds/Slide25.jpeg)
 
 What can we learn from Instagram influencers, and fashion designers, about how our work helps shape people's sense of self image, self identity and self worth?
 
-![](/images/fifteenseconds/slide26.jpeg)
+![](/images/fifteenseconds/Slide26.jpeg)
 
 As we design our news apps and news sites, what can we learn from museum curators about how to create spaces for serendipity, learning and delight?
 
-![](/images/fifteenseconds/slide27.jpeg)
+![](/images/fifteenseconds/Slide27.jpeg)
 
 *What to read next*: [What art and drama can do for journalism](/art-journalism/) 
 
