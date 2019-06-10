@@ -126,7 +126,7 @@ We tried to convey this depth of feeling, and this sense of emotional understand
 
 <div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/8cZe2ihEZO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-This video was filmed, directed and masterminded by my colleague Juliet Ridell. We commissioned Clare Dwyer Hogg, an Irish poet, to write an original poem about Brexit and the Irish backstop, based off of articles that we have written in the FT. We asked the Irish actor Stephen Rea to perform a reading of it on location at the actual border, which Juliet turned into this beautiful film.
+This video was filmed, directed and masterminded by my colleague Juliet Riddell. We commissioned Clare Dwyer Hogg, an Irish poet, to write an original poem about Brexit and the Irish backstop, based off of articles that we have written in the FT. We asked the Irish actor Stephen Rea to perform a reading of it on location at the actual border, which Juliet turned into this beautiful film.
 
 So, to recap: We've turned to game designers for help to make the news experience more interactive and more engaging. We've collaborated with poets to help us convey emotional understanding. The next question we asked ourselves, was: what if the news experience was _embodied_, and much more of a two-way conversation between audience and storyteller?
 
@@ -144,7 +144,8 @@ So Tassos, the artist, took that and created this game, where everyone in the ro
 
 - We turned a set of interview transcripts and notes into a rap and spoken word performance
 - We had a piece of conceptual artwork that compared blockchain to human memory
-- We had a piece of participatory theatre that explored grief and technology.
+- We had a piece of participatory theatre that explored grief and technology
+- We brought our Work Tribes column to life with a series of live performance vignettes
 
 ![](/images/fifteenseconds/Slide21.jpeg)
 
