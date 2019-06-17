@@ -20,6 +20,10 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 _Thanks to Peter Yeung for pointing out some of the ones below_
 
+- [Poverty game](https://www.rtlnieuws.nl/nieuws/nederland/artikel/4741176/armoede-game-kom-jij-rond-ervaar-het-zelf-interactief)
+
+- [Could you be Speaker?](https://www.thetimes.co.uk/article/could-you-be-speaker-house-of-commons-bercow-xck6lxv98)
+
 - [The Amazon Race](https://mobile.abc.net.au/news/2019-02-27/amazon-warehouse-workers-game-race/10803346)
 
 - [The Betsy Devos board game](https://www.washingtonpost.com/graphics/2018/lifestyle/magazine/ben-folds-artists-alternative-storytelling-issue/?noredirect=on&utm_term=.71fe90b4e9f4#pg-devos)
