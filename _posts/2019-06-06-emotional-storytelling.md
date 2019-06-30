@@ -136,7 +136,7 @@ For this, we turned to theatre-makers and artists for help.
 
 In the summer of last year, we did [a small experiment](/cnl/) with the Battersea Arts Centre and Queen Mary University. We paired five FT journalists up with artists and theatre makers. The question we posed to our journalists was this: What is it in your beat, and what you cover, that you find really important but hard to convey to our audience through just writing traditional articles in the FT? The artists then took the answer as their prompt, and they had just a week to try to come up with something that responded to that challenge.
 
-One of the pieces was thisa game called Ten that is about climate change. It came about because Leslie Hook, our climate reporter, said that one of the hard things is that the important parts of climate change are all about systems - systemic issues, the dynamic in systems when, for example, countries got together for the Paris Climate Talks. But it is hard to make these systemic issues engaging because people are fundamentally drawn to stories. They want to hear about the town that will be submerged when sea level rises. 
+One of the pieces was this game called Ten that is about climate change. It came about because Leslie Hook, our climate reporter, said that one of the hard things is that the important parts of climate change are all about systems - systemic issues, the dynamic in systems when, for example, countries got together for the Paris Climate Talks. But it is hard to make these systemic issues engaging because people are fundamentally drawn to stories. They want to hear about the town that will be submerged when sea level rises. 
 
 So Tassos, the artist, took that and created this game, where everyone in the room had a card, some with secret instructions on it. You and to discuss and negotiate with each other, and the game mimicked the tension between personal self-interest and collective responsibiltiy that exists in, for example, the climate change talks.
 
@@ -163,7 +163,7 @@ They are using theatre and performance to not just convey an emotional understan
 
 ![](/images/fifteenseconds/Slide24.jpeg)
 
-I'm proud to be a nerd, and a news nerd, because it gives me optimism and enthusiasm about how journalism and grow and thrive at a time when there is a lot of doom and gloom about our industry. So, to close, I'd like to tell you about some of the future possilities and interdisciplinary spaces that I'm excited to explore next.
+I'm proud to be a nerd, and a news nerd, because it gives me optimism and enthusiasm about how journalism can grow and thrive at a time when there is a lot of doom and gloom about our industry. So, to close, I'd like to tell you about some of the future possibilities and interdisciplinary spaces that I'm excited to explore next.
 
 As more news organisations become subscription- and membership-based, what can we learn from sports teams and churches about growing and nurturing a following?
 
