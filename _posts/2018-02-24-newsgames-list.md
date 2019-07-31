@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
-_Updated 3 March 2019_
+_Updated 31 July 2019_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
