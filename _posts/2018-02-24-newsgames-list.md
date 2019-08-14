@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
-_Updated 31 July 2019_
+_Updated 14 August 2019_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -19,6 +19,8 @@ Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gam
 But in any case, here's the list I compiled. Apologies in advance for any I have missed, and please let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter! 
 
 _Thanks to Peter Yeung for pointing out some of the ones below_
+
+- [Choose Your Own Adventure: Renting!](https://www.vice.com/en_uk/article/9ke547/choose-your-own-adventure-renting)
 
 - [The Ocean Game: The sea is rising. Can you save your town?](https://www.latimes.com/projects/la-me-climate-change-ocean-game/)
 
