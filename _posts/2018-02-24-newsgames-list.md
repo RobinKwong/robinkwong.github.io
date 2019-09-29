@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
-_Updated 14 August 2019_
+_Updated 29 September 2019_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -14,11 +14,9 @@ This proliferation means that the boundaries between what is a newsgames, simula
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Really cute news game about understanding the new Singapore government budget <a href="https://twitter.com/hashtag/SGBudget2018?src=hash&amp;ref_src=twsrc%5Etfw">#SGBudget2018</a> from <a href="https://twitter.com/STcom?ref_src=twsrc%5Etfw">@STcom</a> <a href="https://t.co/xA0GkUqsHO">https://t.co/xA0GkUqsHO</a> I guess from <a href="https://twitter.com/vivi_pazos?ref_src=twsrc%5Etfw">@vivi_pazos</a> and team? <a href="https://twitter.com/RobinKwong?ref_src=twsrc%5Etfw">@RobinKwong</a> someone should collect links to all of these in one place</p>&mdash; Yan (@yanoak) <a href="https://twitter.com/yanoak/status/965768546637643777?ref_src=twsrc%5Etfw">February 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gamejournalism), and Ian Bogost's book, [Newsgames](http://bogost.com/books/newsgamesbook/), gives a comprehensive overview. 
+Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gamejournalism), and Ian Bogost's book, [Newsgames](http://bogost.com/books/newsgamesbook/), give a comprehensive overview. 
 
 But in any case, here's the list I compiled. Apologies in advance for any I have missed, and please let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter! 
-
-_Thanks to Peter Yeung for pointing out some of the ones below_
 
 - [Choose Your Own Adventure: Renting!](https://www.vice.com/en_uk/article/9ke547/choose-your-own-adventure-renting)
 
@@ -35,6 +33,8 @@ _Thanks to Peter Yeung for pointing out some of the ones below_
 - [You are Jeff Bezos, where should HQ2 go?](http://gatehousenews.com/amazon)
 
 - [College Scholarship Tycoon](https://www.vox.com/policy-and-politics/2017/11/1/16526202/college-scholarship-tycoon-game)
+
+- [The nest egg game](https://www.wsj.com/graphics/nest-egg-game/)
 
 - [Playspent](http://playspent.org/)
 
@@ -57,6 +57,8 @@ _Thanks to Peter Yeung for pointing out some of the ones below_
 - [Chair the Fed](https://sffed-education.org/chairthefed/)
 
 - [Fake it to make it](http://www.fakeittomakeitgame.com/play/initial)
+
+- [Troll Factory](https://trollfactory.yle.fi/)
 
 - [Get Bad News](https://www.getbadnews.com/#intro)
 
@@ -98,9 +100,7 @@ _Thanks to Peter Yeung for pointing out some of the ones below_
 
 - [What makes a World Cup winner?](https://www.telegraph.co.uk/world-cup/world-cup-2018-winners-predictions-forecast-champions/)
 
-- [Paper Brexit](https://gregbuchanan.itch.io/paper-brexit)
-
-- [Paper Drumpf](https://www.gregbuchanan.co.uk/game/#/paper-drumpf/)
+- [American Eleciton](https://gregbuchanan.itch.io/american-election)
 
 - [The Evolution of Trust](http://ncase.me/trust/)
 
