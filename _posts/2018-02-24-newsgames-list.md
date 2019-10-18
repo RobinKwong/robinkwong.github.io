@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
-_Updated 29 September 2019_
+_Updated 18 October 2019_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -71,6 +71,10 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 - [The Good, the Bad and the Accountant](https://jplusplus.github.io/the-accountant/#/)
 
 - [The Waiting Game](http://projects.propublica.org/asylum/)
+
+- [Can you make AI fairer than a judge?](https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/)
+
+- [The Revolution of Our Times](https://play.google.com/store/apps/details?id=story.hk.noiab)
 
 - [Think Military Strikes Could Stop North Korea? Try It and See.](https://www.nytimes.com/interactive/2018/05/24/opinion/north-korea-trump-military-strikes.html)
 
