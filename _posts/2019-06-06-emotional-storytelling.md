@@ -62,7 +62,7 @@ For example, in this one, you had promised your son to be home by 7pm to help hi
 
 ![](/images/fifteenseconds/Slide10.jpeg)
 
-Everything in the Uber Game is journalism and comes from reported facts.  We interviewd dozens of Uber drivers to source not just the _stories_ - the scenarios and dilemmas that you come across in the game - but also the nubmers that underpin the _system_. We asked very specific questions, like, how many rides do you complete on average in an hour? or how much do you actually earn if you complete a quest?
+Everything in the Uber Game is journalism and comes from reported facts.  We interviewed dozens of Uber drivers to source not just the _stories_ - the scenarios and dilemmas that you come across in the game - but also the numbers that underpin the _system_. We asked very specific questions, like, how many rides do you complete on average in an hour? or how much do you actually earn if you complete a quest?
 
 ![](/images/fifteenseconds/Slide11.jpeg)
 
@@ -138,7 +138,7 @@ In the summer of last year, we did [a small experiment](/cnl/) with the Batterse
 
 One of the pieces was this game called Ten that is about climate change. It came about because Leslie Hook, our climate reporter, said that one of the hard things is that the important parts of climate change are all about systems - systemic issues, the dynamic in systems when, for example, countries got together for the Paris Climate Talks. But it is hard to make these systemic issues engaging because people are fundamentally drawn to stories. They want to hear about the town that will be submerged when sea level rises. 
 
-So Tassos, the artist, took that and created this game, where everyone in the room had a card, some with secret instructions on it. You and to discuss and negotiate with each other, and the game mimicked the tension between personal self-interest and collective responsibiltiy that exists in, for example, the climate change talks.
+So Tassos, the artist, took that and created this game, where everyone in the room had a card, some with secret instructions on it. You and to discuss and negotiate with each other, and the game mimicked the tension between personal self-interest and collective responsibility that exists in, for example, the climate change talks.
 
 [Other pieces](/cnl-writeup/) that came out of that were: 
 
