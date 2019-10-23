@@ -70,6 +70,8 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 - [The Good, the Bad and the Accountant](https://jplusplus.github.io/the-accountant/#/)
 
+- [Play the credit score game](https://www.wsj.com/articles/play-the-credit-score-game-11571832001)
+
 - [The Waiting Game](http://projects.propublica.org/asylum/)
 
 - [Can you make AI fairer than a judge?](https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/)
