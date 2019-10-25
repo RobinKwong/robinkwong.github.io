@@ -1,9 +1,9 @@
 ---
 layout: post
-title: OpenNews Unconference on Journalism Tech
+title: OpenNews Unconference on Journalism Tech 2018
 date: 2018-10-25 07:00
 tags: [conference, journalism, digital, technology]
-permalink: /opennews-unconference/
+permalink: /opennews-unconference-2018/
 ---
 
 I facilitated a discussion session called "Doing things more than once" &mdash; on the challenges in making things designed to be re-used (versus producing one-off projects). The discussion covered templating, productionising, code refactoring, maintenance debt, documentation, training, and institutionalising knowledge.
