@@ -9,7 +9,7 @@ I returned to the OpenNews unconference on journalism and technology this year t
 
 ![](/images/opennews/IMG_5961.jpg)
 
-The workshop's idea is that the start of a project is important in determining its subsequent success, and can take many forms. Project initiation ranges from drafting formal pitches that are then scored according to structured categories, to casual conversations sparking an idea that gathers momentum and becomes a project without anyone consciously deciding to make it a project.
+The start of any project is particularly important in determining its subsequent success. Project initiation takes many different forms though: from drafting formal pitches that are then scored according to structured categories, to casual conversations sparking an idea that gathers momentum and becomes a project without anyone consciously deciding to make it a project.
 
 The workshop was intended to draw out people's experience and stories and provide a space to learn from each other about what challenges are particularly difficult at the start of a project as well as what tactics and techniques work in addressing those challenges.
 
