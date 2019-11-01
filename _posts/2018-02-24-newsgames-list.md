@@ -94,6 +94,8 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 - [Dodging Trump's Tariffs](https://ig.ft.com/trump-china-tariffs/)
 
+- [Profit vs Purpose: The Trade-off](https://ig.ft.com/esg-purpose-profit-game/)
+
 - [Northern Exposure](https://www.theglobeandmail.com/arts/books-and-media/choose-your-own-profile-ryan-north/article30328294/)
 
 - [Papers, Please](http://papersplea.se/)
