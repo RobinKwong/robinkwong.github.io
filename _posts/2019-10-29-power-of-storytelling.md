@@ -11,6 +11,8 @@ permalink: /power-of-storytelling/
 
 I gave the following keynote on stage in Bucharest, Romania, on October 18 at the [Power of Storytelling](https://www.thepowerofstorytelling.org), an (un)conference built on the idea that well-crafted stories connect people, heal wounds, inspire, lead, and create change. 
 
+[中文版](/power-of-storytelling-chinese/)
+
 <hr>
 
 ![](/images/DoR/Slide2.jpeg)
