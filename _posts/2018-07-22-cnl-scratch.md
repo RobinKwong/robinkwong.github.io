@@ -10,7 +10,9 @@ Contemporary Narratives Laboratory (CNL) is a partnership between People's Palac
 
 See [this earlier post](/cnl/) for an introduction to the project and an explanation of our motivations and goals.
 
+<div class="videowrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q6O_iX6YOEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ***
 
