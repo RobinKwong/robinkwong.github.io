@@ -22,6 +22,7 @@ These are articles, books, videos and podcasts that I find myself returning to o
 - [Considerations for Expressive Simulation](https://vimeo.com/149287018), Anna Kipnis
 - [How I Make Explorable Explanations](http://blog.ncase.me/how-i-make-an-explorable-explanation/amp/), Nicky Case
 - [We need fast design that is faster and slow design that is slower](http://www.zeldman.com/2018/02/24/need-design-faster-design-slower/)
+- How to make dope shit on the internet [Part 1: Data](https://pudding.cool/process/how-to-make-dope-shit-part-1/), [Part 2:Design](https://pudding.cool/process/how-to-make-dope-shit-part-2/), [Part 3: Storytelling](https://pudding.cool/process/how-to-make-dope-shit-part-3/)
 
 ## Management
 
