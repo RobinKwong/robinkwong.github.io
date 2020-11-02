@@ -20,6 +20,8 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 I've also put together a ['Deep Dive'](https://refind.com/RobinKwong/newsgames) on Refind that's meant to be a guided introduction to newsgames and their role in journalism. [Check it out!](https://refind.com/RobinKwong/newsgames)
 
+- [Playing for the 'right reasons'](https://www.washingtonpost.com/graphics/2020/entertainment/the-bachelorette-show-game/)
+
 - [Quiz: Can You Tell a ‘Trump’ Fridge From a ‘Biden’ Fridge?](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html)
 
 - [Quatre Appart & Un Confinement](https://labs.letemps.ch/interactive/2020/quatre-apparts-un-confinement/)
