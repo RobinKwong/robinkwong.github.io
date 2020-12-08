@@ -5,7 +5,7 @@ date: 2018-02-24 20:00
 tags: [journalism, games, digital, highlight]
 permalink: /newsgames-list/
 ---
-_Updated 28 October 2020_
+_Updated 8 December 2020_
 
 I've [written previously](/newsgames/) about how games can help journalism find new ways to make people [care about the news](/need-for-news/) beyond the personal relevance and utility of information. I've been keeping an eye out for examples of newsgames ever since we started making [The Uber Game](https://ig.ft.com/uber-game/) in early 2017, and am really glad to see this becoming an ever-widening field with examples from both newsrooms, game studios and other places. 
 
@@ -19,6 +19,8 @@ Paul Bradshaw [has a nice pinboard list](http://pinboard.in/u:paulbradshaw/t:gam
 But in any case, here's the list I compiled. Apologies in advance for any I have missed, and please let me know about any omissions [@robinkwong](https://twitter.com/RobinKwong) on Twitter! 
 
 I've also put together a ['Deep Dive'](https://refind.com/RobinKwong/newsgames) on Refind that's meant to be a guided introduction to newsgames and their role in journalism. [Check it out!](https://refind.com/RobinKwong/newsgames)
+
+- [Spend like an MP](https://newslab.malaysiakini.com/mp-game/en)
 
 - [Playing for the 'right reasons'](https://www.washingtonpost.com/graphics/2020/entertainment/the-bachelorette-show-game/)
 
