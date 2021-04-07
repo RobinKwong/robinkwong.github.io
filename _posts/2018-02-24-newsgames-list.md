@@ -20,6 +20,12 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 I've also put together a ['Deep Dive'](https://refind.com/RobinKwong/newsgames) on Refind that's meant to be a guided introduction to newsgames and their role in journalism. [Check it out!](https://refind.com/RobinKwong/newsgames)
 
+- [Steer through the Suez Canal](https://edition.cnn.com/interactive/2021/03/cnnix-steership/)
+
+- [Do You Think You Can Tell How a Neighborhood Voted Just by Looking Around?](https://www.nytimes.com/interactive/2021/upshot/trump-biden-geography-quiz.html)
+
+- [What will it be like when we go back to the office?](https://graphics.reuters.com/GREAT-REBOOT/OFFICE/xlbpgdyjzvq/)
+
 - [Spend like an MP](https://newslab.malaysiakini.com/mp-game/en)
 
 - [Playing for the 'right reasons'](https://www.washingtonpost.com/graphics/2020/entertainment/the-bachelorette-show-game/)
