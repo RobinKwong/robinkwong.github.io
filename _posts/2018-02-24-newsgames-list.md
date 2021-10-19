@@ -20,6 +20,8 @@ But in any case, here's the list I compiled. Apologies in advance for any I have
 
 I've also put together a ['Deep Dive'](https://refind.com/RobinKwong/newsgames) on Refind that's meant to be a guided introduction to newsgames and their role in journalism. [Check it out!](https://refind.com/RobinKwong/newsgames)
 
+- [Survive the Century](https://preview-survive-the-century.netlify.app/)
+
 - [Steer through the Suez Canal](https://edition.cnn.com/interactive/2021/03/cnnix-steership/)
 
 - [Do You Think You Can Tell How a Neighborhood Voted Just by Looking Around?](https://www.nytimes.com/interactive/2021/upshot/trump-biden-geography-quiz.html)
