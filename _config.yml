@@ -2,7 +2,7 @@
 title: Robin Kwong | Project management in newsrooms
 baseurl: ""
 url: "https://www.robinkwong.com"
-description: "Personal website of Robin Kwong, head of digital delivery of the Financial Times, where he writes about project management in newsrooms and design thinking in journalism"
+description: "Personal website of Robin Kwong, New Formats Editor at The Wall Street Journal, where he writes about project management in newsrooms and design thinking in journalism"
 # Build settings
 include: [_pages]
 markdown: kramdown
