@@ -1,8 +1,8 @@
 # Site settings
 title: Robin Kwong | Project management in newsrooms
 baseurl: ""
-url: "https://www.robinkwong.com"
-description: "Personal website of Robin Kwong, New Formats Editor at The Wall Street Journal, where he writes about project management in newsrooms and design thinking in journalism"
+url: "https://robinkwong.com"
+description: "Personal website of Robin Kwong, Product Director for Data Services at Yahoo, exploring how people can organise themselves to create meaningful work at the intersection of journalism and technology."
 # Build settings
 include: [_pages]
 markdown: kramdown
