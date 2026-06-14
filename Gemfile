@@ -1,12 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
-gem 'rspec'
-gem 'jekyll', '~> 4.0.0'
+# Mirror the exact Jekyll + plugin versions GitHub Pages builds with,
+# so local previews match the live site. This bundles jekyll-sitemap,
+# jekyll-redirect-from, jekyll-feed, etc. — enable them via _config.yml.
+gem 'github-pages', group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-end
-
-gem "webrick", "~> 1.7"
+# Required for `jekyll serve` on Ruby 3+ (webrick left the standard library).
+gem 'webrick', '~> 1.8'

@@ -10,7 +10,10 @@ encoding: utf-8
 permalink: /:year/:month/:title
 sass:
   style: compressed
-plugins_dir:
-  - jekyll-feed
+# NOTE: this must be `plugins:`, not `plugins_dir:` (which sets the local
+# _plugins folder and silently disables these gem plugins).
+# jekyll-feed is intentionally omitted — the RSS feed is the hand-written
+# feed.xml at the repo root; enabling jekyll-feed would collide on /feed.xml.
+plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
