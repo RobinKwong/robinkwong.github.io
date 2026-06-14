@@ -2,7 +2,7 @@
 title: Robin Kwong | Project management in newsrooms
 baseurl: ""
 url: "https://robinkwong.com"
-description: "Personal website of Robin Kwong, Director of Product Management for Data Services at Yahoo, exploring how people can organise themselves to create meaningful work at the intersection of journalism and technology."
+description: "Personal website of Robin Kwong, Product Director for Data Services at Yahoo, exploring how people can organise themselves to create meaningful work at the intersection of journalism and technology."
 # Build settings
 include: [_pages]
 markdown: kramdown

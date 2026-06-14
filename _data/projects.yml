@@ -1,3 +1,38 @@
+- title: Yahoo 100
+  description:
+  url: https://www.yahoo.com/trending
+  date: 03/2026
+
+- title: Yahoo Top Movies
+  description:
+  url: https://www.yahoo.com/films/best-movies
+  date: 07/2025
+
+- title: WSJ College Rankings
+  description:
+  url: https://collegepulse.com/blog/the-wall-street-journal-college-pulse-2025-college-best-college-rankings
+  date: 09/2024
+
+- title: WSJ Recipes
+  description:
+  url: https://www.wsj.com/recipes
+  date: 01/2022
+
+- title: WSJ Salary Negotiation Chatbot
+  description:
+  url: https://www.wsj.com/articles/got-a-job-offer-heres-how-to-negotiate-your-salary-11618229059
+  date: 04/2021
+
+- title: WSJ Money Challenge
+  description:
+  url: https://www.wsj.com/personal-finance/sign-up-for-wsjs-six-week-money-challenge-11597338433
+  date: 08/2020
+
+- title: WSJ Notes on the Pandemic
+  description:
+  url: https://www.wsj.com/articles/dealing-with-the-coronavirus-11584656767
+  date: 03/2020
+
 - title: Purpose vs Profit&colon; The Trade-off Game
   description:
   url: https://ig.ft.com/esg-purpose-profit-game/
