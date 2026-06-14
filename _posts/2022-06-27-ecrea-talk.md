@@ -10,11 +10,11 @@ I gave this talk at the ECREA Journalism conference in Utrecht on June 17. It wa
 
 <hr>
 
-![](/images/ECREA/ECREA1.jpg)
+![Title slide reading "Interactivity is not (the) objective" with subtitle on audience-centered news products](/images/ECREA/ECREA1.jpg)
 
 Hi everyone. I'm Robin Kwong, New Formats Editor at the Wall Street Journal and it is my honour to speak to you today about designing for audience engagement. In particular, I'm going to talk a bit about some of the tensions we found between designing news experiences for engagement and certain traditional journalistic principles.
 
-![](/images/ECREA/ECREA2.jpg)
+![The Uber Game title art with isometric bridge and city, captioned FT.COM/UBERGAME](/images/ECREA/ECREA2.jpg)
 
 You heard a bit earlier in the panel about the Uber Game, which we made when I was at the Financial Times. The Uber Game is a newsgame about being a full time Uber driver that takes place across seven in-game days. When we were producing the game, we tried really hard to make it fact-based, and to follow all the steps and rules of journalism that we would take if we were writing an article instead of making a game.
 
@@ -24,7 +24,7 @@ In short, we tried really hard to make the Uber Game an objective, fact-based pi
 
 But something interesting happened after we published. A link to the game was posted to Reddit, and as people played the game, they started commenting in the thread. 
 
-![](/images/ECREA/ECREA3.jpg)
+![Two Reddit comments: mikeespo124 calls the game anti-Uber, BigMax calls it pro-Uber marketing](/images/ECREA/ECREA3.jpg)
 
 One person - mikeespo124 - said the game was, basically, anti-Uber propaganda. It’s rigged so that the player would always lose. It’s not objective, and Mike clearly thought that what we created was a piece of persuasion and not journalism.
 
@@ -40,11 +40,11 @@ I’m a huge proponent for creating these types of experiences, but I think it i
 
 These are critical considerations because, however they define it in their own minds, impartiality and objectivity are what most people want from journalism, as the Reuters Institute's annual digital news report survey has consistently shown. 
 
-![](/images/ECREA/ECREA4.jpg)
+![Reuters Institute chart: 66% say news outlets should try to be neutral on every issue](/images/ECREA/ECREA4.jpg)
 
 More importantly, this tension does not only exist in news games. It exist whenever we introduce interactivity to the news experience, and whenever we design for audience engagement and agency. 
 
-![](/images/ECREA/ECREA5.jpg)
+![Slide showing an arrow pointing from the word Control toward the words Co-Creation](/images/ECREA/ECREA5.jpg)
 
 In those situations, we are relinquishing some of our control as authors to enable co-creation, which in turn creates a different type of experience. For example, as a previous panel noted, this enables news games to create transformative learning experiences that are not possible with traditional, static formats.
 
@@ -53,7 +53,7 @@ On a larger scale, this tension also exists when we are designing entire news or
 
 So how do we resolve this tension? I don’t think it can ultimately be done by considering it purely as a matter of journalistic trade-offs, or of considering the pros and cons to interactivity and engagement within journalism itself. 
 
-![](/images/ECREA/ECREA6.jpg)
+![Slide weighing interactivity's pros against cons, with a red X over a justice scale icon](/images/ECREA/ECREA6.jpg)
 
 Instead, we have to consider interactivity in terms of the broader mission and (to hark back to the opening statement) the overall objective. 
 

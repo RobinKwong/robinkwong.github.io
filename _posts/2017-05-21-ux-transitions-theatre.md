@@ -68,7 +68,7 @@ switch from reading, to watching, to listening, is too much to ask &hellip; You 
 
 And yet, not all transitions are equal. Comics asks its readers to constantly switch between processing words and pictures. How is it that this is seen as a strength of the medium, when bringing together different media types in Snow Fall-like pieces is seen as a weakness?
 
-![](/images/roz_chast.jpg)
+![Roz Chast quote slide: the wonderful thing about the cartoon form is that it's a combination of words and pictures](/images/roz_chast.jpg)
 
 Part of the answer is that not all transitions are equal, because different media formats have different properties. Nick suggested that you could separate formats into two categories: time-based media like video and audio, where the content changes over time, and static media, where content stays the same over time. 
 

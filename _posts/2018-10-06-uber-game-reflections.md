@@ -36,7 +36,7 @@ These are things I've read, played, or otherwise studied before and during the m
 
 - [Life is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) and the Telltale Games (RIP) oeuvre - the ending sequence showing how the player's choices compared to others draws direct inspiration from these two games.
 
-![](/images/socialchoices.png)
+![Uber Game end screen titled Your Choices comparing the player's decisions to the percentage of other players who chose the same](/images/socialchoices.png)
 
 - Other games that inspired me: [Bury Me, My Love](burymemylove.arte.tv/), [Reigns](https://www.devolverdigital.com/games/view/reigns), [Sunless Sea](https://en.wikipedia.org/wiki/Sunless_Sea), [Her Story](http://www.herstorygame.com/), [Coming out simulator](http://ncase.me/cos/), [That dragon, Cancer](http://www.thatdragoncancer.com/)
 

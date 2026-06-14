@@ -27,7 +27,7 @@ Rhiannon chose to work Emma Jacobs' story on 'grief tech', or [How technology is
 
 “With so much anguish about technology ruining people’s ability to forge human connections, grief tech feels, perversely, rather cathartic to me," Emma wrote in her story. "Strip out the exuberance of tech inventors and what you find is nothing new — just the latest machine through which to process grief.”
 
-![](/images/rhiannon.jpg)
+![Audience gathered around a tablecloth-covered table with a projected seascape, in Rhiannon Armstrong's piece](/images/rhiannon.jpg)
 <p class="caption"><i>Actions from the afterlife</i>, Rhiannon Armstrong</p>
 
 Rhiannon created an interactive piece that asked participants sat around a table to perform actions on behalf of others in the audience. It represented the commemorative rituals we do for those who have died, and argues that it is those actions that make up their afterlife. This provided a jumping off point to explore how we do things for and on behalf of others as part of our online life, of private grief vs public ritual, and, crucially, who profits from digital acts of remembrance.
@@ -63,7 +63,7 @@ Harun tackled this piece by considering several other questions.
 - If economies and societies are a series of contracts and bets, how is that some forms of betting carry differnt moral judgements than others? 
 - Those who are in positions to actively influence societal outcome tend to have the luxury to think and plan for the long term. How do we recreate that type of systemic and long-term thinking for people who don't have the luxury?
 
-![](/images/harun.jpg)
+![Harun Morrison addressing a seated audience beside a grid of question cards on the wall](/images/harun.jpg)
 <p class="caption">Harun Morrision</p>
 
 These questions led to the concept that Harun presented: Pose a series of questions about the state of the world that won't be proven true until twenty, or fifty years later. Each question becomes a wager that the audience can bet on using real money, and all the bets in this prediction market is transacted and tracked using cryptocurrency and blockchain technology. That cryptocurrency becomes both a financial instrument and the artwork itself. 
@@ -85,7 +85,7 @@ This tension became a focus of the conversations between Tassos and Leslie.
 
 "We talked about the difficulty of understanding the complex chains of cause and effect in the human impact on climate, and how that gives wriggle room for doubt when people want to doubt," Tassos said. "As a species, we are wired to perceive our impact on systems when there is immediate feedback for our actions, where individual actions can be tallied. We are wired for stories."
 
-![](/images/tassos.jpg)
+![Audience standing and seated during Tassos Stevens's participatory game Ten](/images/tassos.jpg)
 <p class="caption"><i>Ten</i>, Tassos Stevens</p> 
 
 _Ten_ was the resulting work. The audience, as a group, won if exactly ten people stood up at the end of the game, but the rules created incentives for individuals to act against the group's interest. At the end of the contest, Tassos brought the game back to the central theme by asking the audience to discuss, and collectively answer, a climate change-related question.
@@ -110,8 +110,8 @@ In this project, Andre and Conrad wanted to adapt and transform that raw materia
 
 This contrast was interesting because Uber ostensibly has a business-to-business relationship with its drivers, who are expected to operate as independent contractor and manage themselves as small, independent businesses.
 
-![](/images/conrad1.jpg)
-![](/images/conrad2.jpg)
+![Conrad Murray performing into a microphone, projected on screen as he plays an Uber driver](/images/conrad1.jpg)
+![Conrad Murray performing to the audience, holding a magazine, in the Uber transcripts piece](/images/conrad2.jpg)
 <p class="caption">Conrad Murray</p>
 
 Andre and Conrad used rap, beatboxing and spoken-word poetry to focus the performance's emphasis on the language. The performance had two halves: the first where Conrad played an Uber driver, and the second where he played an Uber executive. 

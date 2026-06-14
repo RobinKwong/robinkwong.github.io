@@ -10,7 +10,7 @@ I attended the 2017 [Ethnographic Pratice in Industry Conference](https://2017.e
 
 [ed. I'm back at EPIC for 2018! [Day 1 notes here](/epic2018-day-one/)]
 
-![](/images/epic.JPG)
+![EPIC 2017 Perspectives Montreal title slide on stage as speakers open the conference](/images/epic.JPG)
 
 - [Notes for day one](/epic-day-one/)
 
@@ -93,7 +93,7 @@ To me, this echoes similar discussions among designers about 'design leadership'
 
 > "Oh my god that babooon just stole someone’s birthday cake!"
 
-![](/images/baboon.JPG)
+![Speaker on stage beside a slide showing a baboon raiding a cooler bag of food](/images/baboon.JPG)
 
 <div class="quote-attrib"><i>Dana Sherwood</i></div>
 

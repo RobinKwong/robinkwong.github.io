@@ -32,7 +32,7 @@ This is further buttressed by the substance of what you are doing in each scene.
 
 Similiarly, in the scenes of Florence at work and, later, eating dinner, the progress bar is utterly redundant when it comes to conveying information. In the work scene, it's clear from the grid of numbers how many more you still have to match up. In the dinner scene, the sushi box clearly has 8 pieces. This means that the progress bar is included not for its apparent purpose of indicating progress, but rather to make an emotional and storytelling point.
 
-![](/images/florence-eating.jpg)
+![Florence sits on a sofa with chopsticks above an empty progress bar, a sushi box of 8 pieces below](/images/florence-eating.jpg)
 <p class="caption">Florence, Mountains/Annapurna Interactive</p>
 
 The benefit of establishing and reinforcing these patterns across multiple scenes is that the game then gets to subvert it for storytelling effect. Chapter two, largely a flashback to when Florence was seven years old, also contains scenes where your actions are ultimately meaningless in terms of impacting gameplay. But these scenes, where you decorate a picture of a boat and a butterfly by putting colourful stickers on them, contain no progress bar. That's because the purpose of that task, for both seven-year-old Florence and you as the player, is to express your creativity. You get many more choices in how to decorate the boat and butterfly than you were given during the tasks in the first scene. There are no right or wrong answers, unlike in the next part of chapter two where you are doing maths homework as a young Florence.
@@ -47,5 +47,5 @@ This control over pacing is even more apparent in chapter three (note the re-app
 
 Thus ends Act One. What amazes me about Florence is that this level of creativity, craft and care is sustained through five more acts.
 
-![](/images/florence-music.jpg)
+![Florence runs along a street toward a man, yellow musical notes flowing between them](/images/florence-music.jpg)
 <p class="caption">Florence, Mountains/Annapurna Interactive</p>

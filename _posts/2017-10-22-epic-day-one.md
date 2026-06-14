@@ -26,7 +26,7 @@ There are a lot of interesting overlaps between reporting and observational rese
 
 Some techniques of Observational Research: Counting, Timing, Diagramming and Mapping.
 
-![](/images/epic-day-one-2.jpg)
+![Hand-drawn observational research map of an HEC cafeteria, plotting tables and seated people with coded notes from 11:10 to 11:30am](/images/epic-day-one-2.jpg)
 
 Observational Research is about constructing your own data sets. *But*, the use of those data sets is very different from quantitative data analysis/data science. With OR, the purpose is that through the _process_ of observing and creating the data set, you spark your own curiosity and generate questions and hypotheses.
 
@@ -56,7 +56,7 @@ Researchers generate Thick Understanding-->Actionable Objects-->Precise measures
 
 Can think of research along 2 axes - designerly <-> scientific, and qualitative <-> quantitative.
 
-![](/images/epic_notes.jpg)
+![Handwritten notebook sketches of research axes: design-to-scientific and qualitative-to-quantitative quadrants and notes on design management](/images/epic_notes.jpg)
 
 On creativity (one of the 4 Cs of design): Intellectual mood board of methods
 

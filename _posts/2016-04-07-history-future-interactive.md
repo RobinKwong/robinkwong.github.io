@@ -56,7 +56,7 @@ But we have been here before. Think games. In the late 1990s and through much of
 
 A similar discussion is taking place among interactive documentary makers. In Point of View magazine, Sergeo Kirby wrote about ['The Interactive Paradox'](http://povmagazine.com/articles/view/the-interactive-paradox) from a narratological standpoint. Brett Gaylor [responded](http://povmagazine.com/articles/view/rebutting-the-interactive-paradox) with a response that will be familiar to ludologists: "Bullshit. While interactive documentary is still in its infancy, it contains the potential for the entire range of human emotions and storytelling. The formal categories that Kirby listed are only his own, and don’t bear scrutiny to the diversity and innovation that is occurring within the field."   
 
-![](/images/horse.gif)
+![Muybridge-style animated motion study of a galloping horse with a rider in black and white](/images/horse.gif)
 
 It is useful to think of news in terms of art. Ambitious, original pieces of journalism often are testimonies to historical moments. Their goal is not just to provide information, but also to interpret the world and provide a directed experience to its audience &mdash; goals shared by works of art. The two are not completely identical, of course. Journalism has an explicit obligation to provide fact-based information that art doesn't always have.
 
@@ -72,7 +72,7 @@ In the pre-digital age, there was an aura attached to ambitious, original pieces
 
 If interactive news is to become a new aesthetic, it cannot be ignorant of, or stand apart from, this new dynamic. But neither should it become enslaved to it. As Berger noted, there is more to a work than just its aura. Not all art, and not all pieces of journalism, can be understood spontaneously. "We are not claiming that to cut out a magazine reproduction of an archaic Greek head, because it is reminiscent of some personal experience, and to pin it on to a board beside other disparate images, is to come to terms with the full meaning of that head," Berger wrote. Similarly, liking a tweet or a Facebook post promoting a major piece of interactive news is not the same as fully coming to terms with the piece itself.
 
-![](/images/cat.gif)
+![Muybridge-style animated motion study of a cat walking against a measurement grid](/images/cat.gif)
 
 There is much more to explore in applying Walter Benjamin and John Berger’s thoughts to our present day situation. What does it mean, anyways, to take “a total approach to art which attempts to relate it to every aspect of experience”? ¯\\\_(ツ)_/¯
 

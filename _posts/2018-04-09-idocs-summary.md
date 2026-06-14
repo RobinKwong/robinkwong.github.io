@@ -10,7 +10,7 @@ I had a great time and learnt a lot from the [iDocs 2018](https://idocs2018.dcrc
 
 My full conference notes are here: [day 1](/idocs-day-1/), [day 2](/idocs-day-2/) and [day 3](/idocs-day-3/), and here are the [slides and words](/new-audiences/) of the talk I gave about interacting with new audiences. 
 
-![](/images/i-docs/idocs.JPG)
+![Five panellists posing in front of the iDocs 2018 conference backdrop in Bristol](/images/i-docs/idocs.JPG)
 
 I came away from the conference with two overriding thoughts. 
 

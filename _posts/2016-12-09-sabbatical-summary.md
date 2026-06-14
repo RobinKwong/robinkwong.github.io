@@ -29,7 +29,7 @@ How to expand that container, that internal circle? For me, meditation helps. Sp
 
 At the same time, this needs to be complemented by taking in outside stimuli to expand my external circle. So I used my sabbatical to read, watch, listen and play. I went to conferences for industries adjacent to the field I work in. I acquired new literary and cultural heroes.
 
-![](/images/fish.jpg)
+![Black-and-white naturalist line drawing of a cedar sculpin fish in side profile](/images/fish.jpg)
 
 <p class="caption"><a href="https://www.flickr.com/photos/usdagov/13560800594/in/photolist-mEjDyN-2A36ni-ier2yn-an25SW-nXKetT-6iFc6f-84ERZj-ocmtUg-6daYS3-JqXRnN-dFm5Yg-4wJ7rp-7ks4SM-NznD9-6A2j1t-KzqqS-xcLdVb-AAmFK-oCh8Eg-4qHCDj-5gWhvD-5ghw7N-AAqSM-2eCbdE-cVwcF3-2A7swj-5ghw87-2ixtFk-7VBU5D-PmFMLR-2o3Pa9-4cGiq7-4wNfQj-4xmgWj-EuMksD-2bHd5A-6C5VVC-6tNLwY-rvyzMr-angwbe-brDyq5-71RjmL-7Rhxhx-bzsTEV-5dsrk3-dAxeiH-9qCKy6-5RcDJJ-4Sxux-oSBPhs" target="_blank">Cedar sculpin (Emily Harrington/E.H. Illustration)</a></p>
 
@@ -69,7 +69,7 @@ To be fully alive, fully human, and completely awake is to be continually thrown
 
 <p class="quote-attrib" style="margin-bottom: 0"><em>Pema Chödrön</em></p>
 
-![](/images/helmet.jpg)
+![Three 1645 cavalry helmets with face bars, drawn from different angles in an antique engraving](/images/helmet.jpg)
 <p class="caption"><a href="https://www.flickr.com/photos/mechanicalcuratorcuttings/" target="_blank">Image from 'The Pictorial History of England (to the death of George III)</a></p>
 
 And there he was, dreaming about the future. It looked bright and right and ready for him. There was no scary mystery to it and it was right around the corner.

@@ -60,11 +60,11 @@ I am also interested in exploring the role that journalists can play in giving v
 
 This is important if journalism is to help foster greater [emotional, rather than rational, understanding](/two-types/). The goal is not to paralyse readers through affective empathy. But, in rupturing their shields and showing a different view of the world, to create room for growth and the possibility of creative breakthrough. As Nick Sousanis put it so elegantly in [*Unflattening*](http://www.hup.harvard.edu/catalog.php?isbn=9780674744431):  
 
-![](/images/sousanis.jpg)
+![Unflattening comic page: a figure steps out of darkness as a rupture in experience grows winged sandals on its feet](/images/sousanis.jpg)
 
-![](/images/sousanis2.jpg)
+![Unflattening comic page showing a vast curved maze, with an Italo Calvino quote about looking at the world anew](/images/sousanis2.jpg)
 
-![](/images/sousanis3.jpg)
+![Unflattening comic page: a winged figure leaps up and away from a maze-covered globe toward new ways of seeing](/images/sousanis3.jpg)
 
 <p class="caption"><a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674744431" target="_blank"><i>Unflattening</i>, Nick Sousanis. Harvard University Press</a></p>
 

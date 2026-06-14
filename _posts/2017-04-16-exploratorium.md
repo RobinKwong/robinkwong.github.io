@@ -9,7 +9,7 @@ A big focus of my [Nikkei-FT Fellowship](/fellowship/) is the question of how we
 
 To answer this question, I started looking at other places where this was being done well:
 
-![](/images/exploratorium_outside.jpg)
+![Exterior of the Exploratorium on Piers 15/17 in San Francisco, visitors walking past the entrance sign](/images/exploratorium_outside.jpg)
 
 [The Exploratorium](https://www.exploratorium.edu/) is a hands-on museum of science, art, and human perception in San Francisco founded by Frank Oppenheimer. It hosted more than 850,000 visitors in 2016, and has inspired other science museums worldwide.
 
@@ -21,7 +21,7 @@ How does the Exploratorium encourage exploration, and what can makers of interac
 
 ## Onboarding
 
-![](/images/exploratorium_start.jpg)
+![You are Here sign for the Crossroads and Atrium Getting Started area: awaken your curiosity with open-ended exploration](/images/exploratorium_start.jpg)
 
 The first exhibits that a visitor encounters have several characteristics that make them good 'tutorials' for the rest of the museum. 
 
@@ -32,9 +32,9 @@ The first exhibits that a visitor encounters have several characteristics that m
 
 ## Establish a consistent design pattern
 
-![](/images/exploratorium_pattern0.jpg)
+![A visitor in a blue shirt operating a hands-on exhibit beneath the red Bay Observatory Gallery section sign](/images/exploratorium_pattern0.jpg)
 
-![](/images/exploratorium_pattern1.jpg)
+![Resonator exhibit panel with title, subtitle, instructions, a control knob, and a What's going on explanation](/images/exploratorium_pattern1.jpg)
 
 Every exhibit in the museum follows the same pattern:
 
@@ -56,7 +56,7 @@ Frank Oppenheimer emphasised that "no one ever failed a science museum". The exp
 
 How do we create a similar set of social norms around interactive pieces of journalism, especially when they exist within a context (Facebook, news website, etc) that encourages a different mode of engagement?
 
-![](/images/exploratorium_safety.jpg)
+![Tips for Your Visit sign quoting founder Frank Oppenheimer that no one ever failed a science museum](/images/exploratorium_safety.jpg)
 
 ## Setting the right expectations
 
@@ -76,8 +76,8 @@ One of the most central and prominent spaces within the Exploratorium is the Exh
 
 In fact, this ethos of user testing and joint development is central to the origin story of the entire museum. It's not only the visitors who are learning by doing; the museum itself is, too.
 
-![](/images/exploratorium_machine.jpg)
+![The open-to-view Exhibit Development Shop with lathes, workbenches, and a staff member building exhibits](/images/exploratorium_machine.jpg)
 
-![](/images/exploratorium_origin.jpg)
+![Our Story wall panel recounting the Exploratorium's 1969 founding by Frank Oppenheimer and its machine shop](/images/exploratorium_origin.jpg)
 
 <p><a href="/fellowship/">Return to the Fellowship section</a></p>

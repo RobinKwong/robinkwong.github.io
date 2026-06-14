@@ -8,7 +8,7 @@ permalink: /opennews-unconference-2018/
 
 I facilitated a discussion session called "Doing things more than once" &mdash; on the challenges in making things designed to be re-used (versus producing one-off projects). The discussion covered templating, productionising, code refactoring, maintenance debt, documentation, training, and institutionalising knowledge.
 
-![](/images/opennews/intro.JPG)
+![Flip chart titled "Doing Things More Than Once" listing discussion prompts and topics like documentation, templates, maintenance debt, training](/images/opennews/intro.JPG)
 
 ## What makes it hard
 
@@ -24,7 +24,7 @@ I facilitated a discussion session called "Doing things more than once" &mdash; 
 
 - Sometimes even when the recurring event looks similar on the surface (Elections, for example), the underlying story is different every time. Sometimes the data input differs as well
 
-![](/images/opennews/hard.JPG)
+![Flip chart titled "What's hard" listing resource, time to refactor, speed of newsroom, lack of standardisation, training, story vs product](/images/opennews/hard.JPG)
 
 ## What helps
 
@@ -50,6 +50,6 @@ I facilitated a discussion session called "Doing things more than once" &mdash; 
 
 - Have a system / architecture that supports archiving.
 
-![](/images/opennews/helps.JPG)
+![Flip chart titled "What helps" listing data-informed decisions, modularisation, clarity, documentation, better hand-off, integrating UX people](/images/opennews/helps.JPG)
 
 
