@@ -25,4 +25,4 @@ But I'm committed to creating the change that will make these seem obvious &mdas
 
 *Thanks to my [altMBA](https://altmba.com/) alumni, particularly those in the intrapreneur slack channel, for the prompt that led to this post.*
 
-*What to read next*: [Bring me your broken dreams](/broken-dreams/) 
+*What to read next*: [Bring me your broken dreams](https://digiday.com/uk/financial-times-special-projects/) 

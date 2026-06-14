@@ -27,4 +27,4 @@ To be honest, I *do* know what I want to do. I've just been too embarassed to ad
 - Play around with A-Frame and basic coding in VR
 - Write posts, on here
 
-*What to read next*: [The first 180 days of a special projects editor](/180-days/) 
+*What to read next*: [The first 180 days of a special projects editor](https://www.journalism.co.uk/news/inside-the-financial-times-special-projects-strategy-six-months-on/s2/a663344/) 

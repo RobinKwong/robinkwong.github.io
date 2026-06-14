@@ -42,7 +42,7 @@ The vast expansion of storytelling tools that come with digital will remain a mo
 
 ### How do we get from here to there?
 
-Especially when we can't rely on ever having a clear view of what 'there' is before we start acting and changing? How, in other words, do we get better at [experimentation](/experiments/), building up incremental improvements, and applying design thinking?
+Especially when we can't rely on ever having a clear view of what 'there' is before we start acting and changing? How, in other words, do we get better at [experimentation](https://www.poynter.org/tech-tools/2016/how-the-financial-times-is-getting-more-out-of-its-newsroom-experiments/), building up incremental improvements, and applying design thinking?
 
 ### How should we be organised?
 

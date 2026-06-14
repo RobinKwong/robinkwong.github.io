@@ -44,7 +44,7 @@ As such, the workshop values:
 - Exclusivity: Only possible with specialist skills
 - Novelty
 
-Workshops differ from factories in being more project-based, more agile and more collaborative. As Special Projects editor, I have tried to delineate and codify how newsroom workshops should organise themselves, from writing about [the need for project managers](/project-managers/) to producing the [Special Projects Toolkit](/project-toolkit/). 
+Workshops differ from factories in being more project-based, more agile and more collaborative. As Special Projects editor, I have tried to delineate and codify how newsroom workshops should organise themselves, from writing about [the need for project managers](/project-managers/) to producing the [Special Projects Toolkit](https://source.opennews.org/articles/ikea-inspired-workflow/). 
 
 Still, most newsroom workshops are run like mini-factories. Or rather, since most departments are tasked with doing both 🏭 and 🔨 work, they tend to revert to a factory mentality even when they should be operating as a workshop. 
 

@@ -1,11 +1,12 @@
 <section class="section">
   <h2 class="section-title"><span>&#x516d;</span><span>Press</span></h2>
   <ul class="list">
-	{% for item in site.tags.press %}
+    {% assign press_sorted = site.data.press | sort: 'date' | reverse %}
+    {% for item in press_sorted %}
     <li>
-      <p class="outlet">{{ item.outlet}}</p>
-      <p><a href="{{ item.url }}">{{ item.title }}</a> <span class="date">{{ item.date | date:"%m/%Y"}}</span></p>
+      <p class="outlet">{{ item.outlet }}</p>
+      <p><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a> <span class="date">{{ item.when }}</span></p>
     </li>
-	{% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
 </section>

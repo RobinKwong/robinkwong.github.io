@@ -134,4 +134,4 @@ I've also put together a ['Deep Dive'](https://refind.com/RobinKwong/newsgames) 
 
 - [Nicky Case's work](http://ncase.me/) and the [Explorable Explanations](http://explorabl.es/journalism/) site
 
-*What to read next*: [How (and Why) the Financial Times made The Uber Game](/uber-game-writeup/)
+*What to read next*: [How (and Why) the Financial Times made The Uber Game](https://source.opennews.org/articles/how-and-why-financial-times-made-uber-game/)

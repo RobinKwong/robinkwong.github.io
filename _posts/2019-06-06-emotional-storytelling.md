@@ -140,7 +140,7 @@ One of the pieces was this game called Ten that is about climate change. It came
 
 So Tassos, the artist, took that and created this game, where everyone in the room had a card, some with secret instructions on it. You and to discuss and negotiate with each other, and the game mimicked the tension between personal self-interest and collective responsibility that exists in, for example, the climate change talks.
 
-[Other pieces](/cnl-writeup/) that came out of that were: 
+[Other pieces](https://www.journalism.co.uk/news/the-financial-times-experiments-mixing-journalism-with-performance-to-engage-wider-audiences/s2/a724520/) that came out of that were: 
 
 - We turned a set of interview transcripts and notes into a rap and spoken word performance
 - We had a piece of conceptual artwork that compared blockchain to human memory

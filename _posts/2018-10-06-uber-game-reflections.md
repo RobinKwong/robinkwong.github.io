@@ -64,7 +64,7 @@ Compared to other formats, newsgames remain complex and expensive to produce. Th
 
 Instead, I think there is much more potential in deconstructing games like The Uber Game or American Mall to find small, specific bits of game mechanic or technique that could be widely applicable, even in non-game-like pieces of journalism. For example, best practices in writing branching narrative can be applied not just to choose-your-own-adventure type games, but also to scripting audio assistants and chatbots. 'Social' feedback showing how your choices compared to others are already fairly widely-used in interactive news. There's potential in bringing more best practices from the world of game design to the world of interactive journalism.
 
-*What to read next*: [How (and Why) the Financial Times made The Uber Game](/uber-game-writeup/)
+*What to read next*: [How (and Why) the Financial Times made The Uber Game](https://source.opennews.org/articles/how-and-why-financial-times-made-uber-game/)
 
 
 
