@@ -119,7 +119,11 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .shot img{width:100%;height:100%;object-fit:cover}
 .noshot{aspect-ratio:4/3;display:flex;align-items:flex-end;padding:1rem;
   font-family:var(--display);font-weight:600;font-size:1.32rem;line-height:1.12;color:#fff}
-.body{padding:.7rem .75rem .85rem;display:flex;flex-direction:column;gap:.4rem;flex:1}
+.body{padding:.7rem .75rem .85rem;display:flex;flex-direction:column;gap:.4rem;flex:1;
+  cursor:pointer;-webkit-tap-highlight-color:transparent}
+.card.in{border-color:var(--free);box-shadow:0 0 0 2px var(--free) inset}
+.card.in .add{background:var(--free);border-color:var(--free);color:#fff}
+.card .body:active{transform:scale(.985)}
 @media(min-width:600px){.body{padding:.9rem 1rem 1rem;gap:.5rem}}
 .name{font-family:var(--display);font-weight:600;font-size:.96rem;line-height:1.2;margin:0}
 @media(min-width:600px){.name{font-size:1.06rem}}
@@ -130,9 +134,9 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
   padding:.28rem .6rem;border-radius:4px}
 .tag.free{background:var(--free-bg);color:var(--free)}
 .tag.cost{background:var(--price-bg);color:var(--price)}
-.add{margin-left:auto;font:inherit;font-size:.82rem;font-weight:600;cursor:pointer;
-  padding:.42rem .85rem;border-radius:999px;border:1.5px solid var(--ink);
-  background:none;color:var(--ink)}
+.add{margin-left:auto;font:inherit;font-size:.85rem;font-weight:600;cursor:pointer;
+  padding:.6rem 1.05rem;border-radius:999px;border:1.5px solid var(--ink);
+  background:none;color:var(--ink);pointer-events:none}
 .add:hover{background:var(--ink);color:var(--paper)}
 .add[data-in=yes]{background:var(--free);border-color:var(--free);color:#fff}
 .where{font-size:.72rem;color:var(--ink-soft);text-transform:uppercase;letter-spacing:.07em}
@@ -172,7 +176,8 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .wildcard small{display:block;font-family:var(--sans);font-weight:400;
   font-size:.78rem;opacity:.85;margin-top:.5rem;max-width:22ch}
 .wildcard .dice{font-size:2rem;line-height:1;margin-bottom:.5rem}
-#again{position:fixed;left:50%;bottom:1.1rem;transform:translate(-50%,180%);
+#again{position:fixed;left:50%;bottom:calc(1.1rem + env(safe-area-inset-bottom));
+  transform:translate(-50%,180%);
   z-index:45;display:flex;align-items:center;background:var(--price);color:var(--paper);
   border-radius:999px;padding:0 .2rem 0 1rem;box-shadow:0 6px 22px rgba(33,29,24,.3);
   transition:transform .22s ease}
@@ -180,6 +185,7 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 #again button{font:inherit;font-family:var(--display);font-weight:600;font-size:.95rem;
   background:none;border:0;color:inherit;cursor:pointer;padding:.6rem .4rem}
 #again .x{font-size:1.15rem;padding:.45rem .8rem .55rem;opacity:.75}
+#again .dice{font-size:1.05rem;margin-right:.35rem}
 #empty{display:none;padding:3rem 0;text-align:center;font-family:var(--display);font-size:1.3rem}
 
 /* ---------- basket ---------- */
@@ -195,7 +201,9 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .bk-head h3{font-family:var(--display);font-size:1.4rem;margin:0}
 .bk-body{padding:1.1rem 1.3rem;overflow:auto;flex:1}
 .bk-item{display:flex;gap:.6rem;align-items:baseline;padding:.55rem 0;border-bottom:1px dotted var(--line)}
-.bk-item span{flex:1;font-size:.92rem}
+.bk-item span{flex:1;font-size:.92rem;cursor:pointer;text-decoration:underline;
+  text-decoration-color:var(--line);text-underline-offset:3px}
+.bk-item span:hover{text-decoration-color:var(--ink)}
 .bk-item i{font-style:normal;font-size:.88rem;color:var(--price);font-weight:600}
 .bk-total{display:flex;justify-content:space-between;align-items:baseline;
   margin-top:.9rem;padding-top:.7rem;border-top:2px solid var(--ink);
@@ -387,7 +395,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   </div>
 </footer>
 
-<div id="again"><button id="againBtn">Another?</button><button class="x" id="againX" aria-label="Dismiss">&times;</button></div>
+<div id="again"><button id="againBtn"><span class="dice">&#127922;</span><span id="againLabel">Another?</span></button><button class="x" id="againX" aria-label="Dismiss">&times;</button></div>
 <div id="lb"><img alt=""></div>
 <div id="scrim"></div>
 <aside id="basket" aria-hidden="true">
@@ -435,8 +443,9 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     countEl.textContent=ids.length;
     adds.forEach(function(b){
       var on=!!basket[b.dataset.id];
-      b.dataset.in=on?"yes":"no";
       b.textContent=on?"Added ✓":"Add";
+      var card=b.closest(".card");
+      if(card) card.classList.toggle("in",on);
     });
     var mine=document.getElementById("mineChip");
     if(mine) mine.textContent = ids.length ? "In my basket ("+ids.length+")" : "In my basket";
@@ -446,7 +455,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     listEl.innerHTML = ids.length
       ? ids.map(function(id){
           var it=basket[id];
-          return '<div class="bk-item"><span>'+it.n+'</span>'+
+          return '<div class="bk-item"><span data-show="'+id+'" title="Show me this one">'+it.n+'</span>'+
                  (it.p>0 ? '<i>$'+it.p+'</i>' : '<i style="color:#1c6b44">Free</i>')+
                  '<button data-drop="'+id+'" aria-label="Remove">×</button></div>';
         }).join("") +
@@ -458,19 +467,46 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       : '<p class="fine">Nothing in here yet. Add something you like the look of.</p>';
   }
 
-  adds.forEach(function(b){
-    b.addEventListener("click",function(){
-      var id=b.dataset.id;
-      if(basket[id]) delete basket[id];
-      else basket[id]={n:b.dataset.label, p:parseFloat(b.dataset.cost)||0};
-      save(); paint();
-    });
+  // Tapping anywhere on a card's text area adds or removes it. The button is
+  // now a label rather than the only target, because on a phone it was a 30px
+  // tap zone for the page's primary action.
+  document.addEventListener("click",function(e){
+    var body=e.target.closest(".card .body");
+    if(!body) return;
+    var b=body.querySelector(".add");
+    if(!b) return;                       // a rehomed lot has no button
+    var id=b.dataset.id;
+    if(basket[id]) delete basket[id];
+    else basket[id]={n:b.dataset.label, p:parseFloat(b.dataset.cost)||0};
+    save(); paint();
   });
 
   listEl.addEventListener("click",function(e){
-    var id=e.target.getAttribute("data-drop");
-    if(id){ delete basket[id]; save(); paint(); }
+    var drop=e.target.getAttribute("data-drop");
+    if(drop){ delete basket[drop]; save(); paint(); return; }
+    var show=e.target.getAttribute("data-show");
+    if(show) showLot(show);
   });
+
+  // Take me to that listing. Any active filter is cleared first, otherwise the
+  // card you asked for might be one the filter is currently hiding.
+  function showLot(id){
+    var card=document.getElementById("i-"+id) ||
+             document.querySelector('.roomsec [data-id="'+id+'"]');
+    if(!card) return;
+    q=""; price=""; cat="";
+    document.getElementById("search").value="";
+    document.querySelectorAll("#prices .chip, #cats .chip").forEach(function(c){
+      c.setAttribute("aria-pressed", c.dataset.price==="" || c.dataset.cat==="" ? "true":"false");
+    });
+    applyFilter(false);
+    open(false);
+    stopRolling();
+    setTimeout(function(){
+      card.scrollIntoView({block:"center"});
+      card.classList.remove("flash"); void card.offsetWidth; card.classList.add("flash");
+    }, 230);
+  }
 
   // filtering: two independent dimensions — price, and kind
   var q="", price="", cat="";
@@ -508,7 +544,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     window.scrollTo({top:Math.max(0,y), behavior:"smooth"});
   }
   document.getElementById("search").addEventListener("input",function(e){
-    q=e.target.value.trim().toLowerCase(); stopRolling(); applyFilter(false);
+    q=e.target.value.trim().toLowerCase(); applyFilter(false);
   });
   function wireRow(id, attr, set){
     document.getElementById(id).addEventListener("click",function(e){
@@ -517,13 +553,15 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       document.querySelectorAll("#"+id+" .chip").forEach(function(c){
         c.setAttribute("aria-pressed", c===b ? "true":"false");
       });
-      stopRolling();
       applyFilter(true);   // always land at the top, even if the chip was already active
     });
   }
   wireRow("prices","price",function(v){ price=v; });
   wireRow("cats","cat",function(v){ cat=v; });
 
+  var nags=["Another?","Go on then, another","Another one","Still nothing? Try this",
+            "You are very hard to please","One more","Last one, honestly"];
+  var nagAt=0;
   var againBar=document.getElementById("again");
   function roll(){
     var pool=cards.filter(function(c){
@@ -536,8 +574,8 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     void pick.offsetWidth;
     pick.classList.add("flash");
     nagAt=Math.min(nagAt+1,nags.length-1);
-    document.getElementById("againBtn").textContent=nags[nagAt];
-    againBar.classList.add("show");
+    document.getElementById("againLabel").textContent=nags[nagAt];
+    setTimeout(function(){ againBar.classList.add("show"); }, 420);
   }
   function stopRolling(){ againBar.classList.remove("show"); }
   document.getElementById("surprise").addEventListener("click",roll);
