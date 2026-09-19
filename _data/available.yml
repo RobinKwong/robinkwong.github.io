@@ -6,7 +6,7 @@
   name: "Ceramic vases, a pair"
   qty: "2"
   shelf: "Art, frames & vases"
-  blurb: "Two ceramic vases of the same design, one slightly smaller than the other. They work much better together than either does alone."
+  blurb: "Two ceramic vases of the same design, one slightly smaller than the other. Going as a pair."
   free: true
   photos:
     - "D62-lower-glass-cabinet.jpg"
@@ -123,7 +123,7 @@
   name: "Pierre Cardin cabin case, navy, two-wheel"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "Navy two-wheel cabin case, Pierre Cardin. Surplus to requirements."
+  blurb: "Navy two-wheel cabin case, Pierre Cardin. Cabin sized, so it goes in an overhead locker."
   free: false
   price: "$10"
   photos:
@@ -286,7 +286,7 @@
   name: "OXO Good Grips extendable sweep set"
   qty: "1 set"
   shelf: "Cleaning & supplies"
-  blurb: "OXO Good Grips sweep set: full-size broom head, extendable pole and a matching dustpan. The good kind."
+  blurb: "OXO Good Grips sweep set: full-size broom head, extendable pole and a matching dustpan."
   free: false
   price: "$12"
   photos:
@@ -396,7 +396,7 @@
   name: "Gaming chair, well past its best"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Swivels, rolls, adjusts, and the arms flip up. The catch is the upholstery: the coating is flaking off across the whole back and seat, which is what the white flecks in the photo are. Structurally sound and genuinely comfortable. It just looks like this, and it will shed on your floor."
+  blurb: "Swivels, rolls, adjusts, and the arms flip up. The catch is the upholstery: the coating is flaking off across the whole back and seat, which is what the white flecks in the photo are. Structurally sound and very comfortable. It just looks like this, and it will shed on your floor."
   free: false
   price: "$5"
   photos:
@@ -431,7 +431,7 @@
   name: "Round two-tier side table"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Mid-brown wood, turned legs, 15 inches across and 20 tall, with a lower shelf that has been quietly hiding a modem and a router for years. The top is scratched and marked, which you can see in the photo."
+  blurb: "Mid-brown wood, turned legs, 15 inches across and 20 tall, with a lower shelf that has been quietly hiding a modem and a router for years. The top is scratched and marked, as the photo shows."
   free: false
   price: "$15"
   photos:
@@ -477,7 +477,7 @@
   name: "Triceratops beanbag chair"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Not just a green beanbag: a triceratops, with horns, a frill and a ridged spine down the back. Big enough for an adult to disappear into. Bulky, comfortable, absurd."
+  blurb: "A triceratops, in green, with horns, a frill and a ridged spine down the back. Big enough for an adult to disappear into, and far too big to be sensible."
   free: false
   price: "$15"
   photos:
@@ -796,7 +796,7 @@
   name: "Mueller glass kettle, 1.8L"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. Being straight with you: it's badly scaled inside, which is what you can see in the photo. A soak in vinegar sorts it, but it hasn't had one."
+  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. It's scaled inside, which the photo shows. A soak in vinegar sorts that out."
   free: false
   price: "$8"
   photos:
@@ -1066,7 +1066,7 @@
   name: "DynaTrap insect trap with spare glue cards"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "DynaTrap insect trap, the blue UV lamp kind, with spare glue cards. Quiet, no zapping noise, and it works."
+  blurb: "DynaTrap insect trap, the blue UV lamp kind, with spare glue cards. No zapping noise, and it works."
   free: false
   price: "$30"
   photos:
@@ -1119,7 +1119,7 @@
   name: "Klask"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Klask, the magnetic table game where you fish for your opponent's handle. Genuinely good with a drink in hand. I'm only selling it because there's already a copy waiting in London."
+  blurb: "Klask, the magnetic table game where you fish for your opponent's handle. Very good with a drink in hand. I'm only selling it because there's already a copy waiting in London."
   free: false
   price: "$30"
   photos:
@@ -1352,7 +1352,7 @@
   name: "Cycling bundle: pump, panniers, helmet and cover"
   qty: "1 bundle"
   shelf: "Sport & bikes"
-  blurb: "Specialized floor pump with a gauge, a pair of rear-rack panniers with reflective triangles, a Schwinn helmet in turquoise and white, and a full-size bicycle cover. Going as one lot because it's worth more to a cyclist together than in pieces."
+  blurb: "Specialized floor pump with a gauge, a pair of rear-rack panniers with reflective triangles, a Schwinn helmet in turquoise and white, and a full-size bicycle cover. One lot, for whoever wants the whole setup."
   free: false
   price: "$15"
   photos:
