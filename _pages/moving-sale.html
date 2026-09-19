@@ -22,9 +22,15 @@ shelves:
 <meta name="description" content="I'm moving to London. {{ site.data.available | size }} things in my Astoria flat need somewhere to go. Most of them are free. Come and take them on 3 or 10 October.">
 <meta property="og:title" content="Everything Must Go">
 <meta property="og:description" content="I'm moving to London and my flat has to be empty. {{ site.data.available | size }} things need a new home, most of them free. Drinks and a proper goodbye. Saturdays 3 and 10 October, Astoria.">
+<meta name="robots" content="noindex, noarchive">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://robinkwong.com/moving-sale/">
+<meta property="og:image" content="https://robinkwong.com/images/moving-sale-og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="A grid of things from Robin's flat, captioned Everything must go">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://robinkwong.com/images/moving-sale-og.jpg">
 <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -66,6 +72,9 @@ h1 em{font-style:italic;font-weight:400}
 .when-line b{font-family:var(--display);font-weight:600;font-size:1.05rem;letter-spacing:-.01em}
 .when-line span{font-size:.85rem;color:var(--ink-soft)}
 .where-line b{color:var(--price)}
+.when a,.cal a{color:var(--accent);text-decoration:underline;
+  text-underline-offset:2px;padding:.2rem 0;display:inline-block}
+.cal{font-size:.86rem;color:var(--ink-soft);margin:.5rem 0 0}
 .when-note{margin:.8rem 0 0;font-size:.85rem;color:var(--ink-soft);line-height:1.55;max-width:46ch}
 @media(min-width:760px){
   .when{margin-top:2rem;max-width:46ch}
@@ -76,14 +85,20 @@ h1 em{font-style:italic;font-weight:400}
 /* ---------- sticky bar ---------- */
 .bar{position:sticky;top:0;z-index:40;background:var(--paper);
   border-bottom:1px solid var(--line);padding:.5rem 0}
+/* Wrapped chip rows show all nine categories but take a third of a phone
+   screen. Fold them away while you're reading downwards, bring them back
+   the moment you scroll up looking for them. */
+.bar .chips{transition:max-height .22s ease,opacity .18s ease,margin .22s ease;
+  max-height:22rem;overflow:hidden}
+.bar.tuck .chips{max-height:0;opacity:0;margin-top:0;padding-bottom:0}
 @media(min-width:760px){.bar{padding:.7rem 0}}
 .bar-in{display:flex;gap:.45rem;align-items:center;flex-wrap:wrap}
-#search{flex:1 1 190px;min-width:150px;font:inherit;font-size:.92rem;
-  padding:.55rem .8rem;border:1px solid var(--line);border-radius:999px;background:#fff}
-.chip{font:inherit;font-size:.82rem;padding:.42rem .85rem;border-radius:999px;
+#search{flex:1 1 190px;min-width:150px;font:inherit;font-size:1rem;
+  padding:.6rem .85rem;border:1px solid var(--line);border-radius:999px;background:#fff}
+.chip{font:inherit;font-size:.85rem;padding:.58rem .9rem;border-radius:999px;
   border:1px solid var(--line);background:#fff;cursor:pointer;white-space:nowrap}
 .chip[aria-pressed=true]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
-.chips{display:flex;gap:.35rem;overflow-x:auto;scrollbar-width:none;flex:1 1 100%;
+.chips{display:flex;gap:.35rem;flex-wrap:wrap;flex:1 1 100%;
   padding-bottom:2px;margin-top:.45rem}
 @media(min-width:760px){.chips{gap:.4rem}}
 .chips::-webkit-scrollbar{display:none}
@@ -112,9 +127,8 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;
   display:flex;flex-direction:column;transition:transform .13s,box-shadow .13s}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(33,29,24,.11)}
-.card.flash{animation:flash 1.5s ease}
-@keyframes flash{0%,100%{box-shadow:0 0 0 0 rgba(168,66,31,0)}
-  25%{box-shadow:0 0 0 7px rgba(168,66,31,.35)}}
+.card.picked{box-shadow:0 0 0 4px var(--price);border-color:var(--price)}
+.card.picked .body{background:var(--price-bg)}
 .shot{aspect-ratio:4/3;background:var(--paper-2);overflow:hidden}
 .shot img{width:100%;height:100%;object-fit:cover}
 .noshot{aspect-ratio:4/3;display:flex;align-items:flex-end;padding:1rem;
@@ -182,10 +196,12 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
   border-radius:999px;padding:0 .2rem 0 1rem;box-shadow:0 6px 22px rgba(33,29,24,.3);
   transition:transform .22s ease}
 #again.show{transform:translate(-50%,0)}
+#again.show.duck{transform:translate(-50%,180%)}
 #again button{font:inherit;font-family:var(--display);font-weight:600;font-size:.95rem;
   background:none;border:0;color:inherit;cursor:pointer;padding:.6rem .4rem}
 #again .x{font-size:1.15rem;padding:.45rem .8rem .55rem;opacity:.75}
 #again .dice{font-size:1.05rem;margin-right:.35rem}
+#shown{align-self:center;font-size:.8rem;color:var(--ink-soft);padding-left:.2rem}
 #empty{display:none;padding:3rem 0;text-align:center;font-family:var(--display);font-size:1.3rem}
 
 /* ---------- basket ---------- */
@@ -217,10 +233,13 @@ label.radio{display:flex;gap:.55rem;align-items:flex-start;padding:.5rem .65rem;
 label.radio small{display:block;color:var(--ink-soft)}
 .field{margin:.7rem 0 0}
 .field label{display:block;font-size:.8rem;font-weight:600;margin-bottom:.22rem}
-.field input,.field textarea{width:100%;font:inherit;font-size:.92rem;padding:.55rem .7rem;
+.field input,.field textarea{width:100%;font:inherit;font-size:1rem;padding:.6rem .7rem;
   border:1px solid var(--line);border-radius:6px;background:#fff}
 .bk-foot{padding:1rem 1.3rem 1.3rem;border-top:1px solid var(--line)}
 .bk-foot .btn{width:100%;padding:.8rem;font-size:.98rem}
+.bk-foot .btn.ghost{margin-top:.5rem;padding:.6rem}
+.err{color:var(--price);font-size:.82rem;margin:.3rem 0 0}
+[aria-invalid]{border-color:var(--price)!important}
 .fine{font-size:.78rem;color:var(--ink-soft);margin:.6rem 0 0}
 
 footer{margin-top:3.5rem;border-top:2px solid var(--ink);padding:2.5rem 0 4rem}
@@ -252,18 +271,22 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     <p class="blurb">I'm moving to London at the start of November and the flat has to be empty
       by Halloween. Almost nothing in it is coming with me.</p>
     <p class="blurb">Everything that's going is listed further down this page. Have a scroll, put
-      whatever takes your fancy into the basket and send me the list. I'll write back with the
-      address and we'll find you a time. Nothing's held until I reply.</p>
+      whatever takes your fancy into the basket and send me the list, and I'll write back to say
+      it's yours. Nothing's held until I reply, and you're welcome to just turn up.</p>
 
     <div class="when">
       <p class="when-line"><b>Saturday 3 October</b> <span>11am – 5pm</span></p>
       <p class="when-line"><b>Saturday 10 October</b> <span>11am – 5pm, whatever's left</span></p>
       <p class="tick" id="tick"></p>
-      <p class="when-line where-line"><b>32nd Street, Astoria</b> <span>between 30th and 31st
-        Avenue, a few minutes from the N and W at 30th Ave</span></p>
-      <p class="when-note">Message me for the door number, or just ask for it when you send your
-        list. Can't make either Saturday? Say so and we'll find another time. Most of it is free;
-        for the handful of things that aren't, it's cash, Venmo or Zelle on the day.</p>
+      <p class="when-line where-line"><b>30-83 32nd Street, Apt 1B</b> <span>Astoria, NY 11102 &#183;
+        buzz 1B &#183; four minutes from the N and W at 30th Avenue</span></p>
+      <p class="cal">Add it to your calendar:
+        <a href="/moving-sale.ics">both Saturdays</a> &#183;
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">3 October</a> &#183;
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">10 October</a></p>
+      <p class="when-note">Can't make either Saturday? Say so when you send your list and we'll
+        find another time. Most of it is free; for the handful of things that aren't, it's cash,
+        Venmo or Zelle on the day.</p>
     </div>
 
     <div class="note">
@@ -295,6 +318,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       <span class="flabel">Of</span>
       <button class="chip" aria-pressed="true" data-cat="">Everything</button>
       {% for s in page.shelves %}<button class="chip" aria-pressed="false" data-cat="{{ s }}">{{ s }}</button>{% endfor %}
+      <span id="shown" aria-live="polite"></span>
     </div>
   </div>
 </div>
@@ -308,7 +332,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   <p class="sub">The things I'd be sorry to see go in a skip. Start here.</p>
   <div class="grid big">
   {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }}" data-room="{{ it.room }}" data-free="{{ it.free }}">
+    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -344,7 +368,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   <p class="sub">{{ initems | size }} things.</p>
   <div class="grid">
   {% for it in initems %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" id="i-{{ it.id }}">
+    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" id="i-{{ it.id }}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -378,10 +402,9 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     <p><b>Who's asking.</b> I'm Robin Kwong. I've lived on 32nd Street in Astoria for four and a
     half years and I'm moving to London at the start of November. This is my actual flat and
     these are my actual things.</p>
-    <p><b>Collection only.</b> 32nd Street in Astoria, between 30th and 31st Avenue — about
-    twenty minutes from midtown on the N or W, and easy enough from most of Brooklyn. I'll send
-    the door number when you get in touch. I'll help you carry things down and out to a car, but
-    I can't deliver.</p>
+    <p><b>Collection only.</b> 30-83 32nd Street, Apt 1B, Astoria NY 11102 &mdash; about twenty
+    minutes from midtown on the N or W, and easy enough from most of Brooklyn. I'll help you carry
+    things down and out to a car, but I can't deliver.</p>
     <p><b>Nothing is held until I reply.</b> If two people want the same thing, whoever can
     come on one of the two Saturdays gets it, because that's the one I can actually manage.</p>
     <p><b>Paying, for the few things that cost anything.</b> Cash, Venmo or Zelle. I'll give you
@@ -390,7 +413,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     on both days and I'd rather the flat was full of people than quietly emptying.</p>
     <p><b>Cats not included.</b> Coco and Petal appear in the background of several of these
     photographs and are not available. They're flying to London, which they have opinions about.</p>
-    <p><b>Not everything is listed.</b> The furniture is going separately, and there's a pile
+    <p><b>Not everything is listed.</b> The big furniture is going separately, and there's a pile
     of things too dull to photograph. Come and look on the day.</p>
   </div>
 </footer>
@@ -410,15 +433,20 @@ footer p{max-width:58ch;color:var(--ink-soft)}
         <span><b>Saturday 10 October</b><small>11am – 5pm</small></span></label>
       <label class="radio"><input type="radio" name="when" value="Neither date works">
         <span><b>Neither works for me</b><small>Get in touch and we'll find a time</small></span></label>
+      <p class="fine">An empty basket is fine. Send it with nothing in it if you're just coming to
+        say hello.</p>
     </fieldset>
     <div class="field"><label for="who">Your name</label><input id="who" autocomplete="name"></div>
-    <div class="field"><label for="contact">Email or phone</label><input id="contact" autocomplete="email"></div>
+    <div class="field"><label for="contact">Email or phone</label>
+      <input id="contact" autocomplete="email" inputmode="email" spellcheck="false"></div>
     <div class="field"><label for="note">Anything else? (optional)</label>
       <textarea id="note" rows="3" placeholder="Only want two of the six chairs, bringing a van, that sort of thing"></textarea></div>
   </div>
   <div class="bk-foot">
     <button class="btn" id="send">Send my list</button>
-    <p class="fine">This opens your email app with everything filled in. Nothing is sent until you press send there.</p>
+    <button class="btn ghost" id="copyList">Copy it instead</button>
+    <p class="fine">This opens your email app with everything filled in. Nothing is sent until you
+      press send there. If nothing happens, copy it instead and send it to robin.kwong@gmail.com.</p>
   </div>
 </aside>
 
@@ -461,7 +489,9 @@ footer p{max-width:58ch;color:var(--ink-soft)}
         }).join("") +
         (total>0
           ? '<div class="bk-total"><span>Total</span><span>$'+total+'</span></div>'+
-            '<p class="fine">'+paidCount+(paidCount===1?' item costs':' items cost')+
+            '<p class="fine">'+(paidCount===ids.length
+              ? (paidCount===1?'That one costs':'Those cost')
+              : paidCount+(paidCount===1?' item costs':' items cost'))+
             ' money, the rest are free. Cash, Venmo or Zelle on the day.</p>'
           : '<div class="bk-total"><span>Total</span><span>Free</span></div>')
       : '<p class="fine">Nothing in here yet. Add something you like the look of.</p>';
@@ -502,18 +532,47 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     applyFilter(false);
     open(false);
     stopRolling();
-    setTimeout(function(){
-      card.scrollIntoView({block:"center"});
-      card.classList.remove("flash"); void card.offsetWidth; card.classList.add("flash");
-    }, 230);
+    setTimeout(function(){ spotlight(card); }, 230);
   }
+
+  // A smooth scroll across a 36,000px page takes well over a second to arrive,
+  // so a 1.5s flash fired at departure is over before you get there. Mark the
+  // card instead, and clear the mark when you next do something.
+  function clearPick(){
+    var c=document.querySelector(".card.picked");
+    if(c) c.classList.remove("picked");
+  }
+  function spotlight(card){
+    clearPick();
+    card.scrollIntoView({block:"center"});
+    card.classList.add("picked");
+  }
+  ["wheel","touchstart","keydown"].forEach(function(ev){
+    window.addEventListener(ev, clearPick, {passive:true});
+  });
 
   // filtering: two independent dimensions — price, and kind
   var q="", price="", cat="";
+  var lotCount=document.querySelectorAll(".roomsec .item").length;
   function applyFilter(scroll){
     var shown=0;
+    // Searching the category name as well as the item rescues "bike", "luggage"
+    // and "bathroom", which appear in no description. But as a peer it swamped
+    // the result — every one of the 13 things in "Furniture & lamps" answered
+    // to "lamp". So the category only counts when nothing else matched.
+    // Three tiers, each used only when the one above it finds nothing: the item's
+    // own name, then its description, then its category. Without the first tier
+    // "suitcase" put a grater set (in "storage cases") above the actual cases;
+    // without the last, "bike" and "luggage" found nothing at all.
+    var tier = "title";
+    if(terms.length){
+      if(!cards.some(function(c){ return matches(c.dataset.title); })){
+        tier = cards.some(function(c){ return matches(c.dataset.name); }) ? "name" : "room";
+      }
+    }
     cards.forEach(function(c){
-      var okQ = !q || c.dataset.name.indexOf(q)>-1;
+      var okQ = !terms.length || matches(
+        tier==="title" ? c.dataset.title : tier==="name" ? c.dataset.name : c.dataset.room.toLowerCase());
       var okP = !price
         || (price==="free" ? c.dataset.free==="true"
         :  price==="paid" ? c.dataset.free==="false"
@@ -522,11 +581,22 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       var okC = !cat || c.dataset.room===cat;
       var ok = okQ && okP && okC;
       c.classList.toggle("hidden",!ok);
-      if(ok) shown++;
+      if(ok && c.id) shown++;   // section cards only; featured repeats would double-count
     });
+    var filtering = !!(q||price||cat);
     document.querySelectorAll(".roomsec").forEach(function(s){
-      s.classList.toggle("hidden", !s.querySelector(".item:not(.hidden)"));
+      var n = s.querySelectorAll(".item:not(.hidden)").length;
+      s.classList.toggle("hidden", !n);
+      var sub = s.querySelector(".sub");
+      if(sub){
+        if(!sub.dataset.all) sub.dataset.all = sub.textContent;
+        sub.textContent = filtering
+          ? n + (n===1 ? " thing matches." : " things match.")
+          : sub.dataset.all;
+      }
     });
+    var sc=document.getElementById("shown");
+    if(sc) sc.textContent = filtering ? "Showing "+shown+" of "+lotCount : "";
     document.getElementById("featured").classList.toggle("hidden", !!(q||price||cat));
     var emptyEl=document.getElementById("empty");
     emptyEl.textContent = (price==="mine" && !Object.keys(basket).length)
@@ -543,12 +613,52 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     var y=first.getBoundingClientRect().top + window.pageYOffset - bar.offsetHeight - 8;
     window.scrollTo({top:Math.max(0,y), behavior:"smooth"});
   }
+  // Substring matching made "lamp" find a bowl lifter (inside "clamp"), "ac"
+  // match 47 things, and "lamps", "bike", "luggage" and "suitcase" find nothing
+  // at all. Match whole-word prefixes instead, allow for plurals, and give the
+  // handful of words people reach for that don't appear in any description.
+  var SYN={suitcase:["cabin","luggage"], luggage:["cabin","luggage"], sofa:["sectional","couch"],
+           couch:["sectional","sofa"], tv:["television","screen","samsung"], telly:["television"],
+           bike:["bicycle","cycling"], bicycle:["bike","cycling"], aircon:["air"],
+           hoover:["vacuum"], boardgame:["game"], board:["board","game"], crockery:["plate","bowl","dish"],
+           cutlery:["fork","spoon","knife","chopstick"], booze:["gin","aperol","prosecco"]};
+  var terms=[];
+  function stems(w){
+    var out=[w];
+    if(w.length>3 && w.slice(-1)==="s") out.push(w.slice(0,-1));
+    if(w.length>4 && w.slice(-2)==="es") out.push(w.slice(0,-2));
+    (SYN[w]||[]).forEach(function(x){ out.push(x); });
+    return out;
+  }
+  function matches(hay){
+    if(!terms.length) return true;
+    return terms.every(function(alts){
+      return alts.some(function(t){
+        var i=hay.indexOf(t);
+        while(i>-1){
+          if(i===0 || !/[a-z0-9]/.test(hay.charAt(i-1))) return true;  // word start only
+          i=hay.indexOf(t,i+1);
+        }
+        return false;
+      });
+    });
+  }
   document.getElementById("search").addEventListener("input",function(e){
-    q=e.target.value.trim().toLowerCase(); applyFilter(false);
+    q=e.target.value.trim().toLowerCase();
+    // "free" and "paid" are filters people type into the search box
+    if(q==="free" || q==="paid"){
+      var chip=document.querySelector('#prices .chip[data-price="'+q+'"]');
+      if(chip){ e.target.value=""; q=""; terms=[]; chip.click(); return; }
+    }
+    terms = q ? q.split(/\s+/).filter(Boolean).map(stems) : [];
+    applyFilter(false);
   });
   function wireRow(id, attr, set){
     document.getElementById(id).addEventListener("click",function(e){
       var b=e.target.closest(".chip"); if(!b) return;
+      if(b.getAttribute("aria-pressed")==="true" && b.dataset[attr]){
+        b=document.querySelector("#"+id+' .chip[data-'+attr+'=""]');   // back to Everything
+      }
       set(b.dataset[attr]);
       document.querySelectorAll("#"+id+" .chip").forEach(function(c){
         c.setAttribute("aria-pressed", c===b ? "true":"false");
@@ -569,15 +679,40 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     });
     if(!pool.length) return;
     var pick=pool[Math.floor(Math.random()*pool.length)];
-    pick.scrollIntoView({block:"center"});
-    pick.classList.remove("flash");
-    void pick.offsetWidth;
-    pick.classList.add("flash");
+    spotlight(pick);
     nagAt=Math.min(nagAt+1,nags.length-1);
     document.getElementById("againLabel").textContent=nags[nagAt];
     setTimeout(function(){ againBar.classList.add("show"); }, 420);
   }
   function stopRolling(){ againBar.classList.remove("show"); }
+  var bar=document.querySelector(".bar"), lastY=window.pageYOffset, settling=0;
+  function setTuck(on){
+    if(bar.classList.contains("tuck")===on) return;
+    bar.classList.toggle("tuck",on);
+    // Folding the bar reflows everything below it, which fires a scroll event
+    // of its own. Left alone that event reads as "scrolling up" and unfolds the
+    // bar again, so ignore what the page does to itself for a moment.
+    settling=Date.now()+320;
+  }
+  window.addEventListener("scroll",function(){
+    var y=window.pageYOffset;
+    if(Date.now()<settling){ lastY=y; return; }
+    var past=y > document.querySelector(".hero").offsetHeight;
+    if(!past) setTuck(false);
+    else if(y > lastY + 8) setTuck(true);
+    else if(y < lastY - 8) setTuck(false);
+    lastY=y;
+  },{passive:true});
+  document.querySelector(".bar-in").addEventListener("focusin",function(){
+    bar.classList.remove("tuck");
+  });
+  window.addEventListener("scroll",function(){
+    if(!againBar.classList.contains("show")) return;
+    var hero=document.querySelector(".hero"), foot=document.querySelector("footer");
+    var over = hero.getBoundingClientRect().bottom > window.innerHeight-90
+            || foot.getBoundingClientRect().top < window.innerHeight-30;
+    againBar.classList.toggle("duck", over);
+  },{passive:true});
   document.getElementById("surprise").addEventListener("click",roll);
   document.getElementById("againBtn").addEventListener("click",roll);
   document.getElementById("againX").addEventListener("click",stopRolling);
@@ -594,31 +729,72 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   scrim.addEventListener("click",function(){ open(false); });
   document.addEventListener("keydown",function(e){ if(e.key==="Escape") open(false); });
 
-  document.getElementById("send").addEventListener("click",function(){
+  // An empty basket used to refuse the whole form, which meant the one group
+  // the page explicitly invites — people coming only to say goodbye — had no
+  // way to say so. Empty is now a valid message.
+  function flagField(id,msg){
+    var f=document.getElementById(id);
+    var holder=f.closest(".field");
+    var e=holder.querySelector(".err");
+    if(!e){ e=document.createElement("p"); e.className="err"; holder.appendChild(e); }
+    e.textContent=msg;
+    f.setAttribute("aria-invalid","true");
+    f.focus();
+  }
+  function clearFields(){
+    document.querySelectorAll("#basket .err").forEach(function(e){ e.remove(); });
+    document.querySelectorAll("#basket [aria-invalid]").forEach(function(f){
+      f.removeAttribute("aria-invalid");
+    });
+  }
+  function compose(){
     var ids=Object.keys(basket);
-    if(!ids.length){ alert("Put something in the basket first."); return; }
     var when=document.querySelector('input[name=when]:checked').value;
     var who=document.getElementById("who").value.trim();
     var contact=document.getElementById("contact").value.trim();
     var note=document.getElementById("note").value.trim();
-    if(!who || !contact){ alert("I need a name and a way to reach you."); return; }
+    clearFields();
+    if(!who){ flagField("who","I need a name to put to the list."); return null; }
+    if(!contact){ flagField("contact","And a way to write back — email or phone."); return null; }
     var total=ids.reduce(function(s,id){ return s + (basket[id].p||0); },0);
-    var lines=ids.map(function(id){
-      var it=basket[id];
-      return "- "+it.n+"  ["+id+"]"+(it.p>0 ? "  $"+it.p : "  free");
-    });
-    var body=
-      "Hello Robin,\n\nI'd like these from your moving sale:\n\n"+
-      lines.join("\n")+
-      (total>0 ? "\n\nTotal: $"+total : "\n\nAll free")+
-      "\n\nComing: "+when+
+    var body, subject;
+    if(ids.length){
+      var lines=ids.map(function(id){
+        var it=basket[id];
+        return "- "+it.n+"  ["+id+"]"+(it.p>0 ? "  $"+it.p : "  free");
+      });
+      subject="Moving sale: "+ids.length+(ids.length===1?" thing":" things")+" please";
+      body="Hello Robin,\n\nI'd like these from your moving sale:\n\n"+
+        lines.join("\n")+
+        (total>0 ? "\n\nTotal: $"+total : "\n\nAll free");
+    } else {
+      subject="Moving sale: just coming to say hello";
+      body="Hello Robin,\n\nNothing from the list for me, I'm just coming to say goodbye.";
+    }
+    body += "\n\nComing: "+when+
       "\nName: "+who+
       "\nContact: "+contact+
       (note? "\nNote: "+note : "")+
       "\n\nThanks!\n";
-    var subject="Moving sale: "+ids.length+(ids.length===1?" thing":" things")+" please";
+    return {subject:subject, body:body};
+  }
+
+  document.getElementById("send").addEventListener("click",function(){
+    var m=compose(); if(!m) return;
     window.location.href="mailto:robin.kwong@gmail.com?subject="+
-      encodeURIComponent(subject)+"&body="+encodeURIComponent(body);
+      encodeURIComponent(m.subject)+"&body="+encodeURIComponent(m.body);
+  });
+
+  // Not everyone's browser has a mail handler, and there was nothing else on
+  // the page to fall back to — no link, no address in text.
+  document.getElementById("copyList").addEventListener("click",function(){
+    var m=compose(); if(!m) return;
+    var text=m.subject+"\n\n"+m.body;
+    var btn=this;
+    function done(){ btn.textContent="Copied — paste it to robin.kwong@gmail.com"; }
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(text).then(done, function(){ prompt("Copy this:", text); });
+    } else { prompt("Copy this:", text); }
   });
 
   // lightbox

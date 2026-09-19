@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//robinkwong.com//moving-sale//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:moving-sale-1@robinkwong.com
+DTSTAMP:20260919T120000Z
+DTSTART:20261003T150000Z
+DTEND:20261003T210000Z
+SUMMARY:Robin's moving sale (and goodbye)
+LOCATION:30-83 32nd Street Apt 1B, Astoria, NY 11102
+DESCRIPTION:Everything must go. Browse and claim: https://robinkwong.com/moving-sale/
+URL:https://robinkwong.com/moving-sale/
+END:VEVENT
+BEGIN:VEVENT
+UID:moving-sale-2@robinkwong.com
+DTSTAMP:20260919T120000Z
+DTSTART:20261010T150000Z
+DTEND:20261010T210000Z
+SUMMARY:Robin's moving sale (and goodbye) - last day
+LOCATION:30-83 32nd Street Apt 1B, Astoria, NY 11102
+DESCRIPTION:Second and last day, whatever's left. https://robinkwong.com/moving-sale/
+URL:https://robinkwong.com/moving-sale/
+END:VEVENT
+END:VCALENDAR
