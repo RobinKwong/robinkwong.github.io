@@ -302,7 +302,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it %}
     <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }}" data-room="{{ it.room }}" data-free="{{ it.free }}">
       {% if it.photos %}
-      <div class="shot"><img src="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" loading="lazy"></div>
+      <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
       <div class="noshot" style="background:hsl({{ forloop.index | times:47 | modulo:360 }} 42% 38%)">{{ it.name }}</div>
       {% endif %}
@@ -338,7 +338,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   {% for it in initems %}
     <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" id="i-{{ it.id }}">
       {% if it.photos %}
-      <div class="shot"><img src="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" loading="lazy"></div>
+      <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
       <div class="noshot" style="background:hsl({{ forloop.index | times:59 | modulo:360 }} 38% 36%)">{{ it.name }}</div>
       {% endif %}
@@ -587,7 +587,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   var lb=document.getElementById("lb"), lbImg=lb.querySelector("img");
   document.addEventListener("click",function(e){
     var shot=e.target.closest(".shot img");
-    if(shot){ lbImg.src=shot.src; lbImg.alt=shot.alt; lb.classList.add("open"); return; }
+    if(shot){ lbImg.src=shot.dataset.full||shot.src; lbImg.alt=shot.alt; lb.classList.add("open"); return; }
     if(e.target===lb||e.target===lbImg) lb.classList.remove("open");
   });
   document.addEventListener("keydown",function(e){ if(e.key==="Escape") lb.classList.remove("open"); });
