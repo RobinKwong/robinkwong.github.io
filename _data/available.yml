@@ -595,16 +595,6 @@
   photos:
     - "K73-ceramic-casserole-pot.jpg"
 
-- id: "K25"
-  slug: "k25-clear-glass-teapot"
-  name: "Clear glass teapot"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Clear glass, so you can watch the tea actually brew. That is the whole argument for a glass teapot and it is a good one."
-  free: true
-  photos:
-    - "K14-crockery-cabinet.jpg"
-
 - id: "K22"
   slug: "k22-cocktail-shaker-and-mixing-kit"
   name: "Cocktail shaker and mixing kit"
@@ -634,6 +624,16 @@
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
+
+- id: "K105"
+  slug: "k105-creme-brulee-dishes-a-pair"
+  name: "Creme brulee dishes, a pair"
+  qty: "2"
+  shelf: "Kitchen"
+  blurb: "Two black ceramic creme brulee dishes with fluted sides, wide and shallow, which is the shape that gives the biggest sugar crust."
+  free: true
+  photos:
+    - "K105-creme-brulee-dishes.jpg"
 
 - id: "K95"
   slug: "k95-cruzin-kitchen-scissors-unopened"
@@ -698,6 +698,16 @@
   photos:
     - "K14-crockery-cabinet.jpg"
 
+- id: "K25"
+  slug: "k25-glass-tea-press-with-infuser"
+  name: "Glass tea press with infuser"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "A round-bellied glass tea press with a stainless mesh infuser on a plunger, so the leaves get pushed down once it has brewed. Yellow collar, green lid, blue knob."
+  free: true
+  photos:
+    - "K25-glass-tea-press.jpg"
+
 - id: "K97"
   slug: "k97-glass-tumblers"
   name: "Glass tumblers"
@@ -747,6 +757,16 @@
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
+
+- id: "K27"
+  slug: "k27-lekue-silicone-popsicle-moulds-set-of-seven"
+  name: "Lekue silicone popsicle moulds, set of seven"
+  qty: "7"
+  shelf: "Kitchen"
+  blurb: "Seven Lekue silicone popsicle moulds in green, orange, yellow and red, with their clear lids and a stick tool. The silicone flexes, so a frozen lolly comes out whole."
+  free: true
+  photos:
+    - "K27-popsicle-moulds.jpg"
 
 - id: "K33"
   slug: "k33-magnetic-spice-tins-the-whole-set"
@@ -843,16 +863,6 @@
   free: true
   photos:
     - "K82-above-hood-cabinet.jpg"
-
-- id: "K27"
-  slug: "k27-popsicle-moulds"
-  name: "Popsicle moulds"
-  qty: "1 set"
-  shelf: "Kitchen"
-  blurb: "A set of popsicle moulds."
-  free: true
-  photos:
-    - "K14-crockery-cabinet.jpg"
 
 - id: "D08"
   slug: "d08-powerxl-air-fryer"
