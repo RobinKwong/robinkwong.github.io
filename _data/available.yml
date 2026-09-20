@@ -557,10 +557,10 @@
   name: "Brita filter jug with spare filters"
   qty: "1 jug + filters"
   shelf: "Kitchen"
-  blurb: "Brita filter jug, plus two separate stashes of spare cartridges. Enough to keep you going for a long time."
+  blurb: "Brita filter jug with a cartridge already fitted, and two separate stashes of spare cartridges to go with it."
   free: true
   photos:
-    - "K20-counter-kettle-brita.jpg"
+    - "K21-brita-jug.jpg"
     - "K16-under-the-sink.jpg"
     - "K82-above-hood-cabinet.jpg"
 
@@ -782,14 +782,14 @@
     - "K29-bodum-moma-chambord-glasses.jpg"
 
 - id: "K69"
-  slug: "k69-mortar-and-pestle-small-white"
-  name: "Mortar and pestle, small, white"
+  slug: "k69-mortar-and-pestle-small-white-marble"
+  name: "Mortar and pestle, small, white marble"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Small white mortar and pestle."
+  blurb: "A small mortar and pestle in white marble, heavy for its size, which is the point of a stone one."
   free: true
   photos:
-    - "K10-range-and-counter.jpg"
+    - "K69-mortar-and-pestle.jpg"
 
 - id: "K20"
   slug: "k20-mueller-glass-kettle-1-8l"
@@ -974,10 +974,10 @@
   name: "Utensil holder with cooking utensils"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "White ceramic utensil pot with the spatulas, tongs and long-handled spoons that live in it."
+  blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners. The black turner at the back has a damaged edge."
   free: true
   photos:
-    - "K10-range-and-counter.jpg"
+    - "K12-utensil-pot.jpg"
 
 - id: "K23"
   slug: "k23-water-bottles-and-insulated-keep-warm-cups"
