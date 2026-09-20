@@ -600,7 +600,7 @@
   name: "Cocktail shaker and mixing kit"
   qty: "4 pieces"
   shelf: "Kitchen"
-  blurb: "A three-piece stainless shaker, a gold-toned Hawthorne strainer, a twisted bar spoon and a double-sided jigger. The shaker is marked and spotted from being used rather than displayed."
+  blurb: "A three-piece stainless shaker, a gold-coloured Hawthorne strainer, a twisted bar spoon and a double-sided jigger. The shaker is marked and spotted from years of use and still seals properly."
   free: true
   photos:
     - "K22-cocktail-kit.jpg"
@@ -707,16 +707,6 @@
   free: true
   photos:
     - "K25-glass-tea-press.jpg"
-
-- id: "K97"
-  slug: "k97-glass-tumblers"
-  name: "Glass tumblers"
-  qty: "4"
-  shelf: "Kitchen"
-  blurb: "Four glass tumblers."
-  free: true
-  photos:
-    - "K82-above-hood-cabinet.jpg"
 
 - id: "K64"
   slug: "k64-ice-bucket-metallic"
@@ -1399,3 +1389,11 @@
   price: "$15"
   photos:
     - "L31-slam-ball.jpg"
+
+- id: "K97"
+  slug: "k97-glass-tumblers"
+  name: "Glass tumblers"
+  qty: "4"
+  shelf: "Kitchen"
+  blurb: "Four glass tumblers."
+  free: true
