@@ -767,11 +767,11 @@
     - "K20-mueller-kettle.jpg"
 
 - id: "D51"
-  slug: "d51-nutribullet-blender"
-  name: "NutriBullet blender"
+  slug: "d51-nutribullet-pro-900-blender"
+  name: "NutriBullet Pro 900 blender"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "NutriBullet blender. US plug."
+  blurb: "NutriBullet Pro, the 900-watt one, with its tall and short cups. The blender that makes one smoothie in the cup you then drink it out of. US plug."
   free: false
   price: "$25"
   photos:
@@ -799,11 +799,11 @@
     - "K77-always-pan.jpg"
 
 - id: "D08"
-  slug: "d08-powerxl-air-fryer"
-  name: "PowerXL air fryer"
+  slug: "d08-powerxl-vortex-air-fryer-3-quart"
+  name: "PowerXL Vortex air fryer, 3 quart"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "PowerXL air fryer, the workhorse kind. US plug."
+  blurb: "PowerXL Vortex air fryer, three quarts and 1200 watts, which is the size that does chips for two people rather than a family. US plug."
   free: false
   price: "$25"
   photos:
