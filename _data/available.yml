@@ -496,6 +496,17 @@
     - "K32-aroma-hotpot-label.jpg"
     - "K89-cabinet-above-cutting-board.jpg"
 
+- id: "K10"
+  slug: "k10-bamboo-knife-block-with-knives-and-blade-tools"
+  name: "Bamboo knife block with knives and blade tools"
+  qty: "1 block"
+  shelf: "Kitchen"
+  blurb: "A bamboo knife block by Evolve, filled with flexible bristles rather than cut slots, so any blade fits anywhere in it and nothing gets blunted on the way in. It holds a wooden-handled knife, a steel-handled one, a long blue-handled blade, kitchen scissors and a few smaller blade tools, and I'm happy to split a single knife out if that's all you want."
+  free: false
+  price: "$25"
+  photos:
+    - "K10-knife-block.jpg"
+
 - id: "K103"
   slug: "k103-bamboo-wok-spatula-unopened"
   name: "Bamboo wok spatula, unopened"
@@ -726,17 +737,6 @@
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
-
-- id: "K10"
-  slug: "k10-knife-block-with-knives-and-blade-tools"
-  name: "Knife block with knives and blade tools"
-  qty: "1 block"
-  shelf: "Kitchen"
-  blurb: "Knife block holding two Chinese choppers, a kitchen knife, three pairs of scissors, a peeler and an oyster knife. Happy to split a single blade out if you only want one."
-  free: false
-  price: "$25"
-  photos:
-    - "K10-knife-block.jpg"
 
 - id: "K66"
   slug: "k66-large-metal-baking-tray"
