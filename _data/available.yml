@@ -1075,10 +1075,11 @@
   name: "Samsung flat-screen TV, 48 inch"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Samsung 48 inch flat screen with its remote. Takes two people to carry comfortably."
+  blurb: "Samsung 48 inch flat screen with its remote, shown switched on and working. Takes two people to carry comfortably."
   free: false
   price: "$85"
   photos:
+    - "L07-samsung-tv-on.jpg"
     - "L07-samsung-tv.jpg"
 
 - id: "D90"
