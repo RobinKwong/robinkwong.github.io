@@ -375,11 +375,11 @@
   name: "Black IKEA folding chairs with cushions, set of six"
   qty: "6 chairs + 6 cushions"
   shelf: "Furniture & lamps"
-  blurb: "Six IKEA FROSVI folding chairs in black, each with a tie-on cushion. They fold to three inches thick, which is the entire point of them, so all six stack into one bundle about 35 inches long and 18 deep and go in a car rather than a van. Around 38lb for the set. IKEA sell them at $35 each. All six go together."
+  blurb: "Six IKEA FROSVI folding chairs in black, each with a grey tie-on cushion, one of them pictured. They fold to three inches thick, which is the entire point of them, so all six stack into a single bundle about 35 inches long and 18 deep that fits in a car. Around 38lb for the set. IKEA sell them at $35 each."
   free: false
   price: "$55"
   photos:
-    - "E18-hall-closet.jpg"
+    - "E19-folding-chair.jpg"
 
 - id: "B06"
   slug: "b06-dark-wood-two-drawer-nightstand"
