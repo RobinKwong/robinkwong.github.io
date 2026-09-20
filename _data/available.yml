@@ -501,7 +501,7 @@
   name: "Bamboo knife block with knives and blade tools"
   qty: "1 block"
   shelf: "Kitchen"
-  blurb: "A bamboo knife block by Evolve, filled with flexible bristles rather than cut slots, so any blade fits anywhere in it and nothing gets blunted on the way in. It holds a wooden-handled knife, a steel-handled one, a long blue-handled blade, kitchen scissors and a few smaller blade tools, and I'm happy to split a single knife out if that's all you want."
+  blurb: "A bamboo knife block by Evolve, filled with flexible bristles rather than cut slots, so any blade fits anywhere in it and nothing gets blunted going in. Two Chinese choppers, a kitchen knife, three pairs of scissors, a peeler and an oyster knife, and I'm happy to split a single blade out if that's all you want."
   free: false
   price: "$25"
   photos:
@@ -974,7 +974,7 @@
   name: "Utensil holder with cooking utensils"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners. The black turner at the back has a damaged edge."
+  blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners."
   free: true
   photos:
     - "K12-utensil-pot.jpg"
