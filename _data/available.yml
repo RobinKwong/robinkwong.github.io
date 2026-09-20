@@ -411,12 +411,11 @@
   name: "Round side table, wooden top on a black scrolled metal base"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Round side table, wooden top on a black scrolled metal base. Twenty inches tall and fifteen across, so it slots into the gap beside an armchair where a bigger table won't go."
+  blurb: "Round side table, a distressed wood top on a black scrolled metal base with four curved legs. Twenty inches tall and fifteen across, so it slots into the gap beside an armchair where a bigger table won't go."
   free: false
   price: "$20"
   photos:
-    - "E11-side-table-and-bathroom-doorway.jpg"
-    - "E16-oval-cat-bed-on-side-table.jpg"
+    - "E11-round-side-table.jpg"
 
 - id: "D27"
   slug: "d27-round-two-tier-side-table"
@@ -509,6 +508,17 @@
   price: "$30"
   photos:
     - "D06-microwave.jpg"
+
+- id: "K106"
+  slug: "k106-bodum-for-moma-chambord-glasses-a-pair"
+  name: "Bodum for MoMA Chambord glasses, a pair"
+  qty: "2"
+  shelf: "Kitchen"
+  blurb: "A boxed pair of Bodum for MoMA Chambord glasses, ten fluid ounces each, one with a yellow handle and one green. Double-walled, so a hot drink stays hot and the outside stays cool enough to hold. Unused."
+  free: false
+  price: "$15"
+  photos:
+    - "K106-bodum-chambord-glasses.jpg"
 
 - id: "K14"
   slug: "k14-bowls-and-plates"
@@ -1067,7 +1077,7 @@
   name: "Samsung flat-screen TV, 48 inch"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Samsung 48 inch flat screen with its remote. Worth knowing the tuner is US, so in the UK it's a monitor rather than a TV."
+  blurb: "Samsung 48 inch flat screen with its remote. Takes two people to carry comfortably."
   free: false
   price: "$85"
   photos:
@@ -1301,15 +1311,6 @@
   price: "$15"
   photos:
     - "L31-slam-ball.jpg"
-
-- id: "K106"
-  slug: "k106-bodum-for-moma-chambord-glasses-a-pair"
-  name: "Bodum for MoMA Chambord glasses, a pair"
-  qty: "2"
-  shelf: "Kitchen"
-  blurb: "A boxed pair of Bodum for MoMA Chambord glasses, double-walled so a hot drink stays hot and the outside stays cool enough to hold. Unused."
-  free: false
-  price: "$15"
 
 - id: "K62"
   slug: "k62-cooking-apron"
