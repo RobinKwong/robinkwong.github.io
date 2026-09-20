@@ -952,16 +952,6 @@
   photos:
     - "O26-magic-keyboard-and-crackers.jpg"
 
-- id: "O20"
-  slug: "o20-bag-of-party-balloons"
-  name: "Bag of party balloons"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "A bag of party balloons."
-  free: true
-  photos:
-    - "O05-glass-cabinet-1.jpg"
-
 - id: "E35"
   slug: "e35-bird-feed"
   name: "Bird feed"
@@ -1067,6 +1057,16 @@
   photos:
     - "L23-foot-massager.jpg"
     - "L23-foot-massager-label.jpg"
+
+- id: "O20"
+  slug: "o20-party-balloons-120-of-them"
+  name: "Party balloons, 120 of them"
+  qty: "120"
+  shelf: "Odds & amusements"
+  blurb: "A bag of 120 party balloons in twelve colours, still in its packaging."
+  free: true
+  photos:
+    - "O20-party-balloons.jpg"
 
 - id: "B41"
   slug: "b41-pickle-rick-costume"
