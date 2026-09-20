@@ -244,10 +244,11 @@
   name: "Light bulbs, the whole stash"
   qty: "1 lot"
   shelf: "Cleaning & supplies"
-  blurb: "A mixed stash of spare bulbs, US fittings, including a set for recessed ceiling lights. Take what fits your lamps."
+  blurb: "Thirteen LED bulbs, all screw fitting. Eight 11-watt ones, five spares for recessed ceiling lights, and on top of those an unopened box of full-spectrum grow light bulbs for indoor plants."
   free: true
   photos:
-    - "E51-recessed-ceiling-downlights.jpg"
+    - "C21-bulb-stash.jpg"
+    - "C21-grow-light.jpg"
 
 - id: "K40"
   slug: "k40-microfibre-cleaning-cloths"
