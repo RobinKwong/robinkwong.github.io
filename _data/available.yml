@@ -1104,16 +1104,6 @@
     - "L06-tv-console.jpg"
     - "L07-samsung-tv.jpg"
 
-- id: "O24"
-  slug: "o24-small-woven-basket"
-  name: "Small woven basket"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "A small woven basket, for the pile of things by the door that has never had anywhere to live."
-  free: true
-  photos:
-    - "O11-floor-lamp-corner.jpg"
-
 - id: "D90"
   slug: "d90-squishy-toys-in-a-pink-box"
   name: "Squishy toys in a pink box"
@@ -1134,6 +1124,16 @@
   price: "$25"
   photos:
     - "O35-tool-kit.jpg"
+
+- id: "O24"
+  slug: "o24-woven-bamboo-basket"
+  name: "Woven bamboo basket"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "A woven bamboo basket with a herringbone weave and a bound rim, ten and a half inches across and the same again tall. About right for hiding a plant pot, or for the pile of things by the door that has never had anywhere to live."
+  free: true
+  photos:
+    - "O24-woven-basket.jpg"
 
 - id: "L27"
   slug: "l27-woven-basket"
