@@ -297,7 +297,7 @@
   name: "Roborock robot vacuum"
   qty: "1"
   shelf: "Cleaning & supplies"
-  blurb: "A Roborock with its dock. Maps the place, does the floors, occasionally gets itself stuck under something low. Grubby on top, as you'd expect from a thing that spends its life on the floor. US plug."
+  blurb: "A Roborock with its dock. Maps the place, does the floors, occasionally gets itself stuck under something low. US plug."
   free: false
   price: "$55"
   photos:
@@ -308,7 +308,7 @@
   name: "Shark Navigator Lift-Away Deluxe upright vacuum"
   qty: "1"
   shelf: "Cleaning & supplies"
-  blurb: "Shark Navigator Lift-Away Deluxe, with the crevice tool, dusting brush and pet attachment. The canister lifts off the body so you can carry it up stairs and round a sofa properly. Dusty inside and it needs a filter clean. US motor, so it stays in America. Available on the second Saturday rather than the first, since I need it to pack."
+  blurb: "Shark Navigator Lift-Away Deluxe, with the crevice tool, dusting brush and pet attachment. The canister lifts off the body so you can carry it up stairs and round a sofa properly. US motor, so it stays in America. Available on the second Saturday only, since I need it for packing until then."
   free: false
   price: "$45"
   photos:
@@ -880,7 +880,7 @@
   name: "Soup pot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A lidded stainless pot, soup sized, with a glass lid so you can see in without letting the heat out. Heat-marked on the outside from actual use. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
+  blurb: "A lidded stainless pot, soup sized, with a glass lid so you can see in without letting the heat out. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
   free: true
   photos:
     - "K74-soup-pot.jpg"
