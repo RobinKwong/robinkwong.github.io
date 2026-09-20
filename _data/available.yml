@@ -962,15 +962,15 @@
     - "D92-dynatrap-plug-and-label.jpg"
 
 - id: "E49"
-  slug: "e49-ikea-murvel-boxes-four"
-  name: "IKEA MURVEL boxes, four"
+  slug: "e49-ikea-murvel-shoe-organisers-four"
+  name: "IKEA MURVEL shoe organisers, four"
   qty: "4"
   shelf: "Odds & amusements"
-  blurb: "Four IKEA MURVEL boxes in grey, each about five and a half inches square and nine and a half tall. They stack, which is the point of having four."
+  blurb: "Four IKEA MURVEL shoe organisers in grey. Each one is a curved plastic shelf that takes a shoe underneath and a shoe on top, so a closet shelf holds twice as many pairs. They nest flat when you aren't using them."
   free: true
   photos:
-    - "E49-ikea-murvel-shoe-organiser.jpg"
-    - "E49-ikea-murvel-label.jpg"
+    - "E49-shoe-organisers-stacked.jpg"
+    - "E49-shoe-organisers.jpg"
 
 - id: "O19"
   slug: "o19-ikea-skubb-hanging-organiser-and-three-boxes"
