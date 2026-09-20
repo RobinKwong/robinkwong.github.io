@@ -242,13 +242,12 @@
 - id: "C21"
   slug: "c21-light-bulbs-the-whole-stash"
   name: "Light bulbs, the whole stash"
-  qty: "1 lot"
+  qty: "13"
   shelf: "Cleaning & supplies"
-  blurb: "Thirteen LED bulbs, all screw fitting. Eight 11-watt ones, five spares for recessed ceiling lights, and on top of those an unopened box of full-spectrum grow light bulbs for indoor plants."
+  blurb: "Thirteen LED bulbs, all screw fitting. Eight 11-watt warm white ones that stand in for a 65-watt bulb, and five spares for recessed ceiling lights."
   free: true
   photos:
     - "C21-bulb-stash.jpg"
-    - "C21-grow-light.jpg"
 
 - id: "K40"
   slug: "k40-microfibre-cleaning-cloths"
@@ -1154,6 +1153,16 @@
   free: true
   photos:
     - "D87-ceramic-plant-pots.jpg"
+
+- id: "C65"
+  slug: "c65-full-spectrum-grow-light-bulbs-six"
+  name: "Full-spectrum grow light bulbs, six"
+  qty: "6"
+  shelf: "Plants & garden"
+  blurb: "Six full-spectrum LED grow light bulbs, each still in its bag, with the manual. Eleven watts, 1000 lumens, and an ordinary screw fitting, so they go into a lamp you already own and turn it into a plant light."
+  free: true
+  photos:
+    - "C65-grow-lights.jpg"
 
 - id: "C17"
   slug: "c17-gardening-lot-soil-perlite-pots-feed-and-tools"
