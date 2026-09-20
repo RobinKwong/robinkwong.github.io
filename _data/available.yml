@@ -706,7 +706,7 @@
   blurb: "Metallic ice bucket, 9 inches across and 10 inches tall, so a wine bottle sits in it with room for ice round the sides."
   free: true
   photos:
-    - "K60-tall-cabinet-bottom.jpg"
+    - "K64-ice-bucket.jpg"
 
 - id: "K53"
   slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
@@ -924,7 +924,7 @@
   free: false
   price: "$25"
   photos:
-    - "K60-tall-cabinet-bottom.jpg"
+    - "K65-stockpot.jpg"
 
 - id: "D103"
   slug: "d103-the-dry-store-unsorted"
