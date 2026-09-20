@@ -74,17 +74,6 @@
   photos:
     - "C55-adidas-sling-backpack.jpg"
 
-- id: "C61"
-  slug: "c61-cabin-case-bright-orange-two-wheel"
-  name: "Cabin case, bright orange, two-wheel"
-  qty: "1"
-  shelf: "Bags & luggage"
-  blurb: "Bright orange two-wheel cabin case. Scuffed and marked on the front panel, so it's cheap, but you'll never lose it on a carousel."
-  free: false
-  price: "$8"
-  photos:
-    - "C61-orange-cabin-case.jpg"
-
 - id: "C62"
   slug: "c62-grey-backpack-with-tan-leather-trim"
   name: "Grey backpack with tan leather trim"
@@ -123,7 +112,7 @@
   name: "Pierre Cardin cabin case, navy, two-wheel"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "Navy two-wheel cabin case, Pierre Cardin. Cabin sized, so it goes in an overhead locker."
+  blurb: "Navy two-wheel cabin case, Pierre Cardin, 14 by 10 inches and 21 inches tall, which is cabin size on most airlines."
   free: false
   price: "$10"
   photos:
@@ -145,7 +134,7 @@
   name: "US Traveler cabin case, purple, four-wheel"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "Purple four-wheel cabin case, expandable. Good condition."
+  blurb: "Purple four-wheel cabin case, expandable and cabin sized. Good condition."
   free: false
   price: "$20"
   photos:
