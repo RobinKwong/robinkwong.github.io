@@ -733,10 +733,10 @@
   name: "Large metal baking tray"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A full-size metal baking tray, the kind a whole tray of roast vegetables fits on without them steaming each other."
+  blurb: "A big metal baking tray with a rolled rim, the kind a whole tray of roast vegetables fits on without them steaming each other."
   free: true
   photos:
-    - "K60-tall-cabinet-bottom.jpg"
+    - "K66-baking-tray.jpg"
 
 - id: "K27"
   slug: "k27-lekue-silicone-popsicle-moulds-set-of-seven"
