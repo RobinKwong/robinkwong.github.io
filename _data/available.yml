@@ -58,10 +58,10 @@
   name: "World map canvas panels with pins"
   qty: "3"
   shelf: "Art, frames & vases"
-  blurb: "Three canvas world map panels with pins in them, for marking where you have been."
+  blurb: "Three canvas world map panels that hang as a set, with the enamel pins and stickers already on them. Somewhere to mark where you have been, with a head start from where I have."
   free: true
   photos:
-    - "O13-world-map-and-chair.jpg"
+    - "O13-world-map-panels.jpg"
 
 - id: "C55"
   slug: "c55-adidas-single-strap-sling-backpack-black"
@@ -180,8 +180,7 @@
   free: false
   price: "$15"
   photos:
-    - "B35-waxing-kit-1-box-contents-list.jpg"
-    - "B35-waxing-kit-2-box-open.jpg"
+    - "B35-waxing-kit.jpg"
 
 - id: "B37"
   slug: "b37-black-decker-light-n-easy-steam-iron-model-ir1010"
@@ -456,12 +455,11 @@
   name: "Tiffany-style stained glass table lamp"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Proper leaded stained glass, not a printed shade, about 23 inches tall with a 16 inch shade. It throws lovely colour when lit, and takes the same ordinary flame-tip screw-in bulb as the arc lamp. I'd have taken it with me if it were less fragile."
+  blurb: "Proper leaded stained glass, not a printed shade, about 23 inches tall with a 16 inch shade. Red roses over amber and green with glass cabochons set into the border, on a dark bronze base. It throws lovely colour when lit, and takes an ordinary flame-tip screw-in bulb. I'd have taken it with me if it were less fragile."
   free: false
   price: "$60"
   photos:
-    - "L12-tiffany-lamp-and-bench.jpg"
-    - "L12-tiffany-lamp.jpg"
+    - "L12-tiffany-lamp-lit.jpg"
 
 - id: "O22"
   slug: "o22-triceratops-beanbag-chair"
@@ -1081,7 +1079,6 @@
   free: false
   price: "$85"
   photos:
-    - "L06-tv-console.jpg"
     - "L07-samsung-tv.jpg"
 
 - id: "D90"
@@ -1235,11 +1232,11 @@
   name: "Cycling bundle: pump, panniers, helmet and cover"
   qty: "1 bundle"
   shelf: "Sport & bikes"
-  blurb: "Specialized floor pump with a gauge, a pair of rear-rack panniers with reflective triangles, a Schwinn helmet in turquoise and white, and a full-size bicycle cover. One lot, for whoever wants the whole setup."
+  blurb: "Specialized floor pump with a gauge, a pair of rear-rack panniers in black and ticking stripe, a helmet in turquoise and white, and a full-size bicycle cover in its bag. One lot, for whoever wants the whole setup."
   free: false
   price: "$15"
   photos:
-    - "C34-specialized-floor-pump.jpg"
+    - "C34-cycling-bundle.jpg"
     - "C04-bike-helmet.jpg"
     - "C33-panniers-1.jpg"
     - "C33-panniers-2.jpg"
