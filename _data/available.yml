@@ -140,16 +140,6 @@
   photos:
     - "C60-purple-cabin-case.jpg"
 
-- id: "D67"
-  slug: "d67-fragrance-diffuser-bottle-with-reeds"
-  name: "Fragrance diffuser bottle with reeds"
-  qty: "1"
-  shelf: "Bathroom"
-  blurb: "A squat black glass bottle with a black collar and four reeds in it. There's liquid in it, which is why it can't come to London with me."
-  free: true
-  photos:
-    - "D67-reed-diffuser.jpg"
-
 - id: "C23"
   slug: "c23-medpride-combine-pads-5-by-9-inch-box-of-40"
   name: "MedPride combine pads, 5 by 9 inch, box of 40"
@@ -169,6 +159,18 @@
   free: true
   photos:
     - "E04-reed-diffuser-and-nest.jpg"
+
+- id: "D67"
+  slug: "d67-reed-diffuser-bottles-and-sticks-boxed"
+  name: "Reed diffuser bottles and sticks, boxed"
+  qty: "4 bottles"
+  shelf: "Bathroom"
+  blurb: "Four black glass reed diffuser bottles with their stoppers, back in the box they came in, along with twenty reed sticks. Empty and ready for whatever oil you want to put in them."
+  free: true
+  photos:
+    - "D67-diffuser-bottles-boxed.jpg"
+    - "D67-diffuser-sticks.jpg"
+    - "D67-reed-diffuser.jpg"
 
 - id: "B35"
   slug: "b35-tress-wellness-complete-waxing-kit"
