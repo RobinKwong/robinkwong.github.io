@@ -517,16 +517,6 @@
   photos:
     - "D06-microwave.jpg"
 
-- id: "D42"
-  slug: "d42-blue-ceramic-teapot"
-  name: "Blue ceramic teapot"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Blue ceramic teapot. There are matching blue mugs, and they go together."
-  free: true
-  photos:
-    - "D44-open-shelf-snacks.jpg"
-
 - id: "K14"
   slug: "k14-bowls-and-plates"
   name: "Bowls and plates"
@@ -931,7 +921,7 @@
   name: "Spirits, liqueurs, tea and dried goods, disposal lot"
   qty: "1 lot"
   shelf: "Kitchen"
-  blurb: "The back of the drinks cupboard and the dry store: Aperol, Campari, gin, bitters, Fernet-Branca, triple sec, Jose Cuervo Blue Agave, jasmine tea, cinnamon sticks, dried seaweed, dried mushrooms and assorted packet food. The Aperol, the Campari and the tequila are all unopened, and the Fernet-Branca and the triple sec are nearly full. The rest have been opened. Take what appeals."
+  blurb: "The back of the drinks cupboard and the dry store: Aperol, Campari, gin, bitters, Fernet-Branca, triple sec, Jose Cuervo Blue Agave, jasmine tea, cinnamon sticks, dried seaweed, dried mushrooms and assorted packet food. The Aperol, the Campari and the tequila are all unopened, and the Fernet-Branca and the triple sec are nearly full. The rest have been opened. Take what appeals, assuming I haven't got to it first on the day."
   free: true
   photos:
     - "D62-lower-glass-cabinet.jpg"
@@ -966,6 +956,16 @@
   price: "$25"
   photos:
     - "K60-tall-cabinet-bottom.jpg"
+
+- id: "D42"
+  slug: "d42-teapot-and-two-matching-mugs"
+  name: "Teapot and two matching mugs"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "A round-bellied teapot with its lid, glazed so the colour runs from near-black at the top through blue down to a speckled white foot, and two mugs in the same pattern. All three go together."
+  free: true
+  photos:
+    - "D42-teapot-and-mugs.jpg"
 
 - id: "D09"
   slug: "d09-toshiba-rice-cooker-model-trcs02"
