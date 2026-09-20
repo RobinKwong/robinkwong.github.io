@@ -341,7 +341,7 @@
   name: "Amazon Basics oscillating pedestal fan"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Oscillating pedestal fan, height adjustable, with a timer. Works fine, blades could do with a wipe."
+  blurb: "Oscillating pedestal fan, height adjustable, with a timer. Works fine, blades could do with a wipe. US plug."
   free: false
   price: "$15"
   photos:
@@ -774,7 +774,7 @@
   name: "MoMA La Maison Inondee bowl"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "MoMA Design Store bowl, La Maison Inondée, still boxed and unused, with a boxed pair of Bodum for MoMA Chambord glasses. Going together."
+  blurb: "MoMA Design Store bowl, La Maison Inondee, the blue one, still boxed and unused, with a boxed pair of Bodum for MoMA Chambord glasses. Going together."
   free: false
   price: "$30"
   photos:
@@ -796,7 +796,7 @@
   name: "Mueller glass kettle, 1.8L"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. It's scaled inside, which the photo shows. A soak in vinegar sorts that out."
+  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. It's scaled inside, which the photo shows. A soak in vinegar sorts that out. US plug."
   free: false
   price: "$8"
   photos:
@@ -972,7 +972,7 @@
   name: "Toshiba rice cooker, model TRCS02"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Toshiba rice cooker, 1.6 litres, with its paddle. Makes properly good rice, which is the only test that matters."
+  blurb: "Toshiba rice cooker, 1.6 litres, with its paddle. Makes properly good rice, which is the only test that matters. US plug."
   free: false
   price: "$25"
   photos:
@@ -1066,7 +1066,7 @@
   name: "DynaTrap insect trap with spare glue cards"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "DynaTrap insect trap, the blue UV lamp kind, with spare glue cards. No zapping noise, and it works."
+  blurb: "DynaTrap insect trap, the blue UV lamp kind, with spare glue cards. No zapping noise, and it works. US plug."
   free: false
   price: "$30"
   photos:
@@ -1331,7 +1331,7 @@
   name: "321 Strong foam roller, red"
   qty: "1"
   shelf: "Sport & bikes"
-  blurb: "Firm foam roller in red. For the knots."
+  blurb: "Firm foam roller in red, the standard 321 Strong size at about 12.75 inches long and 5.25 across. For the knots."
   free: false
   price: "$8"
   photos:
@@ -1401,7 +1401,7 @@
   name: "Reehut foam exercise mat, thick, rolled with a strap"
   qty: "1"
   shelf: "Sport & bikes"
-  blurb: "Thick rolled exercise mat with a carry strap. The comfortable kind, good for floor work."
+  blurb: "Thick rolled exercise mat with a carry strap, Reehut's half-inch one at 71 by 24 inches. The comfortable kind, good for floor work."
   free: false
   price: "$10"
   photos:
