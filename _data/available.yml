@@ -353,11 +353,12 @@
   name: "Arc floor lamp with rattan shade"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Arc floor lamp with a rattan shade, 77 inches tall, reaching about 40 inches out from the base. Good for arcing over a sofa. Comes apart and fits in a car."
+  blurb: "Arc floor lamp with a rattan shade, 77 inches tall, reaching about 40 inches out from the base. Good for arcing over a sofa. It takes an ordinary flame-tip screw-in bulb and there's one in it. Comes apart and fits in a car."
   free: false
   price: "$45"
   photos:
     - "O11-floor-lamp-corner.jpg"
+    - "O11-bulb.jpg"
 
 - id: "C50"
   slug: "c50-area-rug-distressed-blue-and-cream-medallion-pattern"
@@ -467,7 +468,7 @@
   name: "Tiffany-style stained glass table lamp"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Proper leaded stained glass, not a printed shade, about 23 inches tall with a 16 inch shade. It throws lovely colour when lit. I'd have taken it with me if it were less fragile."
+  blurb: "Proper leaded stained glass, not a printed shade, about 23 inches tall with a 16 inch shade. It throws lovely colour when lit, and takes the same ordinary flame-tip screw-in bulb as the arc lamp. I'd have taken it with me if it were less fragile."
   free: false
   price: "$60"
   photos:
