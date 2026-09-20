@@ -952,16 +952,6 @@
   photos:
     - "O26-magic-keyboard-and-crackers.jpg"
 
-- id: "O33"
-  slug: "o33-bag-of-green-wool"
-  name: "Bag of green wool"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "A bag of green wool."
-  free: true
-  photos:
-    - "O21-board-games-cabinet.jpg"
-
 - id: "O20"
   slug: "o20-bag-of-party-balloons"
   name: "Bag of party balloons"
@@ -1062,10 +1052,10 @@
   name: "Meri Meri Christmas crackers"
   qty: "1 box of 6"
   shelf: "Odds & amusements"
-  blurb: "A box of six Meri Meri Christmas crackers. The nice ones."
+  blurb: "A box of six Meri Meri Christmas crackers, each one tied with a velvet ribbon in pink, red or blue."
   free: true
   photos:
-    - "O26-magic-keyboard-and-crackers.jpg"
+    - "O27-meri-meri-crackers.jpg"
 
 - id: "L23"
   slug: "l23-nekteck-foot-massager-model-nfm0301gy"
@@ -1096,10 +1086,10 @@
   name: "Potluck Showdown, second copy"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Potluck Showdown, a party card game. I own two copies and only need one."
+  blurb: "Potluck Showdown, a card game about food and mischief, two to six players and rounds of ten to thirty minutes. I own two copies and only need one."
   free: true
   photos:
-    - "O14-board-games-remaining-left.jpg"
+    - "O48-potluck-showdown.jpg"
 
 - id: "B55"
   slug: "b55-rechargeable-electric-bug-swatter-with-charging-base"
@@ -1156,14 +1146,24 @@
     - "O35-tool-kit.jpg"
 
 - id: "L27"
-  slug: "l27-wicker-basket-with-a-skipping-rope-in-it"
-  name: "Wicker basket with a skipping rope in it"
+  slug: "l27-woven-basket"
+  name: "Woven basket"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "A wicker basket, big enough for shoes, post or the things that collect on the floor. The skipping rope in the photo goes with the sports kit rather than the basket."
+  blurb: "A woven basket with a handle each side, big enough for shoes, post or whatever collects by the door."
   free: true
   photos:
-    - "L19-side-table-and-basket.jpg"
+    - "L27-woven-basket.jpg"
+
+- id: "O33"
+  slug: "o33-yarn-two-balls"
+  name: "Yarn, two balls"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Two balls of acrylic yarn in a paper bag, a 200 gram skein of Premier Basix worsted in dark green and a smaller 100 gram ball of variegated purple and green."
+  free: true
+  photos:
+    - "O33-yarn.jpg"
 
 - id: "D87"
   slug: "d87-ceramic-plant-pots"
