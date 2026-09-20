@@ -1149,10 +1149,10 @@
   name: "Gardening lot: soil, perlite, pots, feed and tools"
   qty: "1 lot"
   shelf: "Plants & garden"
-  blurb: "Everything needed to pot things up: two bags of potting soil, a bag of perlite, a stack of plastic pots in assorted sizes, Miracle-Gro plant food, rooting hormone, wheatgrass seeds, a trowel, gardening gloves and a misting bottle."
+  blurb: "Everything needed to pot things up, which is three bags of potting mix and one of perlite, a stack of black nursery pots with saucers, Miracle-Gro plant food, RootBoost rooting hormone, Mosquito Bits for fungus gnats, organic wheatgrass seed, a trowel, a misting bottle and two pairs of gloves."
   free: true
   photos:
-    - "D15-barn-door-cabinet-open.jpg"
+    - "C17-gardening-lot.jpg"
 
 - id: "B27"
   slug: "b27-plant-cutting-rooting-in-water"
