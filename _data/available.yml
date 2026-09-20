@@ -74,6 +74,16 @@
   photos:
     - "C55-adidas-sling-backpack.jpg"
 
+- id: "C61"
+  slug: "c61-cabin-case-bright-orange"
+  name: "Cabin case, bright orange"
+  qty: "1"
+  shelf: "Bags & luggage"
+  blurb: "Bright orange two-wheel cabin case, scuffed and marked on the front panel. One of the two wheels has worn away completely, so it will not roll, which is why it is free. Fine as a static storage case, and you will never lose it on a carousel."
+  free: true
+  photos:
+    - "C61-orange-cabin-case.jpg"
+
 - id: "C62"
   slug: "c62-grey-backpack-with-tan-leather-trim"
   name: "Grey backpack with tan leather trim"
@@ -750,7 +760,7 @@
   name: "Mueller glass kettle, 1.8L"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. It's scaled inside, which the photo shows. A soak in vinegar sorts that out. US plug."
+  blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. US plug."
   free: false
   price: "$8"
   photos:
@@ -961,7 +971,7 @@
   shelf: "Odds & amusements"
   blurb: "DynaTrap Flylight, the blue UV lamp kind that plugs straight into a socket so it takes no floor space. Covers a good-sized room, no zapping noise, and it works. There's a thick stack of spare sticky cards with it, well past the three it came with. US plug."
   free: false
-  price: "$30"
+  price: "$15"
   photos:
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
