@@ -994,6 +994,16 @@
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
 
+- id: "E18"
+  slug: "e18-hanging-fabric-organiser-six-shelves"
+  name: "Hanging fabric organiser, six shelves"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "A hanging fabric organiser that hooks over a wardrobe rail, with six open shelves and the bottom one divided in two. It takes shoes, folded sweaters or bags."
+  free: true
+  photos:
+    - "E18-hall-closet.jpg"
+
 - id: "E49"
   slug: "e49-ikea-murvel-shoe-organiser-grey"
   name: "IKEA MURVEL shoe organiser, grey"
@@ -1014,16 +1024,6 @@
   free: true
   photos:
     - "O19-storage-cubes.jpg"
-
-- id: "E18"
-  slug: "e18-ikea-hanging-fabric-organiser"
-  name: "IKEA hanging fabric organiser"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "IKEA hanging fabric organiser, the kind that hooks over a rail. Good for shoes or bags."
-  free: true
-  photos:
-    - "E18-hall-closet.jpg"
 
 - id: "O46"
   slug: "o46-klask"
