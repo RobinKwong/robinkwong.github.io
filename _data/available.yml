@@ -6,10 +6,10 @@
   name: "Ceramic vases, a pair"
   qty: "2"
   shelf: "Art, frames & vases"
-  blurb: "Two ceramic vases of the same design, one slightly smaller than the other. Going as a pair."
+  blurb: "Two tall ceramic bottle vases, same shape and glaze, one a good bit bigger than the other. White, with a grey wash brushed round the bottom that stops at a different height on each. They have been living in separate rooms and clearly shouldn't have been."
   free: true
   photos:
-    - "D62-lower-glass-cabinet.jpg"
+    - "E03-ceramic-vases-pair.jpg"
 
 - id: "C11"
   slug: "c11-empty-picture-frames"
@@ -926,16 +926,6 @@
   photos:
     - "K72-cabinet-under-drawer.jpg"
 
-- id: "D65"
-  slug: "d65-spirits-liqueurs-tea-and-dried-goods-disposal-lot"
-  name: "Spirits, liqueurs, tea and dried goods, disposal lot"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "The back of the drinks cupboard and the dry store: Aperol, Campari, gin, bitters, Fernet-Branca, triple sec, Jose Cuervo Blue Agave, jasmine tea, cinnamon sticks, dried seaweed, dried mushrooms and assorted packet food. The Aperol, the Campari and the tequila are all unopened, and the Fernet-Branca and the triple sec are nearly full. The rest have been opened. Take what appeals, assuming I haven't got to it first on the day."
-  free: true
-  photos:
-    - "D62-lower-glass-cabinet.jpg"
-
 - id: "K75"
   slug: "k75-stainless-mixing-bowls-nested-set"
   name: "Stainless mixing bowls, nested set"
@@ -966,6 +956,17 @@
   price: "$25"
   photos:
     - "K60-tall-cabinet-bottom.jpg"
+
+- id: "D65"
+  slug: "d65-the-drinks-cupboard-and-the-dry-store"
+  name: "The drinks cupboard and the dry store"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "Two photographs here, and the second one is the honest one. On top of the cabinet: Campari and Aperol both unopened, an unopened Jose Cuervo, Fernet-Branca and triple sec nearly full, bitters, and the last inch or two of a Breckenridge gin, a Basil Hayden and a Buffalo Trace. Below it is the dry store, which I am not tidying up for a photograph. Somewhere in there are dried seaweed, dried mushrooms, garam masala, two jars of cinnamon sticks, instant ramen, American ginseng, Twinings and jasmine tea, baking powder, croutons and a tub of dates. Treat it as a rummage. Take what appeals, assuming I haven't got to it first on the day."
+  free: true
+  photos:
+    - "D65-spirits-on-cabinet.jpg"
+    - "D65-dry-store-cupboard.jpg"
 
 - id: "D09"
   slug: "d09-toshiba-rice-cooker-model-trcs02"
