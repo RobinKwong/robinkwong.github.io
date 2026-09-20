@@ -1005,11 +1005,11 @@
     - "E18-hall-closet.jpg"
 
 - id: "E49"
-  slug: "e49-ikea-murvel-shoe-organiser-grey"
-  name: "IKEA MURVEL shoe organiser, grey"
-  qty: "a stack of them"
+  slug: "e49-ikea-murvel-boxes-four"
+  name: "IKEA MURVEL boxes, four"
+  qty: "4"
   shelf: "Odds & amusements"
-  blurb: "A stack of IKEA MURVEL shoe boxes, 14 by 14 by 24cm."
+  blurb: "Four IKEA MURVEL boxes in grey, each about five and a half inches square and nine and a half tall. They stack, which is the point of having four."
   free: true
   photos:
     - "E49-ikea-murvel-shoe-organiser.jpg"
