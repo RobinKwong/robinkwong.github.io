@@ -733,7 +733,7 @@
   name: "Large metal baking tray"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A big metal baking tray with a rolled rim, the kind a whole tray of roast vegetables fits on without them steaming each other."
+  blurb: "A big metal baking tray with a rolled rim, 15 by 21 inches. A whole tray of roast vegetables fits on it without them steaming each other, though at that size it's worth measuring your oven first."
   free: true
   photos:
     - "K66-baking-tray.jpg"
