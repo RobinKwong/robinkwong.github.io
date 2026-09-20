@@ -211,9 +211,10 @@
   name: "Cleaning cupboard lot: soap, sponges, bags and detergents"
   qty: "1 lot"
   shelf: "Cleaning & supplies"
-  blurb: "The contents of the cleaning cupboard: four unopened bottles of hand soap, an unopened Mr Clean and a large unopened Gain dish soap, laundry detergent and fabric softener, spare scrub sponges, bin bags, a box of nitrile gloves, half a box of dishwasher tablets and a pack of wet wipes."
+  blurb: "The contents of the cupboard under the sink, meaning Cascade dishwasher pods, a box of Softsoap hand soap refills, Mr Clean lemon concentrate, a Method heavy-duty degreaser, glass cleaner, laundry detergent and fabric softener, Glad ForceFlex bin bags, purple nitrile gloves, scrub sponges and a Raid ant bait station. The hand soap, the Mr Clean and the big bottle of dish soap have not been opened."
   free: true
   photos:
+    - "K45-cleaning-cupboard.jpg"
     - "K16-under-the-sink.jpg"
 
 - id: "C63"
