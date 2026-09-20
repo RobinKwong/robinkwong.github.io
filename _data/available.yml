@@ -930,15 +930,16 @@
     - "K20-counter-kettle-brita.jpg"
 
 - id: "O26"
-  slug: "o26-apple-magic-keyboard-boxed"
-  name: "Apple Magic Keyboard, boxed"
+  slug: "o26-apple-magic-keyboard-sealed"
+  name: "Apple Magic Keyboard, sealed"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Apple Magic Keyboard, boxed, silver body with white keys, US layout and no number pad. Rechargeable, and it still holds a charge for weeks."
+  blurb: "Apple Magic Keyboard, still sealed in its box. Silver with white keys, US layout, no number pad and no Touch ID, with the USB-C to Lightning cable inside. Needs a Mac running macOS 11.3 or later. Apple still sell this one at $99."
   free: false
   price: "$55"
   photos:
     - "O26-magic-keyboard.jpg"
+    - "O26-magic-keyboard-label.jpg"
 
 - id: "E35"
   slug: "e35-bird-feed"
