@@ -650,16 +650,6 @@
     - "K93-flat-grater-set-blades.jpg"
     - "K93-flat-grater-set-2.jpg"
 
-- id: "K26"
-  slug: "k26-food-storage-containers"
-  name: "Food storage containers"
-  qty: "a number of them"
-  shelf: "Kitchen"
-  blurb: "A pile of food storage containers, mixed plastic and glass."
-  free: true
-  photos:
-    - "K14-crockery-cabinet.jpg"
-
 - id: "K25"
   slug: "k25-glass-tea-press-with-infuser"
   name: "Glass tea press with infuser"
@@ -1317,6 +1307,14 @@
   qty: "1"
   shelf: "Kitchen"
   blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
+  free: true
+
+- id: "K26"
+  slug: "k26-food-storage-containers"
+  name: "Food storage containers"
+  qty: "a number of them"
+  shelf: "Kitchen"
+  blurb: "A pile of food storage containers, mixed plastic and glass."
   free: true
 
 - id: "K97"
