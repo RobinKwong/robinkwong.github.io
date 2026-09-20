@@ -1045,10 +1045,11 @@
   name: "Notebooks, three unused"
   qty: "3"
   shelf: "Odds & amusements"
-  blurb: "Three notebooks, all unused. A Kokuyo Campus with a Spy x Family cover and 30 ruled sheets, a hardback 1917, and a black JSM folio with a strap closure and a ribbon marker."
+  blurb: "Three notebooks, all unused. A Leuchtturm1917 in copper, still shrink-wrapped, A5 with 251 numbered pages and a Financial Times logo embossed on the cover. A Kokuyo Campus with a Spy x Family cover and 30 ruled sheets. And a black JSM folio with a strap closure and a ribbon marker."
   free: true
   photos:
     - "D95-notebooks.jpg"
+    - "D95-leuchtturm.jpg"
 
 - id: "O20"
   slug: "o20-party-balloons-120-of-them"
