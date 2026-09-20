@@ -27,7 +27,7 @@
   name: "Glass vase"
   qty: "1"
   shelf: "Art, frames & vases"
-  blurb: "Glass vase."
+  blurb: "A plain glass vase, for when somebody turns up holding flowers and you discover you don't have one."
   free: true
   photos:
     - "E39-glass-vase.jpg"
@@ -90,7 +90,7 @@
   name: "Grey backpack with tan leather trim"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "Grey backpack with tan leather trim."
+  blurb: "Grey backpack with tan leather trim. A smarter-looking bag than the KROSER, if you want something you can walk into an office with."
   free: false
   price: "$10"
   photos:
@@ -244,7 +244,7 @@
   name: "Large trash can"
   qty: "1"
   shelf: "Cleaning & supplies"
-  blurb: "Large trash can."
+  blurb: "A large kitchen bin. Nobody has ever been excited by one, and you need it on your first day in a new flat."
   free: true
   photos:
     - "O01-desk.jpg"
@@ -419,7 +419,7 @@
   name: "Round side table, wooden top on a black scrolled metal base"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "Round side table, wooden top on a black scrolled metal base."
+  blurb: "Round side table, wooden top on a black scrolled metal base. Twenty inches tall and fifteen across, so it slots into the gap beside an armchair where a bigger table won't go."
   free: false
   price: "$20"
   photos:
@@ -589,7 +589,7 @@
   name: "Ceramic casserole pot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Ceramic casserole pot."
+  blurb: "An oval ceramic casserole with a handle at each end. Goes from the oven to the table, which saves washing up a serving dish."
   free: true
   photos:
     - "K72-cabinet-under-drawer.jpg"
@@ -599,7 +599,7 @@
   name: "Clear glass teapot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Clear glass teapot."
+  blurb: "Clear glass, so you can watch the tea actually brew. That is the whole argument for a glass teapot and it is a good one."
   free: true
   photos:
     - "K14-crockery-cabinet.jpg"
@@ -619,7 +619,7 @@
   name: "Cooking apron"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Cooking apron."
+  blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
@@ -733,7 +733,7 @@
   name: "Large metal baking tray"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Large metal baking tray."
+  blurb: "A full-size metal baking tray, the kind a whole tray of roast vegetables fits on without them steaming each other."
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
@@ -850,7 +850,7 @@
   name: "Plastic colander"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Plastic colander."
+  blurb: "A plastic colander. Deeply unglamorous, and the first thing you notice you don't own when you move somewhere new."
   free: true
   photos:
     - "K72-cabinet-under-drawer.jpg"
@@ -921,7 +921,7 @@
   name: "Soup pot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Soup pot."
+  blurb: "A lidded pot, soup sized. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
   free: true
   photos:
     - "K72-cabinet-under-drawer.jpg"
@@ -1226,7 +1226,7 @@
   name: "Small woven basket"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Small woven basket."
+  blurb: "A small woven basket, for the pile of things by the door that has never had anywhere to live."
   free: true
   photos:
     - "O11-floor-lamp-corner.jpg"
@@ -1257,7 +1257,7 @@
   name: "Wicker basket with a skipping rope in it"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Wicker basket with a skipping rope in it."
+  blurb: "A wicker basket, big enough for shoes, post or the things that collect on the floor. The skipping rope in the photo goes with the sports kit rather than the basket."
   free: true
   photos:
     - "L19-side-table-and-basket.jpg"
