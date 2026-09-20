@@ -604,6 +604,16 @@
   photos:
     - "K22-cocktail-kit.jpg"
 
+- id: "K80"
+  slug: "k80-colander-and-straining-kit"
+  name: "Colander and straining kit"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "A white plastic colander, a fine mesh sieve, a long-handled mesh scoop for lifting noodles straight out of the pot, and the wooden-handled clamp that gets a hot dish out of a steamer without you burning your fingers."
+  free: true
+  photos:
+    - "K80-colander-and-strainers.jpg"
+
 - id: "K62"
   slug: "k62-cooking-apron"
   name: "Cooking apron"
@@ -726,7 +736,7 @@
   free: false
   price: "$25"
   photos:
-    - "K10-range-and-counter.jpg"
+    - "K10-knife-block.jpg"
 
 - id: "K66"
   slug: "k66-large-metal-baking-tray"
@@ -737,16 +747,6 @@
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
-
-- id: "K81"
-  slug: "k81-long-handled-mesh-strainer"
-  name: "Long-handled mesh strainer"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Long-handled mesh strainer, for lifting noodles straight out of the pot."
-  free: true
-  photos:
-    - "K72-cabinet-under-drawer.jpg"
 
 - id: "K33"
   slug: "k33-magnetic-spice-tins-the-whole-set"
@@ -845,16 +845,6 @@
   photos:
     - "K82-above-hood-cabinet.jpg"
 
-- id: "K80"
-  slug: "k80-plastic-colander"
-  name: "Plastic colander"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "A plastic colander. Deeply unglamorous, and the first thing you notice you don't own when you move somewhere new."
-  free: true
-  photos:
-    - "K72-cabinet-under-drawer.jpg"
-
 - id: "K27"
   slug: "k27-popsicle-moulds"
   name: "Popsicle moulds"
@@ -906,16 +896,6 @@
   photos:
     - "K100-sink-strainers.jpg"
 
-- id: "K101"
-  slug: "k101-soleader-bowl-lifter-stainless"
-  name: "Soleader bowl lifter, stainless"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Stainless bowl lifter, the clamp for getting a hot dish out of a steamer without burning yourself."
-  free: true
-  photos:
-    - "K101-soleader-bowl-lifter.jpg"
-
 - id: "K74"
   slug: "k74-soup-pot"
   name: "Soup pot"
@@ -947,14 +927,14 @@
     - "K75-mixing-bowls.jpg"
 
 - id: "K76"
-  slug: "k76-steamer-rack-wire"
-  name: "Steamer rack, wire"
-  qty: "1"
+  slug: "k76-steaming-rack-and-inserts"
+  name: "Steaming rack and inserts"
+  qty: "3 pieces"
   shelf: "Kitchen"
-  blurb: "Wire steamer rack, the kind that sits in a pot to lift a plate above the water."
+  blurb: "Three pieces for steaming in a pot you already own. A flat legged rack to stand a plate on, a low round trivet for the same job in a smaller pan, and a perforated basket with a folding handle to lift the whole lot out in one go."
   free: true
   photos:
-    - "K72-cabinet-under-drawer.jpg"
+    - "K76-steaming-rack-and-inserts.jpg"
 
 - id: "K65"
   slug: "k65-stockpot-23-quart-stainless"
