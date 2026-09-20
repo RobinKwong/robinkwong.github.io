@@ -70,6 +70,8 @@ h1 em{font-style:italic;font-weight:400}
 .when-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:.1rem .7rem;
   margin:0;padding:.7rem 0;border-bottom:1px solid var(--line);line-height:1.35}
 .when-line b{font-family:var(--display);font-weight:600;font-size:1.05rem;letter-spacing:-.01em}
+.date-line b{min-width:10.4em}
+@media(min-width:760px){.date-line b{min-width:11.6em}}
 .when-line span{font-size:.85rem;color:var(--ink-soft)}
 .where-line b{color:var(--price)}
 a.cal{color:var(--price);text-decoration:none;border-bottom:1px solid currentColor;
@@ -106,6 +108,9 @@ a.cal{color:var(--price);text-decoration:none;border-bottom:1px solid currentCol
 .btn{font:inherit;font-size:.86rem;font-weight:600;padding:.5rem 1rem;border-radius:999px;
   border:2px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer}
 .btn.ghost{background:none;color:var(--ink)}
+#filtToggle{padding:.5rem .8rem;font-size:.82rem;flex:0 0 auto}
+#filtToggle.on{background:var(--price);border-color:var(--price);color:var(--paper)}
+@media(min-width:760px){#filtToggle{display:none}}
 #basketBtn b{background:var(--price);color:#fff;border-radius:999px;
   padding:0 .42rem;margin-left:.3rem;font-size:.8rem}
 
@@ -281,9 +286,9 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
       whatever takes your fancy into the basket and send me the list, and I'll write back, though nothing is held until I do. You're also welcome to just turn up and browse.</p>
 
     <div class="when">
-      <p class="when-line"><b>Saturday 3 October</b> <span>11am &#8211; 5pm</span>
+      <p class="when-line date-line"><b>Saturday 3 October</b> <span>11am &#8211; 5pm</span>
         <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
-      <p class="when-line"><b>Saturday 10 October</b> <span>11am &#8211; 5pm</span>
+      <p class="when-line date-line"><b>Saturday 10 October</b> <span>11am &#8211; 5pm</span>
         <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
       <p class="tick" id="tick"></p>
       <p class="when-line where-line"><b>30-83 32nd Street, Apt 1B</b> <span>Astoria, NY 11102 &#183;
@@ -302,7 +307,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
       you think about the beanbag.</p>
       <p>That's Coco in the photograph. Petal wouldn't sit for one, and has been turning up in the
       background of the listings instead.</p>
-      <p class="sign">— Robin, Coco and Petal, none of whom are for sale</p>
+      <p class="sign">— Robin, Coco and Petal. Neither cat is for sale.</p>
       </div>
     </div>
   </div>
@@ -311,6 +316,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
 <div class="bar">
   <div class="wrap bar-in">
     <input id="search" type="search" placeholder="Search {{ left }} things…" aria-label="Search">
+    <button class="btn ghost" id="filtToggle" aria-expanded="true" aria-controls="prices cats">Filter</button>
     <button class="btn" id="basketBtn">Basket <b id="count">0</b></button>
     <div class="chips" id="prices">
       
@@ -594,6 +600,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
           : sub.dataset.all;
       }
     });
+    filtToggle.classList.toggle("on", !!(price||cat));
     var sc=document.getElementById("shown");
     if(sc) sc.textContent = filtering ? "Showing "+shown+" of "+lotCount : "";
     document.getElementById("featured").classList.toggle("hidden", !!(q||price||cat));
@@ -688,8 +695,11 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     bar.classList.toggle("tuck",on);
     settling=Date.now()+320;
   }
+  var narrow=window.matchMedia("(max-width: 759px)");
+  narrow.addEventListener("change",function(e){ if(!e.matches) setTuck(false); });
   window.addEventListener("scroll",function(){
     var y=window.pageYOffset;
+    if(!narrow.matches){ lastY=y; setTuck(false); return; }
     if(Date.now()<settling){ lastY=y; return; }
     var past=y > document.querySelector(".hero").offsetHeight;
     if(!past) setTuck(false);              // back at the top, show it again
@@ -697,7 +707,11 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     lastY=y;
   },{passive:true});
   document.querySelector(".bar-in").addEventListener("focusin",function(){ setTuck(false); });
-  document.querySelector(".bar-in").addEventListener("click",function(){ if(bar.classList.contains("tuck")) setTuck(false); });
+  var filtToggle=document.getElementById("filtToggle");
+  filtToggle.addEventListener("click",function(){
+    setTuck(!bar.classList.contains("tuck"));
+    filtToggle.setAttribute("aria-expanded", bar.classList.contains("tuck") ? "false":"true");
+  });
   window.addEventListener("scroll",function(){
     if(!againBar.classList.contains("show")) return;
     var hero=document.querySelector(".hero"), foot=document.querySelector("footer");
