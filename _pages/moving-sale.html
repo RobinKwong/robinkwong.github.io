@@ -264,16 +264,19 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 {% assign left = total | minus: gonecount %}
 {% assign liveitems = all | where_exp:"i","i.gone != true" %}
 {% assign livefree = liveitems | where:"free",true | size %}
+{% comment %}Only report what has gone once a quarter of it has. Two out of a
+hundred and twenty-seven reads as nothing happening.{% endcomment %}
+{% assign gonefloor = total | divided_by: 4 %}
 
 <header class="hero">
   <div class="wrap">
     <p class="kicker">Robin Kwong · Astoria, Queens · Two Saturdays only</p>
     <h1>Everything<br><em>must</em> go</h1>
-    {% if gonecount > 0 %}
+    {% if gonecount >= gonefloor %}
     <p class="count"><b>{{ total }} things</b> need a new home and {{ gonecount }} have already
       gone. Of the <b>{{ left }}</b> still here, {{ livefree }} are free.</p>
     {% else %}
-    <p class="count"><b>{{ total }} things</b> need a new home, and {{ livefree }} of
+    <p class="count"><b>{{ left }} things</b> need a new home, and {{ livefree }} of
       them are free.</p>
     {% endif %}
 
