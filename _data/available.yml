@@ -156,10 +156,10 @@
   name: "Fragrance diffuser bottle with reeds"
   qty: "1"
   shelf: "Bathroom"
-  blurb: "Reed diffuser with its reeds. Liquid, so it can't be shipped."
+  blurb: "A squat black glass bottle with a black collar and four reeds in it. There's liquid in it, which is why it can't come to London with me."
   free: true
   photos:
-    - "D15-barn-door-cabinet.jpg"
+    - "D67-reed-diffuser.jpg"
 
 - id: "C23"
   slug: "c23-medpride-combine-pads-5-by-9-inch-box-of-40"
@@ -1290,7 +1290,7 @@
   name: "Tiered plant stand, black metal, three tiers"
   qty: "1"
   shelf: "Plants & garden"
-  blurb: "Three-tier plant stand in black metal, trays at staggered heights with a handle at the back. Looks good with a plant on each level."
+  blurb: "Three-tier plant stand in black metal, trays at staggered heights with a handle at the back. 23 and a half inches tall on a 15 inch base, so it gets three plants into the floor space of one. Looks good with something on each level."
   free: false
   price: "$20"
   photos:
