@@ -994,15 +994,6 @@
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
 
-- id: "O19"
-  slug: "o19-grey-fabric-storage-cubes"
-  name: "Grey fabric storage cubes"
-  shelf: "Odds & amusements"
-  blurb: "Grey fabric storage cubes with a fine white grid weave, empty, the kind that drop into a shelf unit or stack on their own."
-  free: true
-  photos:
-    - "O19-storage-cubes.jpg"
-
 - id: "E49"
   slug: "e49-ikea-murvel-shoe-organiser-grey"
   name: "IKEA MURVEL shoe organiser, grey"
@@ -1013,6 +1004,16 @@
   photos:
     - "E49-ikea-murvel-shoe-organiser.jpg"
     - "E49-ikea-murvel-label.jpg"
+
+- id: "O19"
+  slug: "o19-ikea-skubb-hanging-organiser-and-three-boxes"
+  name: "IKEA SKUBB hanging organiser and three boxes"
+  qty: "1 organiser + 3 boxes"
+  shelf: "Odds & amusements"
+  blurb: "An IKEA SKUBB hanging organiser in dark grey, six compartments, 14 by 18 inches and just over four feet tall, hooking over a wardrobe rail on a velcro strap. Three matching SKUBB boxes go with it, the shallow 8 by 15 inch sort that sit in a drawer. IKEA sell the lot for about $23."
+  free: true
+  photos:
+    - "O19-storage-cubes.jpg"
 
 - id: "E18"
   slug: "e18-ikea-hanging-fabric-organiser"
