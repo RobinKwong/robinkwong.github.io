@@ -90,7 +90,7 @@
   name: "Grey backpack with tan leather trim"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "Grey backpack with tan leather trim. A smarter-looking bag than the KROSER, if you want something you can walk into an office with."
+  blurb: "Grey backpack with tan leather trim, near enough the same size as the KROSER, so a 16-inch laptop goes in. The smarter-looking of the two if you want something you can walk into an office with."
   free: false
   price: "$10"
   photos:
@@ -112,7 +112,7 @@
   name: "KROSER grey backpack"
   qty: "1"
   shelf: "Bags & luggage"
-  blurb: "KROSER laptop backpack in grey. Good condition, plenty of pockets."
+  blurb: "KROSER laptop backpack in grey, with plenty of pockets. A 16-inch laptop goes in it."
   free: false
   price: "$12"
   photos:
