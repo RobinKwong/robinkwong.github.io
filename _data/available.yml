@@ -1066,11 +1066,12 @@
   name: "DynaTrap insect trap with spare glue cards"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "DynaTrap insect trap, the blue UV lamp kind, with spare glue cards. No zapping noise, and it works. US plug."
+  blurb: "DynaTrap Flylight, the blue UV lamp kind that plugs straight into a socket so it takes no floor space. Covers a good-sized room, no zapping noise, and it works. There's a thick stack of spare sticky cards with it, well past the three it came with. US plug."
   free: false
   price: "$30"
   photos:
-    - "D15-barn-door-cabinet-open.jpg"
+    - "D92-dynatrap.jpg"
+    - "D92-dynatrap-plug-and-label.jpg"
 
 - id: "K35"
   slug: "k35-fridge-magnets"
@@ -1236,10 +1237,10 @@
   name: "Squishy toys in a pink box"
   qty: "1 box"
   shelf: "Odds & amusements"
-  blurb: "A box of squishy toys."
+  blurb: "A YIHONG 72-pack of squishy animals, the palm-sized squeezy kind, still mostly in their individual wrappers."
   free: true
   photos:
-    - "D15-barn-door-cabinet-open.jpg"
+    - "D90-squishy-toys.jpg"
 
 - id: "O35"
   slug: "o35-tool-kit-in-a-hard-case"
@@ -1265,12 +1266,12 @@
 - id: "D87"
   slug: "d87-ceramic-plant-pots"
   name: "Ceramic plant pots"
-  qty: "5"
+  qty: "6"
   shelf: "Plants & garden"
-  blurb: "Five ceramic plant pots. Nicer than the plastic ones."
+  blurb: "Six ceramic pots, no two the same: a cream and brown drip glaze with its own saucer, a plain white cylinder, a small ribbed green one, a blue speckled one, a green drip glaze, and a grey ribbed one somebody has already put stickers on. Nicer than the plastic ones."
   free: true
   photos:
-    - "D15-barn-door-cabinet-open.jpg"
+    - "D87-ceramic-plant-pots.jpg"
 
 - id: "C17"
   slug: "c17-gardening-lot-soil-perlite-pots-feed-and-tools"
