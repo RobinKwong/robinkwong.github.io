@@ -634,6 +634,16 @@
   photos:
     - "K17-cutlery-drawer.jpg"
 
+- id: "D42"
+  slug: "d42-denby-teapot-and-two-matching-mugs"
+  name: "Denby teapot and two matching mugs"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "Denby stoneware. A round-bellied teapot with its lid and two mugs in the same glaze, the colour running from near-black at the top through blue down to a speckled white foot. All three go together."
+  free: true
+  photos:
+    - "D42-teapot-and-mugs.jpg"
+
 - id: "K36"
   slug: "k36-digital-instant-read-meat-thermometer-red"
   name: "Digital instant-read meat thermometer, red"
@@ -956,16 +966,6 @@
   price: "$25"
   photos:
     - "K60-tall-cabinet-bottom.jpg"
-
-- id: "D42"
-  slug: "d42-teapot-and-two-matching-mugs"
-  name: "Teapot and two matching mugs"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "A round-bellied teapot with its lid, glazed so the colour runs from near-black at the top through blue down to a speckled white foot, and two mugs in the same pattern. All three go together."
-  free: true
-  photos:
-    - "D42-teapot-and-mugs.jpg"
 
 - id: "D09"
   slug: "d09-toshiba-rice-cooker-model-trcs02"
