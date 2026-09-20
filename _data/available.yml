@@ -645,16 +645,6 @@
   photos:
     - "K95-cruzin-scissors-and-wok-spatula.jpg"
 
-- id: "K17"
-  slug: "k17-cutlery-and-kitchen-utensils-one-lot"
-  name: "Cutlery and kitchen utensils, one lot"
-  qty: "1 drawer"
-  shelf: "Kitchen"
-  blurb: "A whole cutlery drawer: chopsticks, spoons, forks and knives in a wooden organiser tray, plus a milk foamer, bottle opener, can opener, citrus squeezer and small funnels."
-  free: true
-  photos:
-    - "K17-cutlery-drawer.jpg"
-
 - id: "D42"
   slug: "d42-denby-teapot-and-two-matching-mugs"
   name: "Denby teapot and two matching mugs"
@@ -945,6 +935,16 @@
   free: true
   photos:
     - "D103-dry-store-cupboard.jpg"
+
+- id: "K17"
+  slug: "k17-the-kitchen-odds-and-ends-drawer"
+  name: "The kitchen odds and ends drawer"
+  qty: "1 drawer"
+  shelf: "Kitchen"
+  blurb: "The odds and ends drawer, with measuring spoons and cups, a lemon press, small funnels, a milk foamer, a can opener, a bottle opener, rice paddles and the wooden tray they all sit in. The actual knives and forks are coming to London with me, so what's here is the gadget half of the drawer."
+  free: true
+  photos:
+    - "K17-cutlery-drawer.jpg"
 
 - id: "D09"
   slug: "d09-toshiba-rice-cooker-model-trcs02"
