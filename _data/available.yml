@@ -12,13 +12,13 @@
     - "E03-ceramic-vases-pair.jpg"
 
 - id: "C11"
-  slug: "c11-empty-picture-frames"
-  name: "Empty picture frames"
+  slug: "c11-empty-picture-frames-thirteen"
+  name: "Empty picture frames, thirteen"
   qty: "13"
   shelf: "Art, frames & vases"
-  blurb: "Eleven white frames, mostly 8 by 10 inches with mounts and still shrink-wrapped, plus two black 8 by 12 frames in bubble wrap. All empty."
+  blurb: "Thirteen empty frames, all new. Eleven white ones, mostly 8 by 10 inches with mounts and still shrink-wrapped, plus two black 8 by 12 frames in bubble wrap."
   free: false
-  price: "$8"
+  price: "$30"
   photos:
     - "C11-empty-white-frames.jpg"
 
@@ -94,17 +94,6 @@
   price: "$10"
   photos:
     - "C62-grey-backpack.jpg"
-
-- id: "C53"
-  slug: "c53-hydro-flask-cooler-backpack-roland-branded"
-  name: "Hydro Flask cooler backpack, Roland branded"
-  qty: "1"
-  shelf: "Bags & luggage"
-  blurb: "Roland-branded Hydro Flask Day Escape, the 20-litre one. Insulated, carries on your back, and Hydro Flask say it takes 36 cans if you leave the ice out. Fewer, obviously, if you don't."
-  free: false
-  price: "$40"
-  photos:
-    - "C53-hydroflask-cooler-backpack.jpg"
 
 - id: "C29"
   slug: "c29-kroser-grey-backpack"
@@ -295,11 +284,11 @@
     - "K60-oxo-sweep-set.jpg"
 
 - id: "E13"
-  slug: "e13-roborock-robot-vacuum"
-  name: "Roborock robot vacuum"
+  slug: "e13-roborock-q5-robot-vacuum"
+  name: "Roborock Q5 robot vacuum"
   qty: "1"
   shelf: "Cleaning & supplies"
-  blurb: "A Roborock with its dock. Maps the place, does the floors, occasionally gets itself stuck under something low. US plug."
+  blurb: "A Roborock Q5 with its dock. Maps the place with a laser turret, does the floors, occasionally gets itself stuck under something low. Four years old and well used. US plug."
   free: false
   price: "$55"
   photos:
