@@ -825,13 +825,12 @@
     - "K14-crockery-cabinet.jpg"
 
 - id: "K77"
-  slug: "k77-our-place-always-pan-blue-with-lid"
-  name: "Our Place Always Pan, blue, with lid"
+  slug: "k77-our-place-always-pan-blue-with-lid-and-spatula"
+  name: "Our Place Always Pan, blue, with lid and spatula"
   qty: "1 set"
   shelf: "Kitchen"
-  blurb: "Our Place Always Pan in blue, with its lid, the pan that's meant to replace several others. It has done a lot of cooking and the outside is heavily discoloured round the base. The wooden steamer basket it came with has broken, so that isn't included."
-  free: false
-  price: "$45"
+  blurb: "Our Place Always Pan in blue, with its lid and the wooden spatula that goes with it. The non-stick inside has worn away completely, so it cooks like an uncoated pan and needs more oil than it used to. The wooden steamer basket it came with has broken, so that isn't included."
+  free: true
   photos:
     - "K77-always-pan.jpg"
 
