@@ -703,7 +703,7 @@
   name: "Ice bucket, metallic"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Metallic ice bucket, sized for chilling a bottle of wine."
+  blurb: "Metallic ice bucket, 9 inches across and 10 inches tall, so a wine bottle sits in it with room for ice round the sides."
   free: true
   photos:
     - "K60-tall-cabinet-bottom.jpg"
