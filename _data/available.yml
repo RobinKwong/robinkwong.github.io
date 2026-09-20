@@ -124,7 +124,7 @@
   shelf: "Bags & luggage"
   blurb: "Timbuk2 backpack, Yahoo branded, the same size as the other two here, so a 16-inch laptop goes in. Well made, as Timbuk2 usually are."
   free: false
-  price: "$10"
+  price: "$20"
   photos:
     - "C54-yahoo-timbuk2-backpack.jpg"
 
@@ -390,8 +390,7 @@
   qty: "1"
   shelf: "Furniture & lamps"
   blurb: "Swivels, rolls, adjusts, and the arms flip up. The catch is the upholstery: the coating is flaking off across the whole back and seat, which is what the white flecks in the photo are. Structurally sound and very comfortable. It just looks like this, and it will shed on your floor."
-  free: false
-  price: "$5"
+  free: true
   photos:
     - "O02-gaming-chair.jpg"
     - "O02-gaming-chair-with-petal.jpg"
