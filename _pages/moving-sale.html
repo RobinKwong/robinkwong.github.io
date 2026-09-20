@@ -272,13 +272,8 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   <div class="wrap">
     <p class="kicker">Robin Kwong · Astoria, Queens · Two Saturdays only</p>
     <h1>Everything<br><em>must</em> go</h1>
-    {% if gonecount >= gonefloor %}
-    <p class="count"><b>{{ total }} things</b> need a new home and {{ gonecount }} have already
-      gone. Of the <b>{{ left }}</b> still here, {{ livefree }} are free.</p>
-    {% else %}
-    <p class="count"><b>{{ left }} things</b> need a new home, and {{ livefree }} of
-      them are free.</p>
-    {% endif %}
+    <p class="count"><b>{{ left }} things</b> need a new home, and {{ livefree }} of them
+      are free.{% if gonecount >= gonefloor %} Another {{ gonecount }} have already gone.{% endif %}</p>
 
     <p class="blurb">I'm moving to London at the start of November and the flat has to be empty
       by Halloween. Almost nothing in it is coming with me.</p>
