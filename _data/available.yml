@@ -634,8 +634,9 @@
   name: "Denby teapot and two matching mugs"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Denby stoneware. A round-bellied teapot with its lid and two mugs in the same glaze, the colour running from near-black at the top through blue down to a speckled white foot. All three go together."
-  free: true
+  blurb: "Denby stoneware. A round-bellied teapot with its lid and two mugs in the same glaze, the colour running from near-black at the top through blue down to a speckled white foot. One of the mugs has a small chip on the rim. All three go together."
+  free: false
+  price: "$20"
   photos:
     - "D42-teapot-and-mugs.jpg"
 
@@ -1008,26 +1009,6 @@
   photos:
     - "O46-klask.jpg"
 
-- id: "O47"
-  slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
-  name: "Magic: the Gathering cards in a clear storage box"
-  qty: "1 box"
-  shelf: "Odds & amusements"
-  blurb: "A clear storage box of Magic: the Gathering cards, including some sealed theme decks. About eight pounds of cardboard."
-  free: true
-  photos:
-    - "O47-magic-cards.jpg"
-
-- id: "O27"
-  slug: "o27-meri-meri-christmas-crackers"
-  name: "Meri Meri Christmas crackers"
-  qty: "1 box of 6"
-  shelf: "Odds & amusements"
-  blurb: "A box of six Meri Meri Christmas crackers, each one tied with a velvet ribbon in pink, red or blue."
-  free: true
-  photos:
-    - "O27-meri-meri-crackers.jpg"
-
 - id: "L23"
   slug: "l23-nekteck-foot-massager-model-nfm0301gy"
   name: "Nekteck foot massager, model NFM0301GY"
@@ -1365,3 +1346,25 @@
   shelf: "Kitchen"
   blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
   free: true
+
+- id: "O47"
+  slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
+  name: "Magic: the Gathering cards in a clear storage box"
+  qty: "1 box"
+  shelf: "Odds & amusements"
+  blurb: "A clear storage box of Magic: the Gathering cards, including some sealed theme decks. About eight pounds of cardboard."
+  free: true
+  gone: true
+  photos:
+    - "O47-magic-cards.jpg"
+
+- id: "O27"
+  slug: "o27-meri-meri-christmas-crackers"
+  name: "Meri Meri Christmas crackers"
+  qty: "1 box of 6"
+  shelf: "Odds & amusements"
+  blurb: "A box of six Meri Meri Christmas crackers, each one tied with a velvet ribbon in pink, red or blue."
+  free: true
+  gone: true
+  photos:
+    - "O27-meri-meri-crackers.jpg"
