@@ -854,16 +854,6 @@
   photos:
     - "K77-always-pan.jpg"
 
-- id: "K98"
-  slug: "k98-plastic-bento-and-lunch-boxes"
-  name: "Plastic bento and lunch boxes"
-  qty: "2"
-  shelf: "Kitchen"
-  blurb: "Two plastic bento boxes."
-  free: true
-  photos:
-    - "K82-above-hood-cabinet.jpg"
-
 - id: "D08"
   slug: "d08-powerxl-air-fryer"
   name: "PowerXL air fryer"
