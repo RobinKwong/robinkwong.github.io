@@ -1072,16 +1072,17 @@
     - "B55-bug-swatter.jpg"
 
 - id: "L07"
-  slug: "l07-samsung-flat-screen-tv-48-inch"
-  name: "Samsung flat-screen TV, 48 inch"
+  slug: "l07-samsung-48-inch-tv-with-an-amazon-fire-tv-box"
+  name: "Samsung 48 inch TV with an Amazon Fire TV box"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Samsung 48 inch flat screen with its remote, shown switched on and working. Takes two people to carry comfortably."
+  blurb: "Samsung 48 inch flat screen with its remote, and the Amazon Fire TV box plugged into it, which is what you can see running in the photograph. Takes two people to carry comfortably."
   free: false
   price: "$85"
   photos:
     - "L07-samsung-tv-on.jpg"
     - "L07-samsung-tv.jpg"
+    - "L06-tv-console.jpg"
 
 - id: "D90"
   slug: "d90-squishy-toys-in-a-pink-box"
