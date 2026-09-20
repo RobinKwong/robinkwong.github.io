@@ -1011,16 +1011,6 @@
   photos:
     - "O26-magic-keyboard-and-crackers.jpg"
 
-- id: "D98"
-  slug: "d98-assorted-small-knick-knacks"
-  name: "Assorted small knick-knacks"
-  qty: "1 lot"
-  shelf: "Odds & amusements"
-  blurb: "A lot of small odds and ends, unsorted. Worth a rummage."
-  free: true
-  photos:
-    - "D15-barn-door-cabinet-open.jpg"
-
 - id: "O33"
   slug: "o33-bag-of-green-wool"
   name: "Bag of green wool"
@@ -1157,15 +1147,6 @@
   photos:
     - "L23-foot-massager.jpg"
     - "L23-foot-massager-label.jpg"
-
-- id: "D95"
-  slug: "d95-notepads"
-  name: "Notepads"
-  shelf: "Odds & amusements"
-  blurb: "A few unused notepads."
-  free: true
-  photos:
-    - "D15-barn-door-cabinet-open.jpg"
 
 - id: "B41"
   slug: "b41-pickle-rick-costume"
