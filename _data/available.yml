@@ -562,8 +562,6 @@
   free: true
   photos:
     - "K21-brita-jug.jpg"
-    - "K16-under-the-sink.jpg"
-    - "K82-above-hood-cabinet.jpg"
 
 - id: "K31"
   slug: "k31-cotey-professional-egg-ring-set-4-pack"
@@ -614,16 +612,6 @@
   free: true
   photos:
     - "K105-creme-brulee-dishes.jpg"
-
-- id: "K95"
-  slug: "k95-cruzin-kitchen-scissors-unopened"
-  name: "Cruzin kitchen scissors, unopened"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Kitchen scissors, still in the pack, with a nutcracker and bottle opener built into the handle."
-  free: true
-  photos:
-    - "K95-cruzin-scissors-and-wok-spatula.jpg"
 
 - id: "D42"
   slug: "d42-denby-teapot-and-two-matching-mugs"
@@ -1318,6 +1306,14 @@
   qty: "1"
   shelf: "Kitchen"
   blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
+  free: true
+
+- id: "K95"
+  slug: "k95-cruzin-kitchen-scissors-unopened"
+  name: "Cruzin kitchen scissors, unopened"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "Kitchen scissors, still in the pack, with a nutcracker and bottle opener built into the handle."
   free: true
 
 - id: "K26"
