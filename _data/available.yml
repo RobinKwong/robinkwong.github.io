@@ -934,11 +934,11 @@
   name: "Apple Magic Keyboard, boxed"
   qty: "1"
   shelf: "Odds & amusements"
-  blurb: "Apple Magic Keyboard, boxed. Rechargeable, and it still holds a charge for weeks."
+  blurb: "Apple Magic Keyboard, boxed, silver body with white keys, US layout and no number pad. Rechargeable, and it still holds a charge for weeks."
   free: false
   price: "$55"
   photos:
-    - "O26-magic-keyboard-and-crackers.jpg"
+    - "O26-magic-keyboard.jpg"
 
 - id: "E35"
   slug: "e35-bird-feed"
