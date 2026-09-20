@@ -984,16 +984,6 @@
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
 
-- id: "E18"
-  slug: "e18-hanging-fabric-organiser-six-shelves"
-  name: "Hanging fabric organiser, six shelves"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "A hanging fabric organiser that hooks over a wardrobe rail, with six open shelves and the bottom one divided in two. It takes shoes, folded sweaters or bags."
-  free: true
-  photos:
-    - "E18-hall-closet.jpg"
-
 - id: "E49"
   slug: "e49-ikea-murvel-boxes-four"
   name: "IKEA MURVEL boxes, four"
