@@ -1123,7 +1123,7 @@
   free: false
   price: "$30"
   photos:
-    - "O14-board-games-remaining-left.jpg"
+    - "O46-klask.jpg"
 
 - id: "O47"
   slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
@@ -1133,7 +1133,7 @@
   blurb: "A clear storage box of Magic: the Gathering cards, including some sealed theme decks. About eight pounds of cardboard."
   free: true
   photos:
-    - "O14-board-games-remaining-right.jpg"
+    - "O47-magic-cards.jpg"
 
 - id: "O27"
   slug: "o27-meri-meri-christmas-crackers"
