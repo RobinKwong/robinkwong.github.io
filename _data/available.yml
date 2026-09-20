@@ -829,11 +829,11 @@
   name: "Our Place Always Pan, blue, with lid"
   qty: "1 set"
   shelf: "Kitchen"
-  blurb: "Our Place Always Pan in blue, with its lid. The one that's meant to replace several other pans. The wooden steamer basket that came with it has broken, so it isn't included."
+  blurb: "Our Place Always Pan in blue, with its lid, the pan that's meant to replace several others. It has done a lot of cooking and the outside is heavily discoloured round the base. The wooden steamer basket it came with has broken, so that isn't included."
   free: false
   price: "$45"
   photos:
-    - "K10-range-and-counter.jpg"
+    - "K77-always-pan.jpg"
 
 - id: "K98"
   slug: "k98-plastic-bento-and-lunch-boxes"
@@ -917,11 +917,11 @@
     - "D65-spirits-on-cabinet.jpg"
 
 - id: "K75"
-  slug: "k75-stainless-mixing-bowls-nested-set"
-  name: "Stainless mixing bowls, nested set"
-  qty: "1 set"
+  slug: "k75-stainless-mixing-bowls-nested-set-of-five"
+  name: "Stainless mixing bowls, nested set of five"
+  qty: "5"
   shelf: "Kitchen"
-  blurb: "Nested set of stainless mixing bowls."
+  blurb: "Five stainless mixing bowls that nest down into the space of one."
   free: true
   photos:
     - "K75-mixing-bowls.jpg"
