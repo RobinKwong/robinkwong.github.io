@@ -995,15 +995,13 @@
     - "D92-dynatrap-plug-and-label.jpg"
 
 - id: "O19"
-  slug: "o19-grey-cloth-storage-boxes"
-  name: "Grey cloth storage boxes"
-  qty: "2"
+  slug: "o19-grey-fabric-storage-cubes"
+  name: "Grey fabric storage cubes"
   shelf: "Odds & amusements"
-  blurb: "Two grey cloth storage boxes, empty."
+  blurb: "Grey fabric storage cubes with a fine white grid weave, empty, the kind that drop into a shelf unit or stack on their own."
   free: true
   photos:
-    - "O05-glass-cabinet-1.jpg"
-    - "O05-glass-cabinet-2.jpg"
+    - "O19-storage-cubes.jpg"
 
 - id: "E49"
   slug: "e49-ikea-murvel-shoe-organiser-grey"
