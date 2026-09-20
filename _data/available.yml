@@ -507,16 +507,6 @@
   photos:
     - "K10-knife-block.jpg"
 
-- id: "K103"
-  slug: "k103-bamboo-wok-spatula-unopened"
-  name: "Bamboo wok spatula, unopened"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Bamboo wok spatula, still sealed, from The Wok Shop."
-  free: true
-  photos:
-    - "K95-cruzin-scissors-and-wok-spatula.jpg"
-
 - id: "D06"
   slug: "d06-black-decker-countertop-microwave"
   name: "Black+Decker countertop microwave"
@@ -708,16 +698,6 @@
   photos:
     - "K64-ice-bucket.jpg"
 
-- id: "K53"
-  slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
-  name: "Kitchen wrap and bags, the whole drawer"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
-  free: true
-  photos:
-    - "K49-tall-cabinet-top.jpg"
-
 - id: "K61"
   slug: "k61-kitchenaid-oven-gloves"
   name: "KitchenAid oven gloves"
@@ -845,16 +825,6 @@
   photos:
     - "D08-powerxl-air-fryer.jpg"
 
-- id: "K51"
-  slug: "k51-prosecco"
-  name: "Prosecco"
-  qty: "1 bottle"
-  shelf: "Kitchen"
-  blurb: "A bottle of prosecco. Food banks can't take alcohol, so it's either drunk on the day or it goes home with somebody."
-  free: true
-  photos:
-    - "K49-tall-cabinet-top.jpg"
-
 - id: "K78"
   slug: "k78-saucepan-with-handle-ramen-size"
   name: "Saucepan with handle, ramen size"
@@ -884,16 +854,6 @@
   free: true
   photos:
     - "K74-soup-pot.jpg"
-
-- id: "D65"
-  slug: "d65-spirits-liqueurs-and-bitters"
-  name: "Spirits, liqueurs and bitters"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "Campari, Aperol and a Jose Cuervo Blue Agave, all three unopened. Then Fernet-Branca and triple sec nearly full, Angostura bitters, and the last inch or two of a Breckenridge gin, a Basil Hayden and a Buffalo Trace. I may get to some of it myself on the day, but whatever is left is yours."
-  free: true
-  photos:
-    - "D65-spirits-on-cabinet.jpg"
 
 - id: "K75"
   slug: "k75-stainless-mixing-bowls-nested-set-of-five"
@@ -926,6 +886,16 @@
   photos:
     - "K65-stockpot.jpg"
 
+- id: "D65"
+  slug: "d65-the-drinks-cupboard"
+  name: "The drinks cupboard"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "Campari, Aperol, a Jose Cuervo Blue Agave and a bottle of prosecco, none of them opened. Then Fernet-Branca and triple sec nearly full, Angostura bitters, and the last inch or two of a Breckenridge gin, a Basil Hayden and a Buffalo Trace. I may get to some of it myself on the day, but whatever is left is yours."
+  free: true
+  photos:
+    - "D65-spirits-on-cabinet.jpg"
+
 - id: "D103"
   slug: "d103-the-dry-store-unsorted"
   name: "The dry store, unsorted"
@@ -941,7 +911,7 @@
   name: "The kitchen odds and ends drawer"
   qty: "1 drawer"
   shelf: "Kitchen"
-  blurb: "The odds and ends drawer, with measuring spoons and cups, a lemon press, small funnels, a milk foamer, a can opener, a bottle opener, rice paddles and the wooden tray they all sit in. The actual knives and forks are coming to London with me, so what's here is the gadget half of the drawer."
+  blurb: "The odds and ends drawer, holding measuring spoons and cups, a lemon press, small funnels, a milk foamer, a can opener, a bottle opener, rice paddles and the wooden tray they sit in. The actual knives and forks are coming to London with me, so what's here is the gadget half of the drawer."
   free: true
   photos:
     - "K17-cutlery-drawer.jpg"
@@ -963,7 +933,7 @@
   name: "Utensil holder with cooking utensils"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners."
+  blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners. A bamboo wok spatula, still sealed in its packet from The Wok Shop, goes with it."
   free: true
   photos:
     - "K12-utensil-pot.jpg"
@@ -1396,4 +1366,12 @@
   qty: "4"
   shelf: "Kitchen"
   blurb: "Four glass tumblers."
+  free: true
+
+- id: "K53"
+  slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
+  name: "Kitchen wrap and bags, the whole drawer"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
   free: true
