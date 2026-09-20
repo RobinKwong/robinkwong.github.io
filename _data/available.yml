@@ -579,10 +579,10 @@
   name: "Ceramic casserole pot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "An oval ceramic casserole with a handle at each end. Goes from the oven to the table, which saves washing up a serving dish."
+  blurb: "A shallow round lidded pot in cream and pink, hand-painted with cherry blossom, a lug handle each side and a notch in the lid to let steam out. Built to go from the stove straight to the table, which is how Japanese hotpot gets served."
   free: true
   photos:
-    - "K72-cabinet-under-drawer.jpg"
+    - "K73-ceramic-casserole-pot.jpg"
 
 - id: "K25"
   slug: "k25-clear-glass-teapot"
@@ -825,11 +825,11 @@
     - "K14-crockery-cabinet.jpg"
 
 - id: "K77"
-  slug: "k77-our-place-always-pan-blue-with-wooden-steamer-basket-and"
-  name: "Our Place Always Pan, blue, with wooden steamer basket and lid"
+  slug: "k77-our-place-always-pan-blue-with-lid"
+  name: "Our Place Always Pan, blue, with lid"
   qty: "1 set"
   shelf: "Kitchen"
-  blurb: "Our Place Always Pan in blue, with its wooden steamer basket and lid. The one that replaces several other pans."
+  blurb: "Our Place Always Pan in blue, with its lid. The one that's meant to replace several other pans. The wooden steamer basket that came with it has broken, so it isn't included."
   free: false
   price: "$45"
   photos:
@@ -891,10 +891,10 @@
   name: "Saucepan with handle, ramen size"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "Small saucepan with a handle, ramen sized."
+  blurb: "Small stainless saucepan with a long handle and its own lid, ramen sized. One packet, one pan, one bowl."
   free: true
   photos:
-    - "K10-range-and-counter.jpg"
+    - "K78-saucepan.jpg"
 
 - id: "K100"
   slug: "k100-sink-strainers-boxed-two-pack"
@@ -921,10 +921,10 @@
   name: "Soup pot"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "A lidded pot, soup sized. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
+  blurb: "A lidded stainless pot, soup sized, with a glass lid so you can see in without letting the heat out. Heat-marked on the outside from actual use. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
   free: true
   photos:
-    - "K72-cabinet-under-drawer.jpg"
+    - "K74-soup-pot.jpg"
 
 - id: "K75"
   slug: "k75-stainless-mixing-bowls-nested-set"
@@ -934,7 +934,7 @@
   blurb: "Nested set of stainless mixing bowls."
   free: true
   photos:
-    - "K72-cabinet-under-drawer.jpg"
+    - "K75-mixing-bowls.jpg"
 
 - id: "K76"
   slug: "k76-steamer-rack-wire"
