@@ -25,12 +25,12 @@ shelves:
 <meta name="robots" content="noindex, noarchive">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://robinkwong.com/moving-sale/">
-<meta property="og:image" content="https://robinkwong.com/images/moving-sale-og.jpg">
+<meta property="og:image" content="https://robinkwong.com/images/moving-sale-og-2.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="A grid of things from Robin's flat, captioned Everything must go">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://robinkwong.com/images/moving-sale-og.jpg">
+<meta name="twitter:image" content="https://robinkwong.com/images/moving-sale-og-2.jpg">
 <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -144,7 +144,7 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .desc{font-size:.81rem;color:var(--ink-soft);margin:0;flex:1}
 @media(min-width:600px){.desc{font-size:.87rem}}
 .foot{display:flex;align-items:center;gap:.4rem;margin-top:.2rem;flex-wrap:wrap}
-.tag{font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;
+.tag{font-size:.84rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
   padding:.28rem .6rem;border-radius:4px}
 .tag.free{background:var(--free-bg);color:var(--free)}
 .tag.cost{background:var(--price-bg);color:var(--price)}
@@ -162,6 +162,10 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .card.gone .add{display:none}
 .tag.rehomed{background:#e7e1d6;color:var(--ink-soft)}
 .shot{cursor:zoom-in}
+#lb .lbx{position:absolute;top:.6rem;right:.8rem;z-index:2;font:inherit;font-size:2rem;line-height:1;
+  background:none;border:0;color:#faf5ec;cursor:pointer;padding:.3rem .7rem}
+#lb .lbcap{position:absolute;left:0;right:0;bottom:1.2rem;z-index:2;margin:0;text-align:center;
+  color:#faf5ec;font-family:var(--display);font-size:1rem;padding:0 2rem;text-shadow:0 2px 8px #000}
 #lb{position:fixed;inset:0;background:rgba(20,17,14,.92);z-index:70;display:none;
   align-items:center;justify-content:center;padding:2rem;cursor:zoom-out}
 #lb.open{display:flex}
@@ -190,13 +194,13 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .wildcard small{display:block;font-family:var(--sans);font-weight:400;
   font-size:.78rem;opacity:.85;margin-top:.5rem;max-width:22ch}
 .wildcard .dice{font-size:2rem;line-height:1;margin-bottom:.5rem}
-#again{position:fixed;left:50%;bottom:calc(1.1rem + env(safe-area-inset-bottom));
-  transform:translate(-50%,180%);
+#again{position:fixed;right:.9rem;bottom:calc(1.1rem + env(safe-area-inset-bottom));
+  transform:translate(0,180%);
   z-index:45;display:flex;align-items:center;background:var(--price);color:var(--paper);
   border-radius:999px;padding:0 .2rem 0 1rem;box-shadow:0 6px 22px rgba(33,29,24,.3);
   transition:transform .22s ease}
-#again.show{transform:translate(-50%,0)}
-#again.show.duck{transform:translate(-50%,180%)}
+#again.show{transform:translate(0,0)}
+#again.show.duck{transform:translate(0,180%)}
 #again button{font:inherit;font-family:var(--display);font-weight:600;font-size:.95rem;
   background:none;border:0;color:inherit;cursor:pointer;padding:.6rem .4rem}
 #again .x{font-size:1.15rem;padding:.45rem .8rem .55rem;opacity:.75}
@@ -228,6 +232,7 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .bk-item button{border:0;background:none;cursor:pointer;color:var(--price);font-size:1.1rem;padding:0 .2rem}
 fieldset{border:0;padding:0;margin:1.4rem 0 0}
 legend{font-family:var(--display);font-weight:600;font-size:1rem;padding:0;margin-bottom:.5rem}
+input[type=radio]{accent-color:var(--price)}
 label.radio{display:flex;gap:.55rem;align-items:flex-start;padding:.5rem .65rem;
   border:1px solid var(--line);border-radius:6px;margin-bottom:.45rem;cursor:pointer;background:#fff}
 label.radio small{display:block;color:var(--ink-soft)}
@@ -255,24 +260,25 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 {% assign gonecount = goneitems | size %}
 {% assign total = all | size %}
 {% assign left = total | minus: gonecount %}
+{% assign liveitems = all | where_exp:"i","i.gone != true" %}
+{% assign livefree = liveitems | where:"free",true | size %}
 
 <header class="hero">
   <div class="wrap">
     <p class="kicker">Robin Kwong · Astoria, Queens · Two Saturdays only</p>
     <h1>Everything<br><em>must</em> go</h1>
     {% if gonecount > 0 %}
-    <p class="count"><b>{{ total }} things</b> needed a new home. <b>{{ gonecount }}</b> have
-      found one. {{ left }} still here, and most of those are free.</p>
+    <p class="count"><b>{{ total }} things</b> need a new home and {{ gonecount }} have already
+      gone. Of the <b>{{ left }}</b> still here, {{ livefree }} are free.</p>
     {% else %}
-    <p class="count"><b>{{ total }} things</b> need a new home, and {{ freebies | size }} of
+    <p class="count"><b>{{ total }} things</b> need a new home, and {{ livefree }} of
       them are free.</p>
     {% endif %}
 
     <p class="blurb">I'm moving to London at the start of November and the flat has to be empty
       by Halloween. Almost nothing in it is coming with me.</p>
     <p class="blurb">Everything that's going is listed further down this page. Have a scroll, put
-      whatever takes your fancy into the basket and send me the list, and I'll write back to say
-      it's yours. You're also welcome to just turn up and browse.</p>
+      whatever takes your fancy into the basket and send me the list, and I'll write back, though nothing is held until I do. You're also welcome to just turn up and browse.</p>
 
     <div class="when">
       <p class="when-line"><b>Saturday 3 October</b> <span>11am – 5pm</span></p>
@@ -285,7 +291,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
         <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">3 October</a> &#183;
         <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">10 October</a></p>
       <p class="when-note">Can't make either Saturday? Say so when you send your list and we'll
-        find another time. Most of it is free; for the handful of things that aren't, it's cash,
+        find another time. About half of it is free; for the rest it's cash,
         Venmo or Zelle on the day.</p>
     </div>
 
@@ -305,13 +311,14 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 
 <div class="bar">
   <div class="wrap bar-in">
-    <input id="search" type="search" placeholder="Search {{ all | size }} things…" aria-label="Search">
+    <input id="search" type="search" placeholder="Search {{ left }} things…" aria-label="Search">
     <button class="btn" id="basketBtn">Basket <b id="count">0</b></button>
     <div class="chips" id="prices">
       <span class="flabel">Show</span>
       <button class="chip" aria-pressed="true" data-price="">Everything</button>
       <button class="chip" aria-pressed="false" data-price="free">Free</button>
       <button class="chip" aria-pressed="false" data-price="paid">Priced</button>
+      <button class="chip" aria-pressed="false" data-price="cheap">$20 and under</button>
       <button class="chip" id="mineChip" aria-pressed="false" data-price="mine">In my basket</button>
     </div>
     <div class="chips" id="cats">
@@ -331,8 +338,8 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   <h2>Worth the trip</h2>
   <p class="sub">The things I'd be sorry to see go in a skip. Start here.</p>
   <div class="grid big">
-  {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}">
+  {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it and it.gone != true %}
+    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -365,10 +372,10 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 {% if initems.size > 0 %}
 <section id="shelf-{{ shelf | slugify }}" class="roomsec" data-room="{{ shelf }}">
   <h2>{{ shelf }}</h2>
-  <p class="sub">{{ initems | size }} things.</p>
+  {% assign inlive = initems | where_exp:"i","i.gone != true" %}<p class="sub">{{ inlive | size }} things.</p>
   <div class="grid">
   {% for it in initems %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" id="i-{{ it.id }}">
+    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}" id="i-{{ it.id }}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -405,9 +412,10 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     <p><b>Collection only.</b> 30-83 32nd Street, Apt 1B, Astoria NY 11102 &mdash; about twenty
     minutes from midtown on the N or W, and easy enough from most of Brooklyn. I'll help you carry
     things down and out to a car, but I can't deliver.</p>
-    <p><b>Nothing is held until I reply.</b> If two people want the same thing, whoever can
-    come on one of the two Saturdays gets it, because that's the one I can actually manage.</p>
-    <p><b>Paying, for the few things that cost anything.</b> Cash, Venmo or Zelle. I'll give you
+    <p><b>Nothing is held until I reply.</b> If two people want the same thing, it goes to
+    whoever can come on one of the two Saturdays, because handing things over on the day is the
+    only arrangement I can manage while packing.</p>
+    <p><b>Paying, for the half of it that costs anything.</b> Cash, Venmo or Zelle. I'll give you
     the details when you're standing in front of me, not on a public web page.</p>
     <p><b>Come and say hello even if you don't want anything.</b> There'll be drinks and snacks
     on both days and I'd rather the flat was full of people than quietly emptying.</p>
@@ -419,7 +427,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 </footer>
 
 <div id="again"><button id="againBtn"><span class="dice">&#127922;</span><span id="againLabel">Another?</span></button><button class="x" id="againX" aria-label="Dismiss">&times;</button></div>
-<div id="lb"><img alt=""></div>
+<div id="lb"><button class="lbx" aria-label="Close">&times;</button><p class="lbcap"></p><img alt=""></div>
 <div id="scrim"></div>
 <aside id="basket" aria-hidden="true">
   <div class="bk-head"><h3>Your basket</h3><button class="chip" id="closeBasket">Close</button></div>
@@ -497,9 +505,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       : '<p class="fine">Nothing in here yet. Add something you like the look of.</p>';
   }
 
-  // Tapping anywhere on a card's text area adds or removes it. The button is
-  // now a label rather than the only target, because on a phone it was a 30px
-  // tap zone for the page's primary action.
+  // the whole text area of a card is the add/remove target, not just the button
   document.addEventListener("click",function(e){
     var body=e.target.closest(".card .body");
     if(!body) return;
@@ -518,8 +524,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     if(show) showLot(show);
   });
 
-  // Take me to that listing. Any active filter is cleared first, otherwise the
-  // card you asked for might be one the filter is currently hiding.
+  // jump to a listing, clearing any filter that might be hiding it
   function showLot(id){
     var card=document.getElementById("i-"+id) ||
              document.querySelector('.roomsec [data-id="'+id+'"]');
@@ -534,16 +539,13 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     stopRolling();
     setTimeout(function(){ spotlight(card); }, 230);
   }
-
-  // A smooth scroll across a 36,000px page takes well over a second to arrive,
-  // so a 1.5s flash fired at departure is over before you get there. Mark the
-  // card instead, and clear the mark when you next do something.
   function clearPick(){
     var c=document.querySelector(".card.picked");
     if(c) c.classList.remove("picked");
   }
   function spotlight(card){
     clearPick();
+    setTuck(true);                       // keep the bar small so the card is not buried
     card.scrollIntoView({block:"center"});
     card.classList.add("picked");
   }
@@ -553,17 +555,11 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 
   // filtering: two independent dimensions — price, and kind
   var q="", price="", cat="";
-  var lotCount=document.querySelectorAll(".roomsec .item").length;
+  var lotCount=document.querySelectorAll(".roomsec .item:not(.gone)").length;
   function applyFilter(scroll){
     var shown=0;
-    // Searching the category name as well as the item rescues "bike", "luggage"
-    // and "bathroom", which appear in no description. But as a peer it swamped
-    // the result — every one of the 13 things in "Furniture & lamps" answered
-    // to "lamp". So the category only counts when nothing else matched.
-    // Three tiers, each used only when the one above it finds nothing: the item's
-    // own name, then its description, then its category. Without the first tier
-    // "suitcase" put a grater set (in "storage cases") above the actual cases;
-    // without the last, "bike" and "luggage" found nothing at all.
+    // three tiers, each used only when the one above it finds nothing:
+    // the item's own name, then its description, then its category
     var tier = "title";
     if(terms.length){
       if(!cards.some(function(c){ return matches(c.dataset.title); })){
@@ -576,12 +572,13 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       var okP = !price
         || (price==="free" ? c.dataset.free==="true"
         :  price==="paid" ? c.dataset.free==="false"
+        :  price==="cheap" ? (c.dataset.free==="false" && parseFloat(c.dataset.cost||0)<=20)
         :  price==="mine" ? !!basket[c.dataset.id]
         :  true);
       var okC = !cat || c.dataset.room===cat;
       var ok = okQ && okP && okC;
       c.classList.toggle("hidden",!ok);
-      if(ok && c.id) shown++;   // section cards only; featured repeats would double-count
+      if(ok && c.id && !c.classList.contains("gone")) shown++;   // section cards only; featured repeats would double-count
     });
     var filtering = !!(q||price||cat);
     document.querySelectorAll(".roomsec").forEach(function(s){
@@ -613,10 +610,6 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     var y=first.getBoundingClientRect().top + window.pageYOffset - bar.offsetHeight - 8;
     window.scrollTo({top:Math.max(0,y), behavior:"smooth"});
   }
-  // Substring matching made "lamp" find a bowl lifter (inside "clamp"), "ac"
-  // match 47 things, and "lamps", "bike", "luggage" and "suitcase" find nothing
-  // at all. Match whole-word prefixes instead, allow for plurals, and give the
-  // handful of words people reach for that don't appear in any description.
   var SYN={suitcase:["cabin","luggage"], luggage:["cabin","luggage"], sofa:["sectional","couch"],
            couch:["sectional","sofa"], tv:["television","screen","samsung"], telly:["television"],
            bike:["bicycle","cycling"], bicycle:["bike","cycling"], aircon:["air"],
@@ -685,27 +678,26 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     setTimeout(function(){ againBar.classList.add("show"); }, 420);
   }
   function stopRolling(){ againBar.classList.remove("show"); }
-  var bar=document.querySelector(".bar"), lastY=window.pageYOffset, settling=0;
+  var bar=document.querySelector(".bar"), lastY=window.pageYOffset, settling=0, upBy=0;
   function setTuck(on){
     if(bar.classList.contains("tuck")===on) return;
     bar.classList.toggle("tuck",on);
-    // Folding the bar reflows everything below it, which fires a scroll event
-    // of its own. Left alone that event reads as "scrolling up" and unfolds the
-    // bar again, so ignore what the page does to itself for a moment.
     settling=Date.now()+320;
   }
   window.addEventListener("scroll",function(){
     var y=window.pageYOffset;
     if(Date.now()<settling){ lastY=y; return; }
     var past=y > document.querySelector(".hero").offsetHeight;
-    if(!past) setTuck(false);
+    // reopen on a deliberate scroll back, not on a nudge: measure how far you
+    // have travelled upward since you last changed direction
+    if(y > lastY){ upBy=0; } else { upBy += (lastY - y); }
+    if(!past) { setTuck(false); upBy=0; }
     else if(y > lastY + 8) setTuck(true);
-    else if(y < lastY - 8) setTuck(false);
+    else if(upBy > 200) { setTuck(false); upBy=0; }
     lastY=y;
   },{passive:true});
-  document.querySelector(".bar-in").addEventListener("focusin",function(){
-    bar.classList.remove("tuck");
-  });
+  document.querySelector(".bar-in").addEventListener("focusin",function(){ setTuck(false); });
+  document.querySelector(".bar-in").addEventListener("click",function(){ setTuck(false); });
   window.addEventListener("scroll",function(){
     if(!againBar.classList.contains("show")) return;
     var hero=document.querySelector(".hero"), foot=document.querySelector("footer");
@@ -728,10 +720,6 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   document.getElementById("closeBasket").addEventListener("click",function(){ open(false); });
   scrim.addEventListener("click",function(){ open(false); });
   document.addEventListener("keydown",function(e){ if(e.key==="Escape") open(false); });
-
-  // An empty basket used to refuse the whole form, which meant the one group
-  // the page explicitly invites — people coming only to say goodbye — had no
-  // way to say so. Empty is now a valid message.
   function flagField(id,msg){
     var f=document.getElementById(id);
     var holder=f.closest(".field");
@@ -784,14 +772,14 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     window.location.href="mailto:robin.kwong@gmail.com?subject="+
       encodeURIComponent(m.subject)+"&body="+encodeURIComponent(m.body);
   });
-
-  // Not everyone's browser has a mail handler, and there was nothing else on
-  // the page to fall back to — no link, no address in text.
   document.getElementById("copyList").addEventListener("click",function(){
     var m=compose(); if(!m) return;
     var text=m.subject+"\n\n"+m.body;
     var btn=this;
-    function done(){ btn.textContent="Copied — paste it to robin.kwong@gmail.com"; }
+    function done(){
+      btn.textContent="Copied, paste it to robin.kwong@gmail.com";
+      setTimeout(function(){ btn.textContent="Copy it instead"; }, 6000);
+    }
     if(navigator.clipboard && navigator.clipboard.writeText){
       navigator.clipboard.writeText(text).then(done, function(){ prompt("Copy this:", text); });
     } else { prompt("Copy this:", text); }
@@ -801,8 +789,16 @@ footer p{max-width:58ch;color:var(--ink-soft)}
   var lb=document.getElementById("lb"), lbImg=lb.querySelector("img");
   document.addEventListener("click",function(e){
     var shot=e.target.closest(".shot img");
-    if(shot){ lbImg.src=shot.dataset.full||shot.src; lbImg.alt=shot.alt; lb.classList.add("open"); return; }
-    if(e.target===lb||e.target===lbImg) lb.classList.remove("open");
+    if(shot){
+      lbImg.src=shot.dataset.full||shot.src; lbImg.alt=shot.alt;
+      var card=shot.closest(".card");
+      var nm=card && card.querySelector(".name");
+      var tg=card && card.querySelector(".tag");
+      lb.querySelector(".lbcap").textContent =
+        (nm ? nm.textContent.trim() : "") + (tg ? "  ·  "+tg.textContent.trim() : "");
+      lb.classList.add("open"); return;
+    }
+    if(e.target.closest(".lbx") || e.target===lb || e.target===lbImg) lb.classList.remove("open");
   });
   document.addEventListener("keydown",function(e){ if(e.key==="Escape") lb.classList.remove("open"); });
 
