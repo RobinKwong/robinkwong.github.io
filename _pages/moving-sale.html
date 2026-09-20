@@ -72,9 +72,8 @@ h1 em{font-style:italic;font-weight:400}
 .when-line b{font-family:var(--display);font-weight:600;font-size:1.05rem;letter-spacing:-.01em}
 .when-line span{font-size:.85rem;color:var(--ink-soft)}
 .where-line b{color:var(--price)}
-.when a,.cal a{color:var(--accent);text-decoration:underline;
-  text-underline-offset:2px;padding:.2rem 0;display:inline-block}
-.cal{font-size:.86rem;color:var(--ink-soft);margin:.5rem 0 0}
+a.cal{color:var(--price);text-decoration:none;border-bottom:1px solid currentColor;
+  font-size:.82rem;white-space:nowrap;margin-left:auto;padding-left:.8rem}
 .when-note{margin:.8rem 0 0;font-size:.85rem;color:var(--ink-soft);line-height:1.55;max-width:46ch}
 @media(min-width:760px){
   .when{margin-top:2rem;max-width:46ch}
@@ -95,11 +94,11 @@ h1 em{font-style:italic;font-weight:400}
 .bar-in{display:flex;gap:.45rem;align-items:center;flex-wrap:wrap}
 #search{flex:1 1 190px;min-width:150px;font:inherit;font-size:1rem;
   padding:.6rem .85rem;border:1px solid var(--line);border-radius:999px;background:#fff}
-.chip{font:inherit;font-size:.85rem;padding:.58rem .9rem;border-radius:999px;
+.chip{font:inherit;font-size:.8rem;padding:.5rem .75rem;border-radius:999px;
   border:1px solid var(--line);background:#fff;cursor:pointer;white-space:nowrap}
 .chip[aria-pressed=true]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
-.chips{display:flex;gap:.35rem;flex-wrap:wrap;flex:1 1 100%;
-  padding-bottom:2px;margin-top:.45rem}
+.chips{display:flex;gap:.3rem;flex-wrap:wrap;align-items:center;flex:1 1 100%;
+  padding-bottom:2px;margin-top:.4rem}
 @media(min-width:760px){.chips{gap:.4rem}}
 .chips::-webkit-scrollbar{display:none}
 .flabel{font-size:.7rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
@@ -195,16 +194,19 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
   font-size:.78rem;opacity:.85;margin-top:.5rem;max-width:22ch}
 .wildcard .dice{font-size:2rem;line-height:1;margin-bottom:.5rem}
 #again{position:fixed;right:.9rem;bottom:calc(1.1rem + env(safe-area-inset-bottom));
-  transform:translate(0,180%);
+  transform:translate(0,200%);opacity:0;pointer-events:none;visibility:hidden;
   z-index:45;display:flex;align-items:center;background:var(--price);color:var(--paper);
   border-radius:999px;padding:0 .2rem 0 1rem;box-shadow:0 6px 22px rgba(33,29,24,.3);
-  transition:transform .22s ease}
-#again.show{transform:translate(0,0)}
-#again.show.duck{transform:translate(0,180%)}
+  transition:transform .22s ease,opacity .18s ease,visibility .22s}
+#again.show{transform:translate(0,0);opacity:1;pointer-events:auto;visibility:visible}
+#again.show.duck{transform:translate(0,200%);opacity:0;pointer-events:none;visibility:hidden}
 #again button{font:inherit;font-family:var(--display);font-weight:600;font-size:.95rem;
   background:none;border:0;color:inherit;cursor:pointer;padding:.6rem .4rem}
 #again .x{font-size:1.15rem;padding:.45rem .8rem .55rem;opacity:.75}
 #again .dice{font-size:1.05rem;margin-right:.35rem}
+#catsel{font:inherit;font-size:.85rem;padding:.5rem 1.9rem .5rem .8rem;border-radius:999px;
+  border:1px solid var(--line);background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%235e544a'/%3E%3C/svg%3E") no-repeat right .8rem center/10px 6px;
+  -webkit-appearance:none;appearance:none;color:var(--ink);max-width:14rem}
 #shown{align-self:center;font-size:.8rem;color:var(--ink-soft);padding-left:.2rem}
 #empty{display:none;padding:3rem 0;text-align:center;font-family:var(--display);font-size:1.3rem}
 
@@ -281,18 +283,15 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       whatever takes your fancy into the basket and send me the list, and I'll write back, though nothing is held until I do. You're also welcome to just turn up and browse.</p>
 
     <div class="when">
-      <p class="when-line"><b>Saturday 3 October</b> <span>11am – 5pm</span></p>
-      <p class="when-line"><b>Saturday 10 October</b> <span>11am – 5pm, whatever's left</span></p>
+      <p class="when-line"><b>Saturday 3 October</b> <span>11am &#8211; 5pm</span>
+        <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
+      <p class="when-line"><b>Saturday 10 October</b> <span>11am &#8211; 5pm</span>
+        <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
       <p class="tick" id="tick"></p>
       <p class="when-line where-line"><b>30-83 32nd Street, Apt 1B</b> <span>Astoria, NY 11102 &#183;
         buzz 1B &#183; four minutes from the N and W at 30th Avenue</span></p>
-      <p class="cal">Add it to your calendar:
-        <a href="/moving-sale.ics">both Saturdays</a> &#183;
-        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">3 October</a> &#183;
-        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">10 October</a></p>
-      <p class="when-note">Can't make either Saturday? Say so when you send your list and we'll
-        find another time. About half of it is free; for the rest it's cash,
-        Venmo or Zelle on the day.</p>
+      <p class="when-note">Can't make either? Say so when you send your list. Cash, Venmo or Zelle
+        for anything priced.</p>
     </div>
 
     <div class="note">
@@ -314,17 +313,19 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     <input id="search" type="search" placeholder="Search {{ left }} things…" aria-label="Search">
     <button class="btn" id="basketBtn">Basket <b id="count">0</b></button>
     <div class="chips" id="prices">
-      <span class="flabel">Show</span>
-      <button class="chip" aria-pressed="true" data-price="">Everything</button>
+      
+      <button class="chip" aria-pressed="true" data-price="">All</button>
       <button class="chip" aria-pressed="false" data-price="free">Free</button>
       <button class="chip" aria-pressed="false" data-price="paid">Priced</button>
-      <button class="chip" aria-pressed="false" data-price="cheap">$20 and under</button>
-      <button class="chip" id="mineChip" aria-pressed="false" data-price="mine">In my basket</button>
+      <button class="chip" aria-pressed="false" data-price="cheap">Under $20</button>
+      <button class="chip" id="mineChip" aria-pressed="false" data-price="mine">My basket</button>
     </div>
     <div class="chips" id="cats">
-      <span class="flabel">Of</span>
-      <button class="chip" aria-pressed="true" data-cat="">Everything</button>
-      {% for s in page.shelves %}<button class="chip" aria-pressed="false" data-cat="{{ s }}">{{ s }}</button>{% endfor %}
+      
+      <select id="catsel" aria-label="Category">
+        <option value="">Everything</option>
+        {% for s in page.shelves %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
+      </select>
       <span id="shown" aria-live="polite"></span>
     </div>
   </div>
@@ -484,7 +485,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
       if(card) card.classList.toggle("in",on);
     });
     var mine=document.getElementById("mineChip");
-    if(mine) mine.textContent = ids.length ? "In my basket ("+ids.length+")" : "In my basket";
+    if(mine) mine.textContent = ids.length ? "My basket ("+ids.length+")" : "My basket";
     if(price==="mine") applyFilter(false);
     var total=ids.reduce(function(s,id){ return s + (basket[id].p||0); },0);
     var paidCount=ids.filter(function(id){ return basket[id].p>0; }).length;
@@ -531,9 +532,10 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     if(!card) return;
     q=""; price=""; cat="";
     document.getElementById("search").value="";
-    document.querySelectorAll("#prices .chip, #cats .chip").forEach(function(c){
-      c.setAttribute("aria-pressed", c.dataset.price==="" || c.dataset.cat==="" ? "true":"false");
+    document.querySelectorAll("#prices .chip").forEach(function(c){
+      c.setAttribute("aria-pressed", c.dataset.price==="" ? "true":"false");
     });
+    document.getElementById("catsel").value="";
     applyFilter(false);
     open(false);
     stopRolling();
@@ -660,7 +662,9 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     });
   }
   wireRow("prices","price",function(v){ price=v; });
-  wireRow("cats","cat",function(v){ cat=v; });
+  document.getElementById("catsel").addEventListener("change",function(e){
+    cat=e.target.value; applyFilter(true);
+  });
 
   var nags=["Another?","Go on then, another","Another one","Still nothing? Try this",
             "You are very hard to please","One more","Last one, honestly"];
@@ -688,16 +692,12 @@ footer p{max-width:58ch;color:var(--ink-soft)}
     var y=window.pageYOffset;
     if(Date.now()<settling){ lastY=y; return; }
     var past=y > document.querySelector(".hero").offsetHeight;
-    // reopen on a deliberate scroll back, not on a nudge: measure how far you
-    // have travelled upward since you last changed direction
-    if(y > lastY){ upBy=0; } else { upBy += (lastY - y); }
-    if(!past) { setTuck(false); upBy=0; }
-    else if(y > lastY + 8) setTuck(true);
-    else if(upBy > 200) { setTuck(false); upBy=0; }
+    if(!past) setTuck(false);              // back at the top, show it again
+    else if(y > lastY + 8) setTuck(true);  // reading downwards, get out of the way
     lastY=y;
   },{passive:true});
   document.querySelector(".bar-in").addEventListener("focusin",function(){ setTuck(false); });
-  document.querySelector(".bar-in").addEventListener("click",function(){ setTuck(false); });
+  document.querySelector(".bar-in").addEventListener("click",function(){ if(bar.classList.contains("tuck")) setTuck(false); });
   window.addEventListener("scroll",function(){
     if(!againBar.classList.contains("show")) return;
     var hero=document.querySelector(".hero"), foot=document.querySelector("footer");

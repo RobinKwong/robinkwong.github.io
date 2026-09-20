@@ -723,16 +723,15 @@
     - "E37-mason-jars.jpg"
 
 - id: "K28"
-  slug: "k28-moma-la-maison-inondee-bowl-and-bodum-glasses"
-  name: "MoMA La Maison Inondee bowl and Bodum glasses"
+  slug: "k28-moma-la-maison-inondee-bowl"
+  name: "MoMA La Maison Inondee bowl"
   qty: "1"
   shelf: "Kitchen"
-  blurb: "MoMA Design Store bowl, La Maison Inondee, the blue seven-inch one with the little house sitting in the bottom of it, still boxed and unused, and a boxed pair of Bodum for MoMA Chambord glasses to go with it."
+  blurb: "MoMA Design Store bowl, La Maison Inondee, the blue seven-inch one with the little house sitting in the bottom of it. Still boxed and unused."
   free: false
-  price: "$30"
+  price: "$15"
   photos:
     - "K28-moma-la-maison-inondee-bowl.jpg"
-    - "K29-bodum-moma-chambord-glasses.jpg"
 
 - id: "K69"
   slug: "k69-mortar-and-pestle-small-white-marble"
@@ -1302,6 +1301,15 @@
   price: "$15"
   photos:
     - "L31-slam-ball.jpg"
+
+- id: "K106"
+  slug: "k106-bodum-for-moma-chambord-glasses-a-pair"
+  name: "Bodum for MoMA Chambord glasses, a pair"
+  qty: "2"
+  shelf: "Kitchen"
+  blurb: "A boxed pair of Bodum for MoMA Chambord glasses, double-walled so a hot drink stays hot and the outside stays cool enough to hold. Unused."
+  free: false
+  price: "$15"
 
 - id: "K62"
   slug: "k62-cooking-apron"
