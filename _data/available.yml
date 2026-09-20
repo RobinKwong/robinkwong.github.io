@@ -605,16 +605,6 @@
   photos:
     - "K80-colander-and-strainers.jpg"
 
-- id: "K62"
-  slug: "k62-cooking-apron"
-  name: "Cooking apron"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
-  free: true
-  photos:
-    - "K60-tall-cabinet-bottom.jpg"
-
 - id: "K105"
   slug: "k105-creme-brulee-dishes-a-pair"
   name: "Creme brulee dishes, a pair"
@@ -645,15 +635,15 @@
   photos:
     - "D42-teapot-and-mugs.jpg"
 
-- id: "K36"
-  slug: "k36-digital-instant-read-meat-thermometer-red"
-  name: "Digital instant-read meat thermometer, red"
-  qty: "1"
+- id: "K34"
+  slug: "k34-everything-on-the-fridge-door"
+  name: "Everything on the fridge door"
+  qty: "1 lot"
   shelf: "Kitchen"
-  blurb: "Digital instant-read meat thermometer. Battery powered."
+  blurb: "The small whiteboard with its marker, a DOQAUS digital instant-read thermometer that folds shut like a penknife, and the magnets that hold it all up. Those include an I-heart-Astoria raccoon, a wooden cat sitting in an affogato, an R'lyeh one from Necronomicon Providence, and four small coloured glass cubes."
   free: true
   photos:
-    - "K33-fridge-front.jpg"
+    - "K34-fridge-door.jpg"
 
 - id: "K93"
   slug: "k93-flat-grater-and-slicer-set-four-blades-in-a-storage-case"
@@ -699,14 +689,14 @@
     - "K64-ice-bucket.jpg"
 
 - id: "K61"
-  slug: "k61-kitchenaid-oven-gloves"
-  name: "KitchenAid oven gloves"
+  slug: "k61-kitchenaid-oven-mitts-long-cuffed"
+  name: "KitchenAid oven mitts, long-cuffed"
   qty: "1 pair"
   shelf: "Kitchen"
-  blurb: "A pair of KitchenAid oven gloves."
+  blurb: "A pair of red KitchenAid oven mitts with long cuffs that cover your wrists as well as your hands."
   free: true
   photos:
-    - "K60-tall-cabinet-bottom.jpg"
+    - "K61-oven-mitts.jpg"
 
 - id: "K66"
   slug: "k66-large-metal-baking-tray"
@@ -1012,16 +1002,6 @@
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
 
-- id: "K35"
-  slug: "k35-fridge-magnets"
-  name: "Fridge magnets"
-  qty: "several"
-  shelf: "Odds & amusements"
-  blurb: "A handful of fridge magnets. Acadia and Shenandoah National Parks, an R'lyeh one, some cats."
-  free: true
-  photos:
-    - "K33-fridge-front.jpg"
-
 - id: "O19"
   slug: "o19-grey-cloth-storage-boxes"
   name: "Grey cloth storage boxes"
@@ -1141,16 +1121,6 @@
   photos:
     - "L06-tv-console.jpg"
     - "L07-samsung-tv.jpg"
-
-- id: "K34"
-  slug: "k34-small-whiteboard-with-marker"
-  name: "Small whiteboard with marker"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "Small whiteboard with a marker."
-  free: true
-  photos:
-    - "K33-fridge-front.jpg"
 
 - id: "O24"
   slug: "o24-small-woven-basket"
@@ -1359,6 +1329,14 @@
   price: "$15"
   photos:
     - "L31-slam-ball.jpg"
+
+- id: "K62"
+  slug: "k62-cooking-apron"
+  name: "Cooking apron"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
+  free: true
 
 - id: "K97"
   slug: "k97-glass-tumblers"
