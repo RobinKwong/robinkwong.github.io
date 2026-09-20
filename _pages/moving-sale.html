@@ -300,7 +300,9 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
       there'll be drinks and something to eat. I've been in New York four and a half years, so if
       we know each other, come and stay a while. If we don't, come anyway and have a drink while
       you think about the beanbag.</p>
-      <p class="sign">— Robin, and Coco, who is not for sale</p>
+      <p>That's Coco in the photograph. Petal wouldn't sit for one, and has been turning up in the
+      background of the listings instead.</p>
+      <p class="sign">— Robin, Coco and Petal, none of whom are for sale</p>
       </div>
     </div>
   </div>
@@ -314,8 +316,8 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
       
       <button class="chip" aria-pressed="true" data-price="">All</button>
       <button class="chip" aria-pressed="false" data-price="free">Free</button>
-      <button class="chip" aria-pressed="false" data-price="paid">Priced</button>
       <button class="chip" aria-pressed="false" data-price="cheap">Under $20</button>
+      <button class="chip" aria-pressed="false" data-price="dear">$20 and up</button>
       <button class="chip" id="mineChip" aria-pressed="false" data-price="mine">My basket</button>
     </div>
     <div class="chips" id="cats">
@@ -571,8 +573,8 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         tier==="title" ? c.dataset.title : tier==="name" ? c.dataset.name : c.dataset.room.toLowerCase());
       var okP = !price
         || (price==="free" ? c.dataset.free==="true"
-        :  price==="paid" ? c.dataset.free==="false"
-        :  price==="cheap" ? (c.dataset.free==="false" && parseFloat(c.dataset.cost||0)<=20)
+        :  price==="cheap" ? (c.dataset.free==="false" && parseFloat(c.dataset.cost||0)<20)
+        :  price==="dear"  ? (c.dataset.free==="false" && parseFloat(c.dataset.cost||0)>=20)
         :  price==="mine" ? !!basket[c.dataset.id]
         :  true);
       var okC = !cat || c.dataset.room===cat;
