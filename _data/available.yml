@@ -175,17 +175,6 @@
     - "D67-diffuser-sticks.jpg"
     - "D67-reed-diffuser.jpg"
 
-- id: "B35"
-  slug: "b35-tress-wellness-complete-waxing-kit"
-  name: "Tress Wellness Complete Waxing Kit"
-  qty: "1"
-  shelf: "Bathroom"
-  blurb: "Complete home waxing kit, used exactly once. Four of the five bead sachets are still sealed and the rest of the kit is unopened, in its original box."
-  free: false
-  price: "$15"
-  photos:
-    - "B35-waxing-kit.jpg"
-
 - id: "B37"
   slug: "b37-black-decker-light-n-easy-steam-iron-model-ir1010"
   name: "Black+Decker Light 'N Easy steam iron, model IR1010"
