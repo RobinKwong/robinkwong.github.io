@@ -611,6 +611,7 @@
   shelf: "Kitchen"
   blurb: "Two black ceramic creme brulee dishes with fluted sides, wide and shallow, which is the shape that gives the biggest sugar crust."
   free: true
+  held: true
   photos:
     - "K105-creme-brulee-dishes.jpg"
 
