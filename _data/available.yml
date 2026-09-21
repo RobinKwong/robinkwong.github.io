@@ -806,6 +806,7 @@
   shelf: "Kitchen"
   blurb: "Small stainless saucepan with a long handle and its own lid, ramen sized. One packet, one pan, one bowl."
   free: true
+  held: true
   photos:
     - "K78-saucepan.jpg"
 
@@ -1063,6 +1064,7 @@
   shelf: "Odds & amusements"
   blurb: "Potluck Showdown, a card game about food and mischief, two to six players and rounds of ten to thirty minutes. I own two copies and only need one."
   free: true
+  held: true
   photos:
     - "O48-potluck-showdown.jpg"
 
