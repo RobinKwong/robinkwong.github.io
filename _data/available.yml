@@ -20,6 +20,7 @@
   blurb: "Thirteen empty frames, all new. Eleven white ones, mostly 8 by 10 inches with mounts and still shrink-wrapped, plus two black 8 by 12 frames in bubble wrap."
   free: false
   price: "$30"
+  held: true
   photos:
     - "C11-empty-white-frames.jpg"
 
@@ -195,6 +196,7 @@
   shelf: "Cleaning & supplies"
   blurb: "The contents of the cupboard under the sink, meaning Cascade dishwasher pods, a box of Softsoap hand soap refills, Mr Clean lemon concentrate, a Method heavy-duty degreaser, glass cleaner, laundry detergent and fabric softener, Glad ForceFlex bin bags, purple nitrile gloves, scrub sponges and a Raid ant bait station. The hand soap, the Mr Clean and the big bottle of dish soap have not been opened."
   free: true
+  held: true
   photos:
     - "K45-cleaning-cupboard.jpg"
     - "K16-under-the-sink.jpg"
@@ -207,6 +209,7 @@
   blurb: "Concertina clothes drying rack, 21 by 15 inches and 42 inches tall when it's open, and flat enough to slide behind a door when it's folded."
   free: false
   price: "$8"
+  held: true
   photos:
     - "C63-clothes-drying-rack.jpg"
 
@@ -623,6 +626,7 @@
   shelf: "Kitchen"
   blurb: "The small whiteboard with its marker, a DOQAUS digital instant-read thermometer that folds shut like a penknife, and the magnets that hold it all up. Those include an I-heart-Astoria raccoon, a wooden cat sitting in an affogato, an R'lyeh one from Necronomicon Providence, and four small coloured glass cubes."
   free: true
+  held: true
   photos:
     - "K34-fridge-door.jpg"
 
@@ -646,6 +650,7 @@
   shelf: "Kitchen"
   blurb: "A round-bellied glass tea press with a stainless mesh infuser on a plunger, so the leaves get pushed down once it has brewed. Yellow collar, green lid, blue knob."
   free: true
+  held: true
   photos:
     - "K25-glass-tea-press.jpg"
 
@@ -667,6 +672,7 @@
   shelf: "Kitchen"
   blurb: "A pair of red KitchenAid oven mitts with long cuffs that cover your wrists as well as your hands."
   free: true
+  held: true
   photos:
     - "K61-oven-mitts.jpg"
 
@@ -821,6 +827,7 @@
   shelf: "Kitchen"
   blurb: "A lidded stainless pot, soup sized, with a glass lid so you can see in without letting the heat out. Bigger than a saucepan and a lot more manageable than the 23-quart stockpot further down."
   free: true
+  held: true
   photos:
     - "K74-soup-pot.jpg"
 
@@ -976,6 +983,7 @@
   shelf: "Odds & amusements"
   blurb: "Four IKEA MURVEL shoe organisers in grey. Each one is a curved plastic shelf that takes a shoe underneath and a shoe on top, so a closet shelf holds twice as many pairs. They nest flat when you aren't using them."
   free: true
+  held: true
   photos:
     - "E49-shoe-organisers-stacked.jpg"
     - "E49-shoe-organisers.jpg"
@@ -1020,6 +1028,7 @@
   shelf: "Odds & amusements"
   blurb: "Three notebooks, all unused. A Leuchtturm1917 in copper, still shrink-wrapped, A5 with 251 numbered pages and a Financial Times logo embossed on the cover. A Kokuyo Campus with a Spy x Family cover and 30 ruled sheets. And a black JSM folio with a strap closure and a ribbon marker."
   free: true
+  held: true
   photos:
     - "D95-notebooks.jpg"
     - "D95-leuchtturm.jpg"
@@ -1031,6 +1040,7 @@
   shelf: "Odds & amusements"
   blurb: "A bag of 120 party balloons in twelve colours, still in its packaging."
   free: true
+  held: true
   photos:
     - "O20-party-balloons.jpg"
 
@@ -1118,6 +1128,7 @@
   shelf: "Odds & amusements"
   blurb: "A woven basket with a handle each side, big enough for shoes, post or whatever collects by the door."
   free: true
+  held: true
   photos:
     - "L27-woven-basket.jpg"
 
@@ -1214,6 +1225,7 @@
   shelf: "Sport & bikes"
   blurb: "Folding camping chair in its carry bag."
   free: true
+  held: true
   photos:
     - "C05-camping-chair.jpg"
 
