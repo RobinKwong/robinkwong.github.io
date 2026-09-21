@@ -499,6 +499,7 @@
   blurb: "Black+Decker countertop microwave, 900 watts and 0.9 cubic feet, with a turntable and a child lock. Takes up 19 inches of counter by 15 deep. Works. US plug."
   free: false
   price: "$30"
+  held: true
   photos:
     - "D06-microwave.jpg"
 
