@@ -164,6 +164,11 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 .card.gone .shot img,.card.gone .noshot{filter:grayscale(1)}
 .card.gone .name{text-decoration:line-through;text-decoration-thickness:1px}
 .card.gone .add{display:none}
+/* Spoken for: still here, still worth looking at, just not claimable. */
+.card.held{opacity:.78}
+.card.held .shot img,.card.held .noshot{filter:none}
+.card.held .name{text-decoration:none}
+.tag.held{background:#f0e2c8;color:#6b5117}
 .tag.rehomed{background:#e7e1d6;color:var(--ink-soft)}
 .shot{cursor:zoom-in}
 #lb .lbx{position:absolute;top:.6rem;right:.8rem;z-index:2;font:inherit;font-size:2rem;line-height:1;
@@ -265,9 +270,12 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 {% assign freebies = all | where:"free",true %}
 {% assign goneitems = all | where:"gone",true %}
 {% assign gonecount = goneitems | size %}
+{% assign helditems = all | where:"held",true %}
+{% assign heldcount = helditems | size %}
 {% assign total = all | size %}
-{% assign left = total | minus: gonecount %}
-{% assign liveitems = all | where_exp:"i","i.gone != true" %}
+{% assign taken = gonecount | plus: heldcount %}
+{% assign left = total | minus: taken %}
+{% assign liveitems = all | where_exp:"i","i.gone != true and i.held != true" %}
 {% assign livefree = liveitems | where:"free",true | size %}
 {% comment %}Only report what has gone once a quarter of it has. Two out of a
 hundred and twenty-seven reads as nothing happening.{% endcomment %}
@@ -278,7 +286,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     <p class="kicker">Robin Kwong · Astoria, Queens · Two Saturdays only</p>
     <h1>Everything<br><em>must</em> go</h1>
     <p class="count"><b>{{ left }} things</b> need a new home, and {{ livefree }} of them
-      are free.{% if gonecount >= gonefloor %} Another {{ gonecount }} have already gone.{% endif %}</p>
+      are free.{% if gonecount >= gonefloor %} Another {{ gonecount }} have already gone.{% endif %}{% if heldcount > 0 %} {{ heldcount }} more are spoken for.{% endif %}</p>
 
     <p class="blurb">I'm moving to London at the start of November and the flat has to be empty
       by Halloween. Almost nothing in it is coming with me.</p>
@@ -345,8 +353,8 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   <h2>Worth the trip</h2>
   <p class="sub">The things I'd be sorry to see go in a skip. Start here.</p>
   <div class="grid big">
-  {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it and it.gone != true %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">
+  {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it and it.gone != true and it.held != true %}
+    <article class="card item{% if it.gone or it.held %} gone{% endif %}{% if it.held %} held{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -357,11 +365,12 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         <p class="name">{{ it.name }}{% if it.qty and it.qty != "1" %} <span class="where">· {{ it.qty }}</span>{% endif %}</p>
         {% if it.blurb %}<p class="desc">{{ it.blurb }}</p>{% endif %}
         <div class="foot">
-          {% if it.gone %}<span class="tag rehomed">Rehomed</span>
+          {% if it.held %}<span class="tag held">Spoken for</span>
+          {% elsif it.gone %}<span class="tag rehomed">Rehomed</span>
           {% elsif it.free %}<span class="tag free">Free</span>
           {% elsif it.price %}<span class="tag cost">{{ it.price }}</span>
           {% else %}<span class="tag free">Free</span>{% endif %}
-          {% unless it.gone %}<button class="add" data-id="{{ it.id }}" data-label="{{ it.name | escape }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">Add</button>{% endunless %}
+          {% unless it.gone or it.held %}<button class="add" data-id="{{ it.id }}" data-label="{{ it.name | escape }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">Add</button>{% endunless %}
         </div>
       </div>
     </article>
@@ -379,10 +388,10 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
 {% if initems.size > 0 %}
 <section id="shelf-{{ shelf | slugify }}" class="roomsec" data-room="{{ shelf }}">
   <h2>{{ shelf }}</h2>
-  {% assign inlive = initems | where_exp:"i","i.gone != true" %}<p class="sub">{{ inlive | size }} things.</p>
+  {% assign inlive = initems | where_exp:"i","i.gone != true and i.held != true" %}<p class="sub">{{ inlive | size }} things.</p>
   <div class="grid">
   {% for it in initems %}
-    <article class="card item{% if it.gone %} gone{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}" id="i-{{ it.id }}">
+    <article class="card item{% if it.gone or it.held %} gone{% endif %}{% if it.held %} held{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}" id="i-{{ it.id }}">
       {% if it.photos %}
       <div class="shot"><img src="/images/available-thumb/{{ it.photos[0] }}" data-full="/images/available/{{ it.photos[0] }}" alt="{{ it.name | escape }}" width="400" height="300" loading="lazy" decoding="async"></div>
       {% else %}
@@ -393,11 +402,12 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         <p class="name">{{ it.name }}{% if it.qty and it.qty != "1" %} <span class="where">· {{ it.qty }}</span>{% endif %}</p>
         {% if it.blurb %}<p class="desc">{{ it.blurb }}</p>{% endif %}
         <div class="foot">
-          {% if it.gone %}<span class="tag rehomed">Rehomed</span>
+          {% if it.held %}<span class="tag held">Spoken for</span>
+          {% elsif it.gone %}<span class="tag rehomed">Rehomed</span>
           {% elsif it.free %}<span class="tag free">Free</span>
           {% elsif it.price %}<span class="tag cost">{{ it.price }}</span>
           {% else %}<span class="tag free">Free</span>{% endif %}
-          {% unless it.gone %}<button class="add" data-id="{{ it.id }}" data-label="{{ it.name | escape }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">Add</button>{% endunless %}
+          {% unless it.gone or it.held %}<button class="add" data-id="{{ it.id }}" data-label="{{ it.name | escape }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">Add</button>{% endunless %}
         </div>
       </div>
     </article>

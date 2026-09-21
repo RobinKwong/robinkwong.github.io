@@ -8,6 +8,7 @@
   shelf: "Art, frames & vases"
   blurb: "Two tall ceramic bottle vases in the same shape and glaze, one a good bit bigger than the other, white with a grey wash brushed round the bottom that stops at a different height on each."
   free: true
+  held: true
   photos:
     - "E03-ceramic-vases-pair.jpg"
 
@@ -29,6 +30,7 @@
   shelf: "Art, frames & vases"
   blurb: "A plain glass vase, for when somebody turns up holding flowers and you discover you don't have one."
   free: true
+  held: true
   photos:
     - "E39-glass-vase.jpg"
 
@@ -156,6 +158,7 @@
   shelf: "Bathroom"
   blurb: "A hetras reed diffuser with its reeds and a sealed NEST Rose Noir & Oud refill, enough to keep a hallway smelling good for a long time."
   free: true
+  held: true
   photos:
     - "E04-reed-diffuser-and-nest.jpg"
 
@@ -166,6 +169,7 @@
   shelf: "Bathroom"
   blurb: "Four black glass reed diffuser bottles with their stoppers, back in the box they came in, along with twenty reed sticks. Empty and ready for whatever oil you want to put in them."
   free: true
+  held: true
   photos:
     - "D67-diffuser-bottles-boxed.jpg"
     - "D67-diffuser-sticks.jpg"
@@ -256,6 +260,7 @@
   shelf: "Cleaning & supplies"
   blurb: "Three microfibre cloths in blue, green and pink, unused and kept in a clear bag."
   free: true
+  held: true
   photos:
     - "K40-microfibre-cloths.jpg"
 
@@ -323,6 +328,7 @@
   shelf: "Cleaning & supplies"
   blurb: "Three unopened Amazon Basics packs, six XXL rolls in each, so eighteen rolls. Unglamorous and genuinely useful."
   free: true
+  held: true
   photos:
     - "C08-paper-stock.jpg"
 
@@ -466,24 +472,12 @@
   name: "Triceratops beanbag chair"
   qty: "1"
   shelf: "Furniture & lamps"
-  blurb: "A triceratops, in green, with horns, a frill and a ridged spine down the back. Big enough for an adult to disappear into, and far too big to be sensible."
+  blurb: "A triceratops beanbag chair in green, with horns, a frill and a ridged spine down the back. Sit on it as a chair or lie on it as a dinosaur."
   free: false
   price: "$15"
+  held: true
   photos:
     - "O22-triceratops-beanbag.jpg"
-
-- id: "K32"
-  slug: "k32-aroma-electric-hotpot-model-asp-610"
-  name: "Aroma electric hotpot, model ASP-610"
-  qty: "1 set"
-  shelf: "Kitchen"
-  blurb: "Aroma electric hot pot, stainless pot with a glass lid on a heating base. US plug, and it draws 1500W. Ten wire mesh strainer ladles go with it."
-  free: false
-  price: "$20"
-  photos:
-    - "K32-aroma-hotpot.jpg"
-    - "K32-aroma-hotpot-label.jpg"
-    - "K89-cabinet-above-cutting-board.jpg"
 
 - id: "K10"
   slug: "k10-bamboo-knife-block-with-knives-and-blade-tools"
@@ -493,6 +487,7 @@
   blurb: "A bamboo knife block by Evolve, filled with flexible bristles rather than cut slots, so any blade fits anywhere in it and nothing gets blunted going in. Two Chinese choppers, a kitchen knife, three pairs of scissors, a peeler and an oyster knife, and I'm happy to split a single blade out if that's all you want."
   free: false
   price: "$25"
+  held: true
   photos:
     - "K10-knife-block.jpg"
 
@@ -525,6 +520,7 @@
   shelf: "Kitchen"
   blurb: "Around 13 plates and 20 bowls in mixed blue and white patterns, plus a few small dishes. Enough to set up a kitchen from scratch."
   free: true
+  held: true
   photos:
     - "K14-crockery-cabinet.jpg"
 
@@ -560,6 +556,7 @@
   shelf: "Kitchen"
   blurb: "Brita filter jug with a cartridge already fitted, and two separate stashes of spare cartridges to go with it."
   free: true
+  held: true
   photos:
     - "K21-brita-jug.jpg"
 
@@ -570,6 +567,7 @@
   shelf: "Kitchen"
   blurb: "Four-pack of professional egg rings, still boxed."
   free: true
+  held: true
   photos:
     - "K31-cotey-egg-ring-set.jpg"
 
@@ -580,6 +578,7 @@
   shelf: "Kitchen"
   blurb: "A shallow round lidded pot in cream and pink, hand-painted with cherry blossom, a lug handle each side and a notch in the lid to let steam out. Built to go from the stove straight to the table, which is how Japanese hotpot gets served."
   free: true
+  held: true
   photos:
     - "K73-ceramic-casserole-pot.jpg"
 
@@ -590,6 +589,7 @@
   shelf: "Kitchen"
   blurb: "A three-piece stainless shaker, a gold-coloured Hawthorne strainer, a twisted bar spoon and a double-sided jigger. It seals properly."
   free: true
+  held: true
   photos:
     - "K22-cocktail-kit.jpg"
 
@@ -600,6 +600,7 @@
   shelf: "Kitchen"
   blurb: "A white plastic colander, a fine mesh sieve, a long-handled mesh scoop for lifting noodles straight out of the pot, and the wooden-handled clamp that gets a hot dish out of a steamer without you burning your fingers."
   free: true
+  held: true
   photos:
     - "K80-colander-and-strainers.jpg"
 
@@ -664,6 +665,7 @@
   shelf: "Kitchen"
   blurb: "Metallic ice bucket, 9 inches across and 10 inches tall, so a wine bottle sits in it with room for ice round the sides."
   free: true
+  held: true
   photos:
     - "K64-ice-bucket.jpg"
 
@@ -684,6 +686,7 @@
   shelf: "Kitchen"
   blurb: "A big metal baking tray with a rolled rim, 15 by 21 inches. A whole tray of roast vegetables fits on it without them steaming each other, though at that size it's worth measuring your oven first."
   free: true
+  held: true
   photos:
     - "K66-baking-tray.jpg"
 
@@ -715,6 +718,7 @@
   shelf: "Kitchen"
   blurb: "Four Ball wide-mouth quart jars with lids. Clean and ready for whatever you ferment, pickle or store in them."
   free: true
+  held: true
   photos:
     - "E37-mason-jars.jpg"
 
@@ -726,6 +730,7 @@
   blurb: "MoMA Design Store bowl, La Maison Inondee, the blue seven-inch one with the little house sitting in the bottom of it. Still boxed and unused."
   free: false
   price: "$15"
+  held: true
   photos:
     - "K28-moma-la-maison-inondee-bowl.jpg"
 
@@ -736,6 +741,7 @@
   shelf: "Kitchen"
   blurb: "A small mortar and pestle in white marble, heavy for its size, which is the point of a stone one."
   free: true
+  held: true
   photos:
     - "K69-mortar-and-pestle.jpg"
 
@@ -747,6 +753,7 @@
   blurb: "Glass body with a black base and lid, 1.8 litres, and it lights up while it boils. US plug."
   free: false
   price: "$8"
+  held: true
   photos:
     - "K20-mueller-kettle.jpg"
 
@@ -758,6 +765,7 @@
   blurb: "NutriBullet Pro, the 900-watt one, with its tall and short cups. The blender that makes one smoothie in the cup you then drink it out of. US plug."
   free: false
   price: "$25"
+  held: true
   photos:
     - "D51-nutribullet.jpg"
 
@@ -768,6 +776,7 @@
   shelf: "Kitchen"
   blurb: "OXO fat separator, 4 cup, with a bottom-pour spout. The thing that makes gravy worth making."
   free: true
+  held: true
   photos:
     - "K24-oxo-fat-separator.jpg"
     - "K14-crockery-cabinet.jpg"
@@ -810,6 +819,7 @@
   shelf: "Kitchen"
   blurb: "A sealed two-pack of sink strainers."
   free: true
+  held: true
   photos:
     - "K100-sink-strainers.jpg"
 
@@ -830,6 +840,7 @@
   shelf: "Kitchen"
   blurb: "Five stainless mixing bowls that nest down into the space of one."
   free: true
+  held: true
   photos:
     - "K75-mixing-bowls.jpg"
 
@@ -840,6 +851,7 @@
   shelf: "Kitchen"
   blurb: "Three pieces for steaming in a pot you already own. A flat legged rack to stand a plate on, a low round trivet for the same job in a smaller pan, and a perforated basket with a folding handle to lift the whole lot out in one go."
   free: true
+  held: true
   photos:
     - "K76-steaming-rack-and-inserts.jpg"
 
@@ -851,6 +863,7 @@
   blurb: "23 quart stainless stockpot, 13 inches across and 12 inches tall. Big enough for a lobster, or for an unwise quantity of soup."
   free: false
   price: "$25"
+  held: true
   photos:
     - "K65-stockpot.jpg"
 
@@ -892,6 +905,7 @@
   blurb: "Toshiba rice cooker, 1.6 litres, with its paddle. Makes properly good rice, which is the only test that matters. US plug."
   free: false
   price: "$25"
+  held: true
   photos:
     - "D09-toshiba-rice-cooker.jpg"
     - "D09-toshiba-rice-cooker-label.jpg"
@@ -903,6 +917,7 @@
   shelf: "Kitchen"
   blurb: "A white pot holding the everyday utensils, a whisk, a metal ladle, a slotted spoon, wooden spoons and a set of blue silicone spatulas and turners. A bamboo wok spatula, still sealed in its packet from The Wok Shop, goes with it."
   free: true
+  held: true
   photos:
     - "K12-utensil-pot.jpg"
 
@@ -946,6 +961,7 @@
   shelf: "Odds & amusements"
   blurb: "A black tray with a hammered finish, the sort that lives by the front door and collects keys. Just the tray."
   free: true
+  held: true
   photos:
     - "E41-catch-all-tray.jpg"
 
@@ -1099,6 +1115,7 @@
   shelf: "Odds & amusements"
   blurb: "A woven bamboo basket with a herringbone weave and a bound rim, ten and a half inches across and the same again tall. About right for hiding a plant pot, or for the pile of things by the door that has never had anywhere to live."
   free: true
+  held: true
   photos:
     - "O24-woven-basket.jpg"
 
@@ -1129,6 +1146,7 @@
   shelf: "Plants & garden"
   blurb: "Six ceramic pots, no two the same: a cream and brown drip glaze with its own saucer, a plain white cylinder, a small ribbed green one, a blue speckled one, a green drip glaze, and a grey ribbed one somebody has already put stickers on. Nicer than the plastic ones."
   free: true
+  held: true
   photos:
     - "D87-ceramic-plant-pots.jpg"
 
@@ -1185,17 +1203,6 @@
     - "D34-plant-stand-empty.jpg"
     - "D34-plant-stand-in-use.jpg"
 
-- id: "D99"
-  slug: "d99-watering-can-black"
-  name: "Watering can, black"
-  qty: "1"
-  shelf: "Plants & garden"
-  blurb: "Black metal watering can with a long swan neck and a wooden handle. Coco has inspected it and found it acceptable."
-  free: true
-  photos:
-    - "D99-watering-can-with-coco.jpg"
-    - "D99-watering-can.jpg"
-
 - id: "C32"
   slug: "c32-321-strong-foam-roller-red"
   name: "321 Strong foam roller, red"
@@ -1204,6 +1211,7 @@
   blurb: "Firm foam roller in red, the standard 321 Strong size at about 12.75 inches long and 5.25 across. For the knots."
   free: false
   price: "$8"
+  held: true
   photos:
     - "C32-foam-roller.jpg"
 
@@ -1251,6 +1259,7 @@
   blurb: "Intex PremAire I, full size and a proper 18 inches off the floor, so a guest gets in and out of it like a real bed instead of rolling off a mat. 54 by 75 inches, rated to 600lb, and the pump is built in, about two and a half minutes from bag to bed. US plug, so it's staying in America."
   free: false
   price: "$25"
+  held: true
   photos:
     - "C14-intex-air-bed-bag.jpg"
     - "C14-intex-pump-label.jpg"
@@ -1306,6 +1315,7 @@
   shelf: "Kitchen"
   blurb: "A cooking apron. Takes up no room in a drawer and you always turn out to need one."
   free: true
+  held: true
 
 - id: "K95"
   slug: "k95-cruzin-kitchen-scissors-unopened"
@@ -1314,6 +1324,7 @@
   shelf: "Kitchen"
   blurb: "Kitchen scissors, still in the pack, with a nutcracker and bottle opener built into the handle."
   free: true
+  held: true
 
 - id: "K26"
   slug: "k26-food-storage-containers"
@@ -1322,6 +1333,7 @@
   shelf: "Kitchen"
   blurb: "A pile of food storage containers, mixed plastic and glass."
   free: true
+  held: true
 
 - id: "K97"
   slug: "k97-glass-tumblers"
@@ -1330,6 +1342,7 @@
   shelf: "Kitchen"
   blurb: "Four glass tumblers."
   free: true
+  held: true
 
 - id: "K53"
   slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
@@ -1338,6 +1351,22 @@
   shelf: "Kitchen"
   blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
   free: true
+  held: true
+
+- id: "K32"
+  slug: "k32-aroma-electric-hotpot-model-asp-610"
+  name: "Aroma electric hotpot, model ASP-610"
+  qty: "1 set"
+  shelf: "Kitchen"
+  blurb: "Aroma electric hot pot, stainless pot with a glass lid on a heating base. US plug, and it draws 1500W. Ten wire mesh strainer ladles go with it."
+  free: false
+  price: "$20"
+  gone: true
+  held: true
+  photos:
+    - "K32-aroma-hotpot.jpg"
+    - "K32-aroma-hotpot-label.jpg"
+    - "K89-cabinet-above-cutting-board.jpg"
 
 - id: "O47"
   slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
@@ -1360,3 +1389,16 @@
   gone: true
   photos:
     - "O27-meri-meri-crackers.jpg"
+
+- id: "D99"
+  slug: "d99-watering-can-black"
+  name: "Watering can, black"
+  qty: "1"
+  shelf: "Plants & garden"
+  blurb: "Black metal watering can with a long swan neck and a wooden handle. Coco has inspected it and found it acceptable."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "D99-watering-can-with-coco.jpg"
+    - "D99-watering-can.jpg"
