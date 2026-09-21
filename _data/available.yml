@@ -824,6 +824,17 @@
   photos:
     - "K74-soup-pot.jpg"
 
+- id: "D65"
+  slug: "d65-spirits-liqueurs-and-bitters"
+  name: "Spirits, liqueurs and bitters"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "Campari, Aperol, a Jose Cuervo Blue Agave and a bottle of prosecco, none of them opened. Then Fernet-Branca and triple sec nearly full, Angostura bitters, and the last inch or two of a Breckenridge gin, a Basil Hayden and a Buffalo Trace. I may get to some of it myself on the day, but whatever is left is yours."
+  free: true
+  held: true
+  photos:
+    - "D65-spirits-on-cabinet.jpg"
+
 - id: "K75"
   slug: "k75-stainless-mixing-bowls-nested-set-of-five"
   name: "Stainless mixing bowls, nested set of five"
@@ -857,16 +868,6 @@
   held: true
   photos:
     - "K65-stockpot.jpg"
-
-- id: "D65"
-  slug: "d65-the-drinks-cupboard"
-  name: "The drinks cupboard"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "Campari, Aperol, a Jose Cuervo Blue Agave and a bottle of prosecco, none of them opened. Then Fernet-Branca and triple sec nearly full, Angostura bitters, and the last inch or two of a Breckenridge gin, a Basil Hayden and a Buffalo Trace. I may get to some of it myself on the day, but whatever is left is yours."
-  free: true
-  photos:
-    - "D65-spirits-on-cabinet.jpg"
 
 - id: "D103"
   slug: "d103-the-dry-store-unsorted"
