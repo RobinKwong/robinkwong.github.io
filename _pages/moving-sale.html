@@ -275,7 +275,7 @@ footer p{max-width:58ch;color:var(--ink-soft)}
 {% assign total = all | size %}
 {% assign taken = gonecount | plus: heldcount %}
 {% assign left = total | minus: taken %}
-{% assign liveitems = all | where_exp:"i","i.gone != true and i.held != true" %}
+{% assign liveitems = all | where_exp:"i","i.gone != true" | where_exp:"i","i.held != true" %}
 {% assign livefree = liveitems | where:"free",true | size %}
 {% comment %}Only report what has gone once a quarter of it has. Two out of a
 hundred and twenty-seven reads as nothing happening.{% endcomment %}
@@ -388,7 +388,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
 {% if initems.size > 0 %}
 <section id="shelf-{{ shelf | slugify }}" class="roomsec" data-room="{{ shelf }}">
   <h2>{{ shelf }}</h2>
-  {% assign inlive = initems | where_exp:"i","i.gone != true and i.held != true" %}<p class="sub">{{ inlive | size }} things.</p>
+  {% assign inlive = initems | where_exp:"i","i.gone != true" | where_exp:"i","i.held != true" %}<p class="sub">{{ inlive | size }} things.</p>
   <div class="grid">
   {% for it in initems %}
     <article class="card item{% if it.gone or it.held %} gone{% endif %}{% if it.held %} held{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.shelf }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}" id="i-{{ it.id }}">
