@@ -621,17 +621,6 @@
   photos:
     - "D42-teapot-and-mugs.jpg"
 
-- id: "K34"
-  slug: "k34-everything-on-the-fridge-door"
-  name: "Everything on the fridge door"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "The small whiteboard with its marker, a DOQAUS digital instant-read thermometer that folds shut like a penknife, and the magnets that hold it all up. Those include an I-heart-Astoria raccoon, a wooden cat sitting in an affogato, an R'lyeh one from Necronomicon Providence, and four small coloured glass cubes."
-  free: true
-  held: true
-  photos:
-    - "K34-fridge-door.jpg"
-
 - id: "K93"
   slug: "k93-flat-grater-and-slicer-set-four-blades-in-a-storage-case"
   name: "Flat grater and slicer set, four blades in a storage case"
@@ -644,6 +633,17 @@
     - "K93-flat-grater-set-case.jpg"
     - "K93-flat-grater-set-blades.jpg"
     - "K93-flat-grater-set-2.jpg"
+
+- id: "K34"
+  slug: "k34-fridge-door-whiteboard-thermometer-and-magnets"
+  name: "Fridge door: whiteboard, thermometer and magnets"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "The small whiteboard with its marker, a DOQAUS digital instant-read thermometer that folds shut like a penknife, and the magnets that hold it all up. Those include an I-heart-Astoria raccoon, a wooden cat sitting in an affogato, an R'lyeh one from Necronomicon Providence, and four small coloured glass cubes. The spice tins on the side of the fridge are their own lot."
+  free: true
+  held: true
+  photos:
+    - "K34-fridge-door.jpg"
 
 - id: "K25"
   slug: "k25-glass-tea-press-with-infuser"
@@ -1122,6 +1122,7 @@
   blurb: "Tool kit in a hard case: claw hammer, pliers, adjustable wrench, combination spanners, socket set, hex keys, screwdrivers, precision drivers and a utility knife. Enough to assemble or dismantle most flat-pack."
   free: false
   price: "$25"
+  held: true
   photos:
     - "O35-tool-kit.jpg"
 
@@ -1253,6 +1254,7 @@
   blurb: "Specialized floor pump with a gauge, a pair of rear-rack panniers in black and ticking stripe, a helmet in turquoise and white, and a full-size bicycle cover in its bag. One lot, for whoever wants the whole setup."
   free: false
   price: "$15"
+  held: true
   photos:
     - "C34-cycling-bundle.jpg"
     - "C04-bike-helmet.jpg"
