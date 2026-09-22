@@ -111,8 +111,22 @@ a.cal{color:var(--price);text-decoration:none;border-bottom:1px solid currentCol
 #filtToggle{padding:.5rem .8rem;font-size:.82rem;flex:0 0 auto}
 #filtToggle.on{background:var(--price);border-color:var(--price);color:var(--paper)}
 @media(min-width:760px){#filtToggle{display:none}}
+#basketBtn{flex:0 0 auto;white-space:nowrap}
 #basketBtn b{background:var(--price);color:#fff;border-radius:999px;
   padding:0 .42rem;margin-left:.3rem;font-size:.8rem}
+/* Empty: keep the pill's space so nothing reflows on the first add, but don't
+   announce a zero — a button labelled 0 reads as a readout, not an action. */
+#basketBtn.empty b{visibility:hidden}
+/* One pulse, the first time something lands in the basket. Its job is to say
+   where the next step lives; after that the label does it permanently, and
+   repeating the animation on every add is a tic. */
+@keyframes bkpop{0%{transform:scale(1)}30%{transform:scale(1.14)}60%{transform:scale(.97)}100%{transform:scale(1)}}
+#basketBtn.pop{animation:bkpop .5s cubic-bezier(.3,1.4,.5,1)}
+@media(prefers-reduced-motion:reduce){#basketBtn.pop{animation:none}}
+/* Below the desktop breakpoint the search has to give way so search, Filter
+   and the basket share one row: that saves a whole row of a sticky bar which
+   was taking a third of a phone screen. */
+@media(max-width:759px){#search{flex:1 1 60px;min-width:0}}
 
 /* ---------- sections ---------- */
 section{padding:1.8rem 0 .5rem}
@@ -325,7 +339,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   <div class="wrap bar-in">
     <input id="search" type="search" placeholder="Search {{ left }} things…" aria-label="Search">
     <button class="btn ghost" id="filtToggle" aria-expanded="true" aria-controls="prices cats">Filter</button>
-    <button class="btn" id="basketBtn">Basket <b id="count">0</b></button>
+    <button class="btn" id="basketBtn"><span id="basketLabel">Basket</span> <b id="count">0</b></button>
     <div class="chips" id="prices">
       
       <button class="chip" aria-pressed="true" data-price="">All</button>
@@ -340,6 +354,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         <option value="">Everything</option>
         {% for s in page.shelves %}<option value="{{ s }}">{{ s }}</option>{% endfor %}
       </select>
+      <button class="chip" id="availChip" aria-pressed="false">Still available</button>
       <span id="shown" aria-live="polite"></span>
     </div>
   </div>
@@ -491,9 +506,26 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
 
   function save(){ try{ localStorage.setItem(KEY,JSON.stringify(basket)); }catch(e){} }
 
+  var labelEl=document.getElementById("basketLabel");
+  var basketBtn=document.getElementById("basketBtn");
+  var POPKEY="rk-moving-sale-popped";
+  var hasPopped=false;
+  try{ hasPopped = localStorage.getItem(POPKEY)==="1"; }catch(e){}
   function paint(){
     var ids=Object.keys(basket);
     countEl.textContent=ids.length;
+    // "Basket" names a container; "Send list" names the next step, which is the
+    // question people were actually asking out loud when they got stuck.
+    if(labelEl) labelEl.textContent = ids.length ? "Send list" : "Basket";
+    basketBtn.classList.toggle("empty", ids.length===0);
+    if(ids.length && !hasPopped){
+      hasPopped=true;
+      try{ localStorage.setItem(POPKEY,"1"); }catch(e){}
+      basketBtn.classList.remove("pop");
+      void basketBtn.offsetWidth;                  // restart the animation
+      basketBtn.classList.add("pop");
+      setTimeout(function(){ basketBtn.classList.remove("pop"); }, 600);
+    }
     adds.forEach(function(b){
       var on=!!basket[b.dataset.id];
       b.textContent=on?"Added ✓":"Add";
@@ -572,7 +604,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   });
 
   // filtering: two independent dimensions — price, and kind
-  var q="", price="", cat="";
+  var q="", price="", cat="", availOnly=false;
   var lotCount=document.querySelectorAll(".roomsec .item:not(.gone)").length;
   function applyFilter(scroll){
     var shown=0;
@@ -594,11 +626,12 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         :  price==="mine" ? !!basket[c.dataset.id]
         :  true);
       var okC = !cat || c.dataset.room===cat;
-      var ok = okQ && okP && okC;
+      var okA = !availOnly || !c.classList.contains("gone");   // .gone covers both collected and spoken for
+      var ok = okQ && okP && okC && okA;
       c.classList.toggle("hidden",!ok);
       if(ok && c.id && !c.classList.contains("gone")) shown++;   // section cards only; featured repeats would double-count
     });
-    var filtering = !!(q||price||cat);
+    var filtering = !!(q||price||cat||availOnly);
     document.querySelectorAll(".roomsec").forEach(function(s){
       var n = s.querySelectorAll(".item:not(.hidden)").length;
       s.classList.toggle("hidden", !n);
@@ -610,7 +643,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
           : sub.dataset.all;
       }
     });
-    filtToggle.classList.toggle("on", !!(price||cat));
+    filtToggle.classList.toggle("on", !!(price||cat||availOnly));
     var sc=document.getElementById("shown");
     if(sc) sc.textContent = filtering ? "Showing "+shown+" of "+lotCount : "";
     document.getElementById("featured").classList.toggle("hidden", !!(q||price||cat));
@@ -681,6 +714,13 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   wireRow("prices","price",function(v){ price=v; });
   document.getElementById("catsel").addEventListener("change",function(e){
     cat=e.target.value; applyFilter(true);
+  });
+  // independent of the price chips, so "Still available" combines with Free, a
+  // category or a search rather than replacing them
+  document.getElementById("availChip").addEventListener("click",function(){
+    availOnly=!availOnly;
+    this.setAttribute("aria-pressed", availOnly?"true":"false");
+    applyFilter(true);
   });
 
   var nags=["Another?","Go on then, another","Another one","Still nothing? Try this",
