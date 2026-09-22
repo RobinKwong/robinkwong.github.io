@@ -221,6 +221,7 @@
   blurb: "Handheld garment steamer with a lint brush attachment. US plug."
   free: false
   price: "$10"
+  held: true
   photos:
     - "B38-garment-steamer-1.jpg"
     - "B38-garment-steamer-2-base-label.jpg"
@@ -1193,6 +1194,7 @@
   blurb: "Low round plant stand in wrought iron with scrolled feet, 12 inches across and about three tall. Sized to lift a large pot just clear of the floor."
   free: false
   price: "$10"
+  held: true
   photos:
     - "D36-round-plant-pot-stand.jpg"
 
