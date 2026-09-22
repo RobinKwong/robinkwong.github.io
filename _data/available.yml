@@ -966,6 +966,17 @@
   photos:
     - "E41-catch-all-tray.jpg"
 
+- id: "C31"
+  slug: "c31-bojack-horseman-costume-horse-head-and-hoodie"
+  name: "BoJack Horseman costume: horse head and hoodie"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Be BoJack. Head and hoodie together, recognisable across a crowded room without saying a word. Worn once. One size, fits a medium. Get your Halloween sorted early."
+  free: false
+  price: "$25"
+  photos:
+    - "C31-bojack-costume.jpg"
+
 - id: "D92"
   slug: "d92-dynatrap-insect-trap-with-spare-glue-cards"
   name: "DynaTrap insect trap with spare glue cards"
