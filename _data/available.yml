@@ -504,6 +504,7 @@
   blurb: "A boxed pair of Bodum for MoMA Chambord glasses, ten fluid ounces each, one with a yellow handle and one green. Double-walled, so a hot drink stays hot and the outside stays cool enough to hold. Unused."
   free: false
   price: "$15"
+  held: true
   photos:
     - "K106-bodum-chambord-glasses.jpg"
 
