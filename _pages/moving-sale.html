@@ -114,9 +114,10 @@ a.cal{color:var(--price);text-decoration:none;border-bottom:1px solid currentCol
 #basketBtn{flex:0 0 auto;white-space:nowrap}
 #basketBtn b{background:var(--price);color:#fff;border-radius:999px;
   padding:0 .42rem;margin-left:.3rem;font-size:.8rem}
-/* Empty: keep the pill's space so nothing reflows on the first add, but don't
-   announce a zero — a button labelled 0 reads as a readout, not an action. */
-#basketBtn.empty b{visibility:hidden}
+/* Empty: no pill at all. A button labelled 0 reads as a readout rather than an
+   action, and reserving the pill's space just leaves a gap — the label changes
+   width on the first add anyway, so there is no reflow to protect. */
+#basketBtn.empty b{display:none}
 /* One pulse, the first time something lands in the basket. Its job is to say
    where the next step lives; after that the label does it permanently, and
    repeating the animation on every add is a tic. */
@@ -143,10 +144,12 @@ h2{font-family:var(--display);font-weight:900;font-size:clamp(1.7rem,4vw,2.6rem)
 
 /* ---------- cards ---------- */
 .card{background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;
-  display:flex;flex-direction:column;transition:transform .13s,box-shadow .13s}
+  display:flex;flex-direction:column;transition:transform .13s,box-shadow .13s,border-color .45s ease}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(33,29,24,.11)}
-.card.picked{box-shadow:0 0 0 4px var(--price);border-color:var(--price)}
+.card.picked{box-shadow:0 0 0 4px var(--price);border-color:var(--price);
+  transition:transform .13s,box-shadow .45s ease,border-color .45s ease}
 .card.picked .body{background:var(--price-bg)}
+.card .body{transition:background .45s ease}
 .shot{aspect-ratio:4/3;background:var(--paper-2);overflow:hidden}
 .shot img{width:100%;height:100%;object-fit:cover}
 .noshot{aspect-ratio:4/3;display:flex;align-items:flex-end;padding:1rem;
@@ -339,7 +342,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   <div class="wrap bar-in">
     <input id="search" type="search" placeholder="Search {{ left }} things…" aria-label="Search">
     <button class="btn ghost" id="filtToggle" aria-expanded="true" aria-controls="prices cats">Filter</button>
-    <button class="btn" id="basketBtn"><span id="basketLabel">Basket</span> <b id="count">0</b></button>
+    <button class="btn" id="basketBtn"><span id="basketLabel">Basket</span><b id="count">0</b></button>
     <div class="chips" id="prices">
       
       <button class="chip" aria-pressed="true" data-price="">All</button>
@@ -589,7 +592,9 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     stopRolling();
     setTimeout(function(){ spotlight(card); }, 230);
   }
+  var pickTimer=null;
   function clearPick(){
+    if(pickTimer){ clearTimeout(pickTimer); pickTimer=null; }
     var c=document.querySelector(".card.picked");
     if(c) c.classList.remove("picked");
   }
@@ -598,6 +603,9 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     setTuck(true);                       // keep the bar small so the card is not buried
     card.scrollIntoView({block:"center"});
     card.classList.add("picked");
+    // long enough to land on and read, then it fades. Without this the outline
+    // sits there until you happen to scroll, which on a trackpad can be never.
+    pickTimer=setTimeout(function(){ card.classList.remove("picked"); pickTimer=null; }, 2600);
   }
   ["wheel","touchstart","keydown"].forEach(function(ev){
     window.addEventListener(ev, clearPick, {passive:true});
