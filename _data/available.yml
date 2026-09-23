@@ -117,6 +117,7 @@
   blurb: "Navy two-wheel cabin case, Pierre Cardin, 14 by 10 inches and 21 inches tall, which is cabin size on most airlines."
   free: false
   price: "$10"
+  held: true
   photos:
     - "C48-pierre-cardin-cabin-case.jpg"
 
@@ -619,6 +620,7 @@
   blurb: "Denby stoneware. A round-bellied teapot with its lid and two mugs in the same glaze, the colour running from near-black at the top through blue down to a speckled white foot. One of the mugs has a small chip on the rim. All three go together."
   free: false
   price: "$20"
+  held: true
   photos:
     - "D42-teapot-and-mugs.jpg"
 
@@ -895,8 +897,9 @@
   name: "The kitchen odds and ends drawer"
   qty: "1 drawer"
   shelf: "Kitchen"
-  blurb: "The odds and ends drawer, holding measuring spoons and cups, a lemon press, small funnels, a milk foamer, a can opener, a bottle opener, rice paddles and the wooden tray they sit in. The actual knives and forks are coming to London with me, so what's here is the gadget half of the drawer."
+  blurb: "The odds and ends drawer, holding measuring spoons and cups, a lemon press, small funnels, a milk foamer, a can opener, a bottle opener, rice paddles and the wooden tray they sit in. The actual knives, forks and spoons are coming to London with me, so what's here is the gadget half of the drawer."
   free: true
+  held: true
   photos:
     - "K17-cutlery-drawer.jpg"
 
@@ -1032,6 +1035,7 @@
   shelf: "Odds & amusements"
   blurb: "An IKEA SKUBB hanging organiser in dark grey, six compartments, 14 by 18 inches and just over four feet tall, hooking over a wardrobe rail on a velcro strap. Three matching SKUBB boxes go with it, the shallow 8 by 15 inch sort that sit in a drawer. IKEA sell the lot for about $23."
   free: true
+  held: true
   photos:
     - "O19-storage-cubes.jpg"
 
