@@ -542,6 +542,7 @@
     - "K18-breville-food-processor.jpg"
     - "K18-breville-label.jpg"
     - "K18-above-fridge-cabinet.jpg"
+    - "D61-breville-accessories.jpg"
     - "D57-drawer-bubble-wrapped.jpg"
 
 - id: "K21"
@@ -978,6 +979,16 @@
   photos:
     - "C31-bojack-costume.jpg"
 
+- id: "L26"
+  slug: "l26-coasters-in-a-wire-holder"
+  name: "Coasters in a wire holder"
+  qty: "1 set"
+  shelf: "Odds & amusements"
+  blurb: "A set of round coasters in a black wire holder, stone-look, pink and grey marbling with copper veining."
+  free: true
+  photos:
+    - "L26-coasters.jpg"
+
 - id: "D92"
   slug: "d92-dynatrap-insect-trap-with-spare-glue-cards"
   name: "DynaTrap insect trap with spare glue cards"
@@ -989,6 +1000,18 @@
   photos:
     - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
+
+- id: "B39"
+  slug: "b39-flexzfitness-lever-weightlifting-belt-medium"
+  name: "FlexzFitness lever weightlifting belt, medium"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Red suede with black edging and a steel lever buckle, medium, and it comes in its own round zip case. Used once or twice. Retails at $69.99."
+  free: false
+  price: "$30"
+  photos:
+    - "B39-weightlifting-belt-2-open.jpg"
+    - "B39-weightlifting-belt-1-case-label.jpg"
 
 - id: "E49"
   slug: "e49-ikea-murvel-shoe-organisers-four"
@@ -1103,6 +1126,16 @@
   photos:
     - "L07-samsung-tv-on.jpg"
     - "L07-samsung-tv.jpg"
+
+- id: "L18"
+  slug: "l18-sofa-cushions-and-a-body-pillow"
+  name: "Sofa cushions and a body pillow"
+  qty: "8 cushions + 1 body pillow"
+  shelf: "Odds & amusements"
+  blurb: "Cushions off the sofa, eight of them, plus one long body pillow. Some geometric in grey, black and sage, one with a cat face on it. Separate from the sectional's own cushions, which stay with the sofa."
+  free: true
+  photos:
+    - "L18-cushions-and-body-pillow.jpg"
 
 - id: "D90"
   slug: "d90-squishy-toys-in-a-pink-box"
