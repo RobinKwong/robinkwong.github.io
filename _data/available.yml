@@ -1435,6 +1435,7 @@
   blurb: "A clear storage box of Magic: the Gathering cards, including some sealed theme decks. About eight pounds of cardboard."
   free: true
   gone: true
+  held: true
   photos:
     - "O47-magic-cards.jpg"
 
