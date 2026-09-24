@@ -1073,6 +1073,16 @@
   photos:
     - "O46-klask.jpg"
 
+- id: "O45"
+  slug: "o45-monitor-riser-in-pale-wood-with-a-cable-slot"
+  name: "Monitor riser in pale wood, with a cable slot"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "A monitor stand in pale wood, with a slot cut through the top to pass cables and two plank legs."
+  free: true
+  photos:
+    - "O45-monitor-riser.jpg"
+
 - id: "L23"
   slug: "l23-nekteck-foot-massager-model-nfm0301gy"
   name: "Nekteck foot massager, model NFM0301GY"
