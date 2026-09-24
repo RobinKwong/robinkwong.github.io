@@ -982,6 +982,17 @@
   photos:
     - "C31-bojack-costume.jpg"
 
+- id: "O30"
+  slug: "o30-clamp-on-desk-extender-shelf-with-scissor-arm"
+  name: "Clamp-on desk extender shelf with scissor arm"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Two thumbscrew C-clamps grip the edge of a desk, and the shelf sits on a height-adjustable scissor arm. Two boards come with it, a plain black one with screw holes and a carbon-effect one. Turned over it works as an under-desk keyboard tray."
+  free: true
+  photos:
+    - "O30-clamp-on-desk-shelf-1.jpg"
+    - "O30-clamp-on-desk-shelf-2.jpg"
+
 - id: "L26"
   slug: "l26-coasters-in-a-wire-holder"
   name: "Coasters in a wire holder"
