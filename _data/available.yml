@@ -1016,6 +1016,18 @@
     - "B39-weightlifting-belt-2-open.jpg"
     - "B39-weightlifting-belt-1-case-label.jpg"
 
+- id: "O07"
+  slug: "o07-genius-gx-2-1-desktop-speakers-with-subwoofer"
+  name: "Genius GX 2.1 desktop speakers with subwoofer"
+  qty: "1 set"
+  shelf: "Odds & amusements"
+  blurb: "Genius GX Gaming SW-G2.1 1250. Two satellites with red cones, a subwoofer, and a wired control pod with volume and bass knobs and headphone and microphone sockets. The subwoofer takes an AUX input and has a microphone out. Working, and all the speaker cables and the power lead come with it."
+  free: true
+  photos:
+    - "O07-speakers-1-set.jpg"
+    - "O07-speakers-2-inputs.jpg"
+    - "O07-speakers-3-label.jpg"
+
 - id: "E49"
   slug: "e49-ikea-murvel-shoe-organisers-four"
   name: "IKEA MURVEL shoe organisers, four"
@@ -1162,6 +1174,17 @@
   held: true
   photos:
     - "O35-tool-kit.jpg"
+
+- id: "O06"
+  slug: "o06-viewsonic-24-inch-monitor-1080p"
+  name: "ViewSonic 24 inch monitor, 1080p"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "ViewSonic VX2453MH-LED, 24 inches, 1920 by 1080, LED backlit. Two HDMI inputs and a VGA, with audio in and a headphone socket. The label on the back dates it to May 2012. Working, and the power lead and an HDMI cable come with it. Thin and light enough to carry under one arm."
+  free: true
+  photos:
+    - "O06-monitor-1-front.jpg"
+    - "O06-monitor-2-back-label.jpg"
 
 - id: "O24"
   slug: "o24-woven-bamboo-basket"
