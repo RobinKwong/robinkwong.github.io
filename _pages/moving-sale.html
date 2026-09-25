@@ -1,7 +1,11 @@
 ---
 layout: null
 permalink: /moving-sale/
-featured: [O22, B49, K33, O27, O47, O12, D34, K14, B35, C61, D42, K60, E35, K93]
+# The first twelve that are still available get rendered; the rest are reserves,
+# so the row does not shrink as things are claimed. featured_max sets the count.
+featured_max: 12
+featured: [K18, K77, C31, L07, O06, O46, L12, O07, B41, E13, O13, K33,
+           E19, O26, E12, O11, C50, D23, C51, O12, B49, K27]
 shelves:
   - Kitchen
   - Plants & garden
@@ -371,6 +375,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
   <h2>Worth the trip</h2>
   <p class="sub">The things I'd be sorry to see go in a skip. Start here.</p>
   <div class="grid big">
+  {% assign shownFeatured = 0 %}
   {% for id in page.featured %}{% assign it = all | where:"id",id | first %}{% if it and it.gone != true and it.held != true %}
     <article class="card item{% if it.gone or it.held %} gone{% endif %}{% if it.held %} held{% endif %}" data-id="{{ it.id }}" data-title="{{ it.name | downcase | escape }} {{ it.id | downcase }}" data-name="{{ it.name | downcase | escape }} {{ it.blurb | downcase | escape }} {{ it.id | downcase }}" data-room="{{ it.room }}" data-free="{{ it.free }}" data-cost="{% if it.free %}0{% else %}{{ it.price | remove: '$' | default: 0 }}{% endif %}">
       {% if it.photos %}
@@ -392,6 +397,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
         </div>
       </div>
     </article>
+  {% assign shownFeatured = shownFeatured | plus: 1 %}{% if shownFeatured >= page.featured_max %}{% break %}{% endif %}
   {% endif %}{% endfor %}
     <button class="wildcard" id="surprise">
       <span class="dice">&#127922;</span>
