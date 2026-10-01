@@ -105,7 +105,7 @@
   shelf: "Bags & luggage"
   blurb: "KROSER laptop backpack in grey, with plenty of pockets. A 16-inch laptop goes in it."
   free: false
-  price: "$12"
+  price: "$10"
   photos:
     - "C29-kroser-backpack.jpg"
 
@@ -128,7 +128,7 @@
   shelf: "Bags & luggage"
   blurb: "Timbuk2 backpack, Yahoo branded, the same size as the other two here, so a 16-inch laptop goes in. Well made, as Timbuk2 usually are."
   free: false
-  price: "$20"
+  price: "$10"
   photos:
     - "C54-yahoo-timbuk2-backpack.jpg"
 
@@ -184,7 +184,7 @@
   shelf: "Cleaning & supplies"
   blurb: "Black+Decker steam iron with a non-stick plate, auto shutoff and spray mist. Original box. US plug."
   free: false
-  price: "$8"
+  price: "$5"
   photos:
     - "B37-iron-1-box.jpg"
     - "B37-iron-2-soleplate-and-label.jpg"
@@ -264,8 +264,7 @@
   qty: "1 set"
   shelf: "Cleaning & supplies"
   blurb: "The O-Cedar spin mop with its bucket, wringer pedal and an unopened spare head. The design that actually wrings properly rather than the ones that just drip."
-  free: false
-  price: "$8"
+  free: true
   photos:
     - "H05-spin-mop.jpg"
     - "K60-tall-cabinet-bottom.jpg"
@@ -277,7 +276,7 @@
   shelf: "Cleaning & supplies"
   blurb: "OXO Good Grips sweep set: full-size broom head, extendable pole and a matching dustpan."
   free: false
-  price: "$12"
+  price: "$10"
   photos:
     - "K60-oxo-sweep-set.jpg"
 
@@ -288,7 +287,7 @@
   shelf: "Cleaning & supplies"
   blurb: "A Roborock Q5 with its dock. Maps the place with a laser turret, does the floors, occasionally gets itself stuck under something low. Four years old and well used. US plug."
   free: false
-  price: "$55"
+  price: "$30"
   photos:
     - "E13-roborock.jpg"
 
@@ -299,7 +298,7 @@
   shelf: "Cleaning & supplies"
   blurb: "Shark Navigator Lift-Away Deluxe, with the crevice tool, dusting brush and pet attachment. The canister lifts off the body so you can carry it up stairs and round a sofa properly. US motor, so it stays in America. Available on the second Saturday only, since I need it for packing until then."
   free: false
-  price: "$45"
+  price: "$30"
   photos:
     - "E12-shark-vacuum.jpg"
     - "E12-shark-vacuum-canister.jpg"
@@ -367,7 +366,7 @@
   shelf: "Furniture & lamps"
   blurb: "Six IKEA FROSVI folding chairs in black, each with a grey tie-on cushion. They fold to three inches thick, which is the entire point of them, so all six stack into a single bundle about 35 inches long and 18 deep that fits in a car. Around 38lb for the set. IKEA sell them at $35 each."
   free: false
-  price: "$55"
+  price: "$30"
   photos:
     - "E19-folding-chairs-stacked.jpg"
     - "E19-folding-chair.jpg"
@@ -457,7 +456,7 @@
   shelf: "Furniture & lamps"
   blurb: "Proper leaded stained glass, not a printed shade, about 23 inches tall with a 16 inch shade. Red roses over amber and green with glass cabochons set into the border, on a dark bronze base. It throws lovely colour when lit, and takes an ordinary flame-tip screw-in bulb. I'd have taken it with me if it were less fragile."
   free: false
-  price: "$60"
+  price: "$30"
   photos:
     - "L12-tiffany-lamp-lit.jpg"
 
@@ -526,8 +525,7 @@
   qty: "1"
   shelf: "Kitchen"
   blurb: "Braun filter coffee maker, 12 cup, with its glass carafe. US plug."
-  free: false
-  price: "$15"
+  free: true
   photos:
     - "D07-braun-coffee-maker.jpg"
 
@@ -538,7 +536,7 @@
   shelf: "Kitchen"
   blurb: "Breville Sous Chef, 12 cup, model BFP660. A serious processor that retailed around 400 dollars, with its accessories. US plug."
   free: false
-  price: "$130"
+  price: "$50"
   photos:
     - "K18-breville-food-processor.jpg"
     - "K18-breville-label.jpg"
@@ -800,7 +798,7 @@
   shelf: "Kitchen"
   blurb: "PowerXL Vortex air fryer, three quarts and 1200 watts, which is the size that does chips for two people rather than a family. US plug."
   free: false
-  price: "$25"
+  price: "$10"
   photos:
     - "D08-powerxl-air-fryer.jpg"
 
@@ -978,7 +976,7 @@
   shelf: "Odds & amusements"
   blurb: "Be BoJack. Head and hoodie together, recognisable across a crowded room without saying a word. Worn once. One size, fits a medium. Get your Halloween sorted early."
   free: false
-  price: "$25"
+  price: "$10"
   photos:
     - "C31-bojack-costume.jpg"
 
@@ -1022,7 +1020,7 @@
   shelf: "Odds & amusements"
   blurb: "Red suede with black edging and a steel lever buckle, medium, and it comes in its own round zip case. Used once or twice. Retails at $69.99."
   free: false
-  price: "$30"
+  price: "$20"
   photos:
     - "B39-weightlifting-belt-2-open.jpg"
     - "B39-weightlifting-belt-1-case-label.jpg"
@@ -1090,7 +1088,7 @@
   shelf: "Odds & amusements"
   blurb: "Nekteck foot massager. Kneading rollers and heat. Runs on 100 to 240 volts, so it works anywhere."
   free: false
-  price: "$30"
+  price: "$20"
   photos:
     - "L23-foot-massager.jpg"
     - "L23-foot-massager-label.jpg"
@@ -1125,7 +1123,7 @@
   shelf: "Odds & amusements"
   blurb: "A full Pickle Rick, hood and body, in stretchy green jersey with the face printed on. One size, packs down to nothing, and Halloween is three weeks after the second open house."
   free: false
-  price: "$15"
+  price: "$10"
   photos:
     - "B41-pickle-rick-costume.jpg"
     - "B41-pickle-rick-costume-hood.jpg"
@@ -1159,7 +1157,7 @@
   shelf: "Odds & amusements"
   blurb: "Samsung 48 inch flat screen with its remote, and the Amazon Fire TV box plugged into it, which is what you can see running in the photograph. Takes two people to carry comfortably."
   free: false
-  price: "$85"
+  price: "$50"
   photos:
     - "L07-samsung-tv-on.jpg"
     - "L07-samsung-tv.jpg"
@@ -1299,7 +1297,7 @@
   shelf: "Plants & garden"
   blurb: "Three-tier plant stand in black metal, trays at staggered heights with a handle at the back. 23 and a half inches tall on a 15 inch base, so it gets three plants into the floor space of one. Looks good with something on each level."
   free: false
-  price: "$20"
+  price: "$10"
   photos:
     - "D34-plant-stand-empty.jpg"
     - "D34-plant-stand-in-use.jpg"
@@ -1373,8 +1371,7 @@
   qty: "2"
   shelf: "Sport & bikes"
   blurb: "Two neoprene-coated one-pounders in magenta. Light, grippy, and they don't roll off."
-  free: false
-  price: "$3"
+  free: true
   photos:
     - "L24-hand-weights.jpg"
 
@@ -1384,8 +1381,7 @@
   qty: "1"
   shelf: "Sport & bikes"
   blurb: "Thick rolled exercise mat with a carry strap, Reehut's half-inch one at 71 by 24 inches. The comfortable kind, good for floor work."
-  free: false
-  price: "$10"
+  free: true
   photos:
     - "C25-reehut-foam-mat.jpg"
 
@@ -1396,7 +1392,7 @@
   shelf: "Sport & bikes"
   blurb: "Two 30lb dumbbells, about 27kg of iron between them. Bring a bag with handles."
   free: false
-  price: "$55"
+  price: "$20"
   photos:
     - "L29-30lb-dumbbells.jpg"
 
@@ -1407,7 +1403,7 @@
   shelf: "Sport & bikes"
   blurb: "A 10kg slam ball. Dead weight with no bounce, so it's made to be thrown at the ground. Scuffed on the surface from being used exactly that way."
   free: false
-  price: "$15"
+  price: "$10"
   photos:
     - "L31-slam-ball.jpg"
 
