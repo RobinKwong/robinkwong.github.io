@@ -42,6 +42,7 @@
   shelf: "Art, frames & vases"
   blurb: "A matching pair of large glass storage jars with domed glass lids, each seven inches across and ten inches tall. Only one is pictured, but they go together."
   free: true
+  held: true
   photos:
     - "B56-glass-storage-jar.jpg"
     - "D62-lower-glass-cabinet.jpg"
@@ -244,6 +245,7 @@
   shelf: "Cleaning & supplies"
   blurb: "Thirteen LED bulbs, all screw fitting. Eight 11-watt warm white ones that stand in for a 65-watt bulb, and five spares for recessed ceiling lights."
   free: true
+  held: true
   photos:
     - "C21-bulb-stash.jpg"
 
@@ -998,6 +1000,7 @@
   shelf: "Odds & amusements"
   blurb: "A set of round coasters in a black wire holder, stone-look, pink and grey marbling with copper veining."
   free: true
+  held: true
   photos:
     - "L26-coasters.jpg"
 
@@ -1255,6 +1258,7 @@
   shelf: "Plants & garden"
   blurb: "Six full-spectrum LED grow light bulbs, each still in its bag, with the manual. Eleven watts, 1000 lumens, and an ordinary screw fitting, so they go into a lamp you already own and turn it into a plant light."
   free: true
+  held: true
   photos:
     - "C65-grow-lights.jpg"
 
