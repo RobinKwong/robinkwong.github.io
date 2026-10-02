@@ -186,9 +186,9 @@
   free: false
   price: "$5"
   photos:
+    - "B37-iron-3-with-box.jpg"
     - "B37-iron-1-box.jpg"
     - "B37-iron-2-soleplate-and-label.jpg"
-    - "B37-iron-3-with-box.jpg"
 
 - id: "K45"
   slug: "k45-cleaning-cupboard-lot-soap-sponges-bags-and-detergents"
@@ -368,8 +368,8 @@
   free: false
   price: "$30"
   photos:
-    - "E19-folding-chairs-stacked.jpg"
     - "E19-folding-chair.jpg"
+    - "E19-folding-chairs-stacked.jpg"
 
 - id: "B06"
   slug: "b06-dark-wood-two-drawer-nightstand"
@@ -631,8 +631,8 @@
   free: false
   price: "$5"
   photos:
-    - "K93-flat-grater-set-case.jpg"
     - "K93-flat-grater-set-blades.jpg"
+    - "K93-flat-grater-set-case.jpg"
     - "K93-flat-grater-set-2.jpg"
 
 - id: "K34"
@@ -1010,8 +1010,8 @@
   free: false
   price: "$15"
   photos:
-    - "D92-dynatrap.jpg"
     - "D92-dynatrap-plug-and-label.jpg"
+    - "D92-dynatrap.jpg"
 
 - id: "B39"
   slug: "b39-flexzfitness-lever-weightlifting-belt-medium"
