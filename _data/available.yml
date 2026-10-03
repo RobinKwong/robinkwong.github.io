@@ -1367,18 +1367,6 @@
   photos:
     - "C25-reehut-foam-mat.jpg"
 
-- id: "L29"
-  slug: "l29-thirty-pound-dumbbells"
-  name: "Thirty pound dumbbells"
-  qty: "2"
-  shelf: "Sport & bikes"
-  blurb: "Two 30lb dumbbells, about 27kg of iron between them. Bring a bag with handles."
-  free: false
-  price: "$20"
-  held: true
-  photos:
-    - "L29-30lb-dumbbells.jpg"
-
 - id: "L31"
   slug: "l31-valhalla-fitness-slam-ball-10kg"
   name: "Valhalla Fitness slam ball, 10kg"
@@ -1529,3 +1517,16 @@
   photos:
     - "D99-watering-can-with-coco.jpg"
     - "D99-watering-can.jpg"
+
+- id: "L29"
+  slug: "l29-thirty-pound-dumbbells"
+  name: "Thirty pound dumbbells"
+  qty: "2"
+  shelf: "Sport & bikes"
+  blurb: "Two 30lb dumbbells, about 27kg of iron between them. Bring a bag with handles."
+  free: false
+  price: "$20"
+  gone: true
+  held: true
+  photos:
+    - "L29-30lb-dumbbells.jpg"
