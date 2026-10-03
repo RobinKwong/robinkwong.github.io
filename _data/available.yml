@@ -1107,6 +1107,7 @@
   shelf: "Plants & garden"
   blurb: "Everything needed to pot things up, which is three bags of potting mix and one of perlite, a stack of black nursery pots with saucers, Miracle-Gro plant food, RootBoost rooting hormone, Mosquito Bits for fungus gnats, organic wheatgrass seed, a trowel, a misting bottle and two pairs of gloves."
   free: true
+  held: true
   photos:
     - "C17-gardening-lot.jpg"
 
