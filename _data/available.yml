@@ -439,18 +439,6 @@
   photos:
     - "D06-microwave.jpg"
 
-- id: "K106"
-  slug: "k106-bodum-for-moma-chambord-glasses-a-pair"
-  name: "Bodum for MoMA Chambord glasses, a pair"
-  qty: "2"
-  shelf: "Kitchen"
-  blurb: "A boxed pair of Bodum for MoMA Chambord glasses, ten fluid ounces each, one with a yellow handle and one green. Double-walled, so a hot drink stays hot and the outside stays cool enough to hold. Unused."
-  free: false
-  price: "$15"
-  held: true
-  photos:
-    - "K106-bodum-chambord-glasses.jpg"
-
 - id: "K14"
   slug: "k14-bowls-and-plates"
   name: "Bowls and plates"
@@ -947,17 +935,6 @@
   photos:
     - "O19-storage-cubes.jpg"
 
-- id: "O46"
-  slug: "o46-klask"
-  name: "Klask"
-  qty: "1"
-  shelf: "Odds & amusements"
-  blurb: "Klask, the magnetic table game where you fish for your opponent's handle. Very good with a drink in hand. I'm only selling it because there's already a copy waiting in London."
-  free: false
-  price: "$20"
-  photos:
-    - "O46-klask.jpg"
-
 - id: "O45"
   slug: "o45-monitor-riser-in-pale-wood-with-a-cable-slot"
   name: "Monitor riser in pale wood, with a cable slot"
@@ -1383,6 +1360,19 @@
     - "K32-aroma-hotpot-label.jpg"
     - "K89-cabinet-above-cutting-board.jpg"
 
+- id: "K106"
+  slug: "k106-bodum-for-moma-chambord-glasses-a-pair"
+  name: "Bodum for MoMA Chambord glasses, a pair"
+  qty: "2"
+  shelf: "Kitchen"
+  blurb: "A boxed pair of Bodum for MoMA Chambord glasses, ten fluid ounces each, one with a yellow handle and one green. Double-walled, so a hot drink stays hot and the outside stays cool enough to hold. Unused."
+  free: false
+  price: "$15"
+  gone: true
+  held: true
+  photos:
+    - "K106-bodum-chambord-glasses.jpg"
+
 - id: "K80"
   slug: "k80-colander-and-straining-kit"
   name: "Colander and straining kit"
@@ -1456,6 +1446,19 @@
   held: true
   photos:
     - "K65-stockpot.jpg"
+
+- id: "O46"
+  slug: "o46-klask"
+  name: "Klask"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Klask, the magnetic table game where you fish for your opponent's handle. Very good with a drink in hand. I'm only selling it because there's already a copy waiting in London."
+  free: false
+  price: "$20"
+  gone: true
+  held: true
+  photos:
+    - "O46-klask.jpg"
 
 - id: "O47"
   slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
