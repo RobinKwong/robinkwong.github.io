@@ -1243,15 +1243,6 @@
   free: true
   held: true
 
-- id: "K95"
-  slug: "k95-cruzin-kitchen-scissors-unopened"
-  name: "Cruzin kitchen scissors, unopened"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Kitchen scissors, still in the pack, with a nutcracker and bottle opener built into the handle."
-  free: true
-  held: true
-
 - id: "K26"
   slug: "k26-food-storage-containers"
   name: "Food storage containers"
@@ -1267,15 +1258,6 @@
   qty: "4"
   shelf: "Kitchen"
   blurb: "Four glass tumblers."
-  free: true
-  held: true
-
-- id: "K53"
-  slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
-  name: "Kitchen wrap and bags, the whole drawer"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
   free: true
   held: true
 
@@ -1547,3 +1529,23 @@
   held: true
   photos:
     - "L31-slam-ball.jpg"
+
+- id: "K95"
+  slug: "k95-cruzin-kitchen-scissors-unopened"
+  name: "Cruzin kitchen scissors, unopened"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "Kitchen scissors, still in the pack, with a nutcracker and bottle opener built into the handle."
+  free: true
+  gone: true
+  held: true
+
+- id: "K53"
+  slug: "k53-kitchen-wrap-and-bags-the-whole-drawer"
+  name: "Kitchen wrap and bags, the whole drawer"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "An unopened roll of heavy duty foil, three unopened rolls of Press'n Seal, a part roll of baking parchment, and four boxes of Ziploc bags in gallon and quart, one sealed and three opened."
+  free: true
+  gone: true
+  held: true
