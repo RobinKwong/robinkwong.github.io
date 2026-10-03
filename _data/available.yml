@@ -1367,17 +1367,6 @@
   photos:
     - "C25-reehut-foam-mat.jpg"
 
-- id: "L31"
-  slug: "l31-valhalla-fitness-slam-ball-10kg"
-  name: "Valhalla Fitness slam ball, 10kg"
-  qty: "1"
-  shelf: "Sport & bikes"
-  blurb: "A 10kg slam ball. Dead weight with no bounce, so it's made to be thrown at the ground. Scuffed on the surface from being used exactly that way."
-  free: false
-  price: "$10"
-  photos:
-    - "L31-slam-ball.jpg"
-
 - id: "BA13"
   slug: "ba13-conair-1875-hair-dryer"
   name: "Conair 1875 hair dryer"
@@ -1530,3 +1519,16 @@
   held: true
   photos:
     - "L29-30lb-dumbbells.jpg"
+
+- id: "L31"
+  slug: "l31-valhalla-fitness-slam-ball-10kg"
+  name: "Valhalla Fitness slam ball, 10kg"
+  qty: "1"
+  shelf: "Sport & bikes"
+  blurb: "A 10kg slam ball. Dead weight with no bounce, so it's made to be thrown at the ground. Scuffed on the surface from being used exactly that way."
+  free: false
+  price: "$10"
+  gone: true
+  held: true
+  photos:
+    - "L31-slam-ball.jpg"
