@@ -1016,6 +1016,17 @@
     - "D92-dynatrap-plug-and-label.jpg"
     - "D92-dynatrap.jpg"
 
+- id: "O34"
+  slug: "o34-enertwist-cordless-screwdriver-with-a-60-piece-bit-set"
+  name: "Enertwist cordless screwdriver with a 60-piece bit set"
+  qty: "1"
+  shelf: "Odds & amusements"
+  blurb: "Cordless screwdriver in a moulded case with about sixty bits, a flexible extension and its mains charger. The thing you actually reach for when a flatpack arrives. Rechargeable, so it works away from a socket."
+  free: false
+  price: "$10"
+  photos:
+    - "O34-cordless-screwdriver-set.jpg"
+
 - id: "B39"
   slug: "b39-flexzfitness-lever-weightlifting-belt-medium"
   name: "FlexzFitness lever weightlifting belt, medium"
