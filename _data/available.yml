@@ -12,29 +12,6 @@
   photos:
     - "E03-ceramic-vases-pair.jpg"
 
-- id: "C11"
-  slug: "c11-empty-picture-frames-thirteen"
-  name: "Empty picture frames, thirteen"
-  qty: "13"
-  shelf: "Art, frames & vases"
-  blurb: "Thirteen empty frames, all new. Eleven white ones, mostly 8 by 10 inches with mounts and still shrink-wrapped, plus two black 8 by 12 frames in bubble wrap."
-  free: false
-  price: "$30"
-  held: true
-  photos:
-    - "C11-empty-white-frames.jpg"
-
-- id: "E39"
-  slug: "e39-glass-vase"
-  name: "Glass vase"
-  qty: "1"
-  shelf: "Art, frames & vases"
-  blurb: "A plain glass vase, for when somebody turns up holding flowers and you discover you don't have one."
-  free: true
-  held: true
-  photos:
-    - "E39-glass-vase.jpg"
-
 - id: "B56"
   slug: "b56-large-glass-jars-with-lidded-covers"
   name: "Large glass jars with lidded covers"
@@ -178,19 +155,6 @@
     - "D67-diffuser-sticks.jpg"
     - "D67-reed-diffuser.jpg"
 
-- id: "B37"
-  slug: "b37-black-decker-light-n-easy-steam-iron-model-ir1010"
-  name: "Black+Decker Light 'N Easy steam iron, model IR1010"
-  qty: "1"
-  shelf: "Cleaning & supplies"
-  blurb: "Black+Decker steam iron with a non-stick plate, auto shutoff and spray mist. Original box. US plug."
-  free: false
-  price: "$5"
-  photos:
-    - "B37-iron-3-with-box.jpg"
-    - "B37-iron-1-box.jpg"
-    - "B37-iron-2-soleplate-and-label.jpg"
-
 - id: "K45"
   slug: "k45-cleaning-cupboard-lot-soap-sponges-bags-and-detergents"
   name: "Cleaning cupboard lot: soap, sponges, bags and detergents"
@@ -304,17 +268,6 @@
   photos:
     - "E12-shark-vacuum.jpg"
     - "E12-shark-vacuum-canister.jpg"
-
-- id: "B21"
-  slug: "b21-tabletop-ironing-board"
-  name: "Tabletop ironing board"
-  qty: "1"
-  shelf: "Cleaning & supplies"
-  blurb: "A tabletop board rather than a full-size one, so it stands on a table or counter and folds flat for a cupboard. Blue and white ticking cover with a few marks on it."
-  free: true
-  photos:
-    - "B21-ironing-board.jpg"
-    - "B21-ironing-board-folded.jpg"
 
 - id: "C08"
   slug: "c08-toilet-roll-three-unopened-packs"
@@ -462,18 +415,6 @@
   photos:
     - "L12-tiffany-lamp-lit.jpg"
 
-- id: "O22"
-  slug: "o22-triceratops-beanbag-chair"
-  name: "Triceratops beanbag chair"
-  qty: "1"
-  shelf: "Furniture & lamps"
-  blurb: "A triceratops beanbag chair in green, with horns, a frill and a ridged spine down the back. Sit on it as a chair or lie on it as a dinosaur."
-  free: false
-  price: "$15"
-  held: true
-  photos:
-    - "O22-triceratops-beanbag.jpg"
-
 - id: "K10"
   slug: "k10-bamboo-knife-block-with-knives-and-blade-tools"
   name: "Bamboo knife block with knives and blade tools"
@@ -589,17 +530,6 @@
   held: true
   photos:
     - "K22-cocktail-kit.jpg"
-
-- id: "K105"
-  slug: "k105-creme-brulee-dishes-a-pair"
-  name: "Creme brulee dishes, a pair"
-  qty: "2"
-  shelf: "Kitchen"
-  blurb: "Two black ceramic creme brulee dishes with fluted sides, wide and shallow, which is the shape that gives the biggest sugar crust."
-  free: true
-  held: true
-  photos:
-    - "K105-creme-brulee-dishes.jpg"
 
 - id: "D42"
   slug: "d42-denby-teapot-and-two-matching-mugs"
@@ -738,18 +668,6 @@
   photos:
     - "D51-nutribullet.jpg"
 
-- id: "K24"
-  slug: "k24-oxo-fat-separator-4-cup"
-  name: "OXO fat separator, 4 cup"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "OXO fat separator, 4 cup, with a bottom-pour spout. The thing that makes gravy worth making."
-  free: true
-  held: true
-  photos:
-    - "K24-oxo-fat-separator.jpg"
-    - "K14-crockery-cabinet.jpg"
-
 - id: "K77"
   slug: "k77-our-place-always-pan-blue-with-lid-and-spatula"
   name: "Our Place Always Pan, blue, with lid and spatula"
@@ -836,18 +754,6 @@
   held: true
   photos:
     - "K76-steaming-rack-and-inserts.jpg"
-
-- id: "K65"
-  slug: "k65-stockpot-23-quart-stainless"
-  name: "Stockpot, 23 quart, stainless"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "23 quart stainless stockpot, 13 inches across and 12 inches tall. Big enough for a lobster, or for an unwise quantity of soup."
-  free: false
-  price: "$25"
-  held: true
-  photos:
-    - "K65-stockpot.jpg"
 
 - id: "D103"
   slug: "d103-the-dry-store-unsorted"
@@ -1074,18 +980,6 @@
     - "L23-foot-massager.jpg"
     - "L23-foot-massager-label.jpg"
 
-- id: "D95"
-  slug: "d95-notebooks-three-unused"
-  name: "Notebooks, three unused"
-  qty: "3"
-  shelf: "Odds & amusements"
-  blurb: "Three notebooks, all unused. A Leuchtturm1917 in copper, still shrink-wrapped, A5 with 251 numbered pages and a Financial Times logo embossed on the cover. A Kokuyo Campus with a Spy x Family cover and 30 ruled sheets. And a black JSM folio with a strap closure and a ribbon marker."
-  free: true
-  held: true
-  photos:
-    - "D95-notebooks.jpg"
-    - "D95-leuchtturm.jpg"
-
 - id: "O20"
   slug: "o20-party-balloons-120-of-them"
   name: "Party balloons, 120 of them"
@@ -1284,18 +1178,6 @@
     - "D34-plant-stand-empty.jpg"
     - "D34-plant-stand-in-use.jpg"
 
-- id: "C32"
-  slug: "c32-321-strong-foam-roller-red"
-  name: "321 Strong foam roller, red"
-  qty: "1"
-  shelf: "Sport & bikes"
-  blurb: "Firm foam roller in red, the standard 321 Strong size at about 12.75 inches long and 5.25 across. For the knots."
-  free: false
-  price: "$8"
-  held: true
-  photos:
-    - "C32-foam-roller.jpg"
-
 - id: "C05"
   slug: "c05-camping-chair-purple-in-its-carry-bag"
   name: "Camping chair, purple, in its carry bag"
@@ -1420,6 +1302,72 @@
   free: true
   held: true
 
+- id: "C11"
+  slug: "c11-empty-picture-frames-thirteen"
+  name: "Empty picture frames, thirteen"
+  qty: "13"
+  shelf: "Art, frames & vases"
+  blurb: "Thirteen empty frames, all new. Eleven white ones, mostly 8 by 10 inches with mounts and still shrink-wrapped, plus two black 8 by 12 frames in bubble wrap."
+  free: false
+  price: "$30"
+  gone: true
+  held: true
+  photos:
+    - "C11-empty-white-frames.jpg"
+
+- id: "E39"
+  slug: "e39-glass-vase"
+  name: "Glass vase"
+  qty: "1"
+  shelf: "Art, frames & vases"
+  blurb: "A plain glass vase, for when somebody turns up holding flowers and you discover you don't have one."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "E39-glass-vase.jpg"
+
+- id: "B37"
+  slug: "b37-black-decker-light-n-easy-steam-iron-model-ir1010"
+  name: "Black+Decker Light 'N Easy steam iron, model IR1010"
+  qty: "1"
+  shelf: "Cleaning & supplies"
+  blurb: "Black+Decker steam iron with a non-stick plate, auto shutoff and spray mist. Original box. US plug."
+  free: false
+  price: "$5"
+  gone: true
+  held: true
+  photos:
+    - "B37-iron-3-with-box.jpg"
+    - "B37-iron-1-box.jpg"
+    - "B37-iron-2-soleplate-and-label.jpg"
+
+- id: "B21"
+  slug: "b21-tabletop-ironing-board"
+  name: "Tabletop ironing board"
+  qty: "1"
+  shelf: "Cleaning & supplies"
+  blurb: "A tabletop board rather than a full-size one, so it stands on a table or counter and folds flat for a cupboard. Blue and white ticking cover with a few marks on it."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "B21-ironing-board.jpg"
+    - "B21-ironing-board-folded.jpg"
+
+- id: "O22"
+  slug: "o22-triceratops-beanbag-chair"
+  name: "Triceratops beanbag chair"
+  qty: "1"
+  shelf: "Furniture & lamps"
+  blurb: "A triceratops beanbag chair in green, with horns, a frill and a ridged spine down the back. Sit on it as a chair or lie on it as a dinosaur."
+  free: false
+  price: "$15"
+  gone: true
+  held: true
+  photos:
+    - "O22-triceratops-beanbag.jpg"
+
 - id: "K32"
   slug: "k32-aroma-electric-hotpot-model-asp-610"
   name: "Aroma electric hotpot, model ASP-610"
@@ -1447,6 +1395,18 @@
   photos:
     - "K80-colander-and-strainers.jpg"
 
+- id: "K105"
+  slug: "k105-creme-brulee-dishes-a-pair"
+  name: "Creme brulee dishes, a pair"
+  qty: "2"
+  shelf: "Kitchen"
+  blurb: "Two black ceramic creme brulee dishes with fluted sides, wide and shallow, which is the shape that gives the biggest sugar crust."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "K105-creme-brulee-dishes.jpg"
+
 - id: "K64"
   slug: "k64-ice-bucket-metallic"
   name: "Ice bucket, metallic"
@@ -1471,6 +1431,32 @@
   photos:
     - "E37-mason-jars.jpg"
 
+- id: "K24"
+  slug: "k24-oxo-fat-separator-4-cup"
+  name: "OXO fat separator, 4 cup"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "OXO fat separator, 4 cup, with a bottom-pour spout. The thing that makes gravy worth making."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "K24-oxo-fat-separator.jpg"
+    - "K14-crockery-cabinet.jpg"
+
+- id: "K65"
+  slug: "k65-stockpot-23-quart-stainless"
+  name: "Stockpot, 23 quart, stainless"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "23 quart stainless stockpot, 13 inches across and 12 inches tall. Big enough for a lobster, or for an unwise quantity of soup."
+  free: false
+  price: "$25"
+  gone: true
+  held: true
+  photos:
+    - "K65-stockpot.jpg"
+
 - id: "O47"
   slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
   name: "Magic: the Gathering cards in a clear storage box"
@@ -1494,6 +1480,19 @@
   photos:
     - "O27-meri-meri-crackers.jpg"
 
+- id: "D95"
+  slug: "d95-notebooks-three-unused"
+  name: "Notebooks, three unused"
+  qty: "3"
+  shelf: "Odds & amusements"
+  blurb: "Three notebooks, all unused. A Leuchtturm1917 in copper, still shrink-wrapped, A5 with 251 numbered pages and a Financial Times logo embossed on the cover. A Kokuyo Campus with a Spy x Family cover and 30 ruled sheets. And a black JSM folio with a strap closure and a ribbon marker."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "D95-notebooks.jpg"
+    - "D95-leuchtturm.jpg"
+
 - id: "D99"
   slug: "d99-watering-can-black"
   name: "Watering can, black"
@@ -1506,6 +1505,19 @@
   photos:
     - "D99-watering-can-with-coco.jpg"
     - "D99-watering-can.jpg"
+
+- id: "C32"
+  slug: "c32-321-strong-foam-roller-red"
+  name: "321 Strong foam roller, red"
+  qty: "1"
+  shelf: "Sport & bikes"
+  blurb: "Firm foam roller in red, the standard 321 Strong size at about 12.75 inches long and 5.25 across. For the knots."
+  free: false
+  price: "$8"
+  gone: true
+  held: true
+  photos:
+    - "C32-foam-roller.jpg"
 
 - id: "L29"
   slug: "l29-thirty-pound-dumbbells"
