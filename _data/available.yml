@@ -76,17 +76,6 @@
   photos:
     - "C62-grey-backpack.jpg"
 
-- id: "C29"
-  slug: "c29-kroser-grey-backpack"
-  name: "KROSER grey backpack"
-  qty: "1"
-  shelf: "Bags & luggage"
-  blurb: "KROSER laptop backpack in grey, with plenty of pockets. A 16-inch laptop goes in it."
-  free: false
-  price: "$10"
-  photos:
-    - "C29-kroser-backpack.jpg"
-
 - id: "C48"
   slug: "c48-pierre-cardin-cabin-case-navy-two-wheel"
   name: "Pierre Cardin cabin case, navy, two-wheel"
@@ -1285,6 +1274,18 @@
   held: true
   photos:
     - "E39-glass-vase.jpg"
+
+- id: "C29"
+  slug: "c29-kroser-grey-backpack"
+  name: "KROSER grey backpack"
+  qty: "1"
+  shelf: "Bags & luggage"
+  blurb: "KROSER laptop backpack in grey, with plenty of pockets. A 16-inch laptop goes in it."
+  free: false
+  price: "$10"
+  gone: true
+  photos:
+    - "C29-kroser-backpack.jpg"
 
 - id: "B37"
   slug: "b37-black-decker-light-n-easy-steam-iron-model-ir1010"
