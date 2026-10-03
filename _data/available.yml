@@ -1422,6 +1422,14 @@
   photos:
     - "L31-slam-ball.jpg"
 
+- id: "BA13"
+  slug: "ba13-conair-1875-hair-dryer"
+  name: "Conair 1875 hair dryer"
+  qty: "1"
+  shelf: "Bathroom"
+  blurb: "Conair 1875W hair dryer in blue. Works fine. The only hair dryer in the flat, so it goes rather than travels."
+  free: true
+
 - id: "K62"
   slug: "k62-cooking-apron"
   name: "Cooking apron"
