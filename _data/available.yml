@@ -590,17 +590,6 @@
   photos:
     - "K22-cocktail-kit.jpg"
 
-- id: "K80"
-  slug: "k80-colander-and-straining-kit"
-  name: "Colander and straining kit"
-  qty: "1 lot"
-  shelf: "Kitchen"
-  blurb: "A white plastic colander, a fine mesh sieve, a long-handled mesh scoop for lifting noodles straight out of the pot, and the wooden-handled clamp that gets a hot dish out of a steamer without you burning your fingers."
-  free: true
-  held: true
-  photos:
-    - "K80-colander-and-strainers.jpg"
-
 - id: "K105"
   slug: "k105-creme-brulee-dishes-a-pair"
   name: "Creme brulee dishes, a pair"
@@ -659,17 +648,6 @@
   photos:
     - "K25-glass-tea-press.jpg"
 
-- id: "K64"
-  slug: "k64-ice-bucket-metallic"
-  name: "Ice bucket, metallic"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Metallic ice bucket, 9 inches across and 10 inches tall, so a wine bottle sits in it with room for ice round the sides."
-  free: true
-  held: true
-  photos:
-    - "K64-ice-bucket.jpg"
-
 - id: "K61"
   slug: "k61-kitchenaid-oven-mitts-long-cuffed"
   name: "KitchenAid oven mitts, long-cuffed"
@@ -712,17 +690,6 @@
   price: "$15"
   photos:
     - "K33-spice-tins.jpg"
-
-- id: "E37"
-  slug: "e37-mason-jars"
-  name: "Mason jars"
-  qty: "4"
-  shelf: "Kitchen"
-  blurb: "Four Ball wide-mouth quart jars with lids. Clean and ready for whatever you ferment, pickle or store in them."
-  free: true
-  held: true
-  photos:
-    - "E37-mason-jars.jpg"
 
 - id: "K28"
   slug: "k28-moma-la-maison-inondee-bowl"
@@ -1490,6 +1457,42 @@
     - "K32-aroma-hotpot.jpg"
     - "K32-aroma-hotpot-label.jpg"
     - "K89-cabinet-above-cutting-board.jpg"
+
+- id: "K80"
+  slug: "k80-colander-and-straining-kit"
+  name: "Colander and straining kit"
+  qty: "1 lot"
+  shelf: "Kitchen"
+  blurb: "A white plastic colander, a fine mesh sieve, a long-handled mesh scoop for lifting noodles straight out of the pot, and the wooden-handled clamp that gets a hot dish out of a steamer without you burning your fingers."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "K80-colander-and-strainers.jpg"
+
+- id: "K64"
+  slug: "k64-ice-bucket-metallic"
+  name: "Ice bucket, metallic"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "Metallic ice bucket, 9 inches across and 10 inches tall, so a wine bottle sits in it with room for ice round the sides."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "K64-ice-bucket.jpg"
+
+- id: "E37"
+  slug: "e37-mason-jars"
+  name: "Mason jars"
+  qty: "4"
+  shelf: "Kitchen"
+  blurb: "Four Ball wide-mouth quart jars with lids. Clean and ready for whatever you ferment, pickle or store in them."
+  free: true
+  gone: true
+  held: true
+  photos:
+    - "E37-mason-jars.jpg"
 
 - id: "O47"
   slug: "o47-magic-the-gathering-cards-in-a-clear-storage-box"
