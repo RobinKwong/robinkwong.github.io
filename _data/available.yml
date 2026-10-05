@@ -831,6 +831,7 @@
   shelf: "Odds & amusements"
   blurb: "A monitor stand in pale wood, with a slot cut through the top to pass cables and two plank legs."
   free: true
+  held: true
   photos:
     - "O45-monitor-riser.jpg"
 
@@ -942,6 +943,7 @@
   shelf: "Odds & amusements"
   blurb: "ViewSonic VX2453MH-LED, 24 inches, 1920 by 1080, LED backlit. Two HDMI inputs and a VGA, with audio in and a headphone socket. The label on the back dates it to May 2012. Working, and the power lead and an HDMI cable come with it. Thin and light enough to carry under one arm."
   free: true
+  held: true
   photos:
     - "O06-monitor-1-front.jpg"
     - "O06-monitor-2-back-label.jpg"
