@@ -394,16 +394,6 @@
   photos:
     - "K14-crockery-cabinet.jpg"
 
-- id: "D07"
-  slug: "d07-braun-coffee-maker-12-cup-with-glass-carafe"
-  name: "Braun coffee maker, 12 cup with glass carafe"
-  qty: "1"
-  shelf: "Kitchen"
-  blurb: "Braun filter coffee maker, 12 cup, with its glass carafe. US plug."
-  free: true
-  photos:
-    - "D07-braun-coffee-maker.jpg"
-
 - id: "K18"
   slug: "k18-breville-sous-chef-food-processor-model-bfp660-sil-12-cu"
   name: "Breville Sous Chef food processor, model BFP660 SIL, 12 cup"
@@ -1096,14 +1086,6 @@
   photos:
     - "C25-reehut-foam-mat.jpg"
 
-- id: "BA13"
-  slug: "ba13-conair-1875-hair-dryer"
-  name: "Conair 1875 hair dryer"
-  qty: "1"
-  shelf: "Bathroom"
-  blurb: "Conair 1875W hair dryer in blue. Works fine. The only hair dryer in the flat, so it goes rather than travels."
-  free: true
-
 - id: "K62"
   slug: "k62-cooking-apron"
   name: "Cooking apron"
@@ -1267,6 +1249,17 @@
   held: true
   photos:
     - "K106-bodum-chambord-glasses.jpg"
+
+- id: "D07"
+  slug: "d07-braun-coffee-maker-12-cup-with-glass-carafe"
+  name: "Braun coffee maker, 12 cup with glass carafe"
+  qty: "1"
+  shelf: "Kitchen"
+  blurb: "Braun filter coffee maker, 12 cup, with its glass carafe. US plug."
+  free: true
+  gone: true
+  photos:
+    - "D07-braun-coffee-maker.jpg"
 
 - id: "K80"
   slug: "k80-colander-and-straining-kit"
@@ -1526,6 +1519,15 @@
   held: true
   photos:
     - "L31-slam-ball.jpg"
+
+- id: "BA13"
+  slug: "ba13-conair-1875-hair-dryer"
+  name: "Conair 1875 hair dryer"
+  qty: "1"
+  shelf: "Bathroom"
+  blurb: "Conair 1875W hair dryer in blue. Works fine. The only hair dryer in the flat, so it goes rather than travels."
+  free: true
+  gone: true
 
 - id: "K95"
   slug: "k95-cruzin-kitchen-scissors-unopened"
