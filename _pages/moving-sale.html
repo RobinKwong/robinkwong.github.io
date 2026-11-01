@@ -22,10 +22,10 @@ shelves:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Everything Must Go — Robin's Astoria Moving Sale</title>
-<meta name="description" content="I'm moving to London. {{ site.data.available | size }} things in my Astoria flat need somewhere to go. Most of them are free. Come and take them on 3 or 10 October.">
-<meta property="og:title" content="Everything Must Go">
-<meta property="og:description" content="I'm moving to London and my flat has to be empty. {{ site.data.available | size }} things need a new home, most of them free. Drinks and a proper goodbye. Saturdays 3 and 10 October, Astoria.">
+<title>Everything Went — Robin's Astoria Moving Sale, Archived</title>
+<meta name="description" content="Robin's Astoria moving sale, September to October 2026. The flat is empty, everything went, and the page is kept as it stood on the last day.">
+<meta property="og:title" content="Everything Went">
+<meta property="og:description" content="The flat is empty and I'm off to London. Thank you to everyone who came. The sale page, kept as it stood on the last day.">
 <meta name="robots" content="noindex, noarchive">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://robinkwong.com/moving-sale/">
@@ -283,9 +283,57 @@ label.radio small{display:block;color:var(--ink-soft)}
 footer{margin-top:3.5rem;border-top:2px solid var(--ink);padding:2.5rem 0 4rem}
 footer h3{font-family:var(--display);font-size:1.3rem;margin:0 0 .5rem}
 footer p{max-width:58ch;color:var(--ink-soft)}
+/* ---------- archive: the sale is over ---------- */
+.archive{background:var(--paper-2);border-bottom:2px solid var(--ink);padding:2.2rem 0 2rem}
+@media(min-width:760px){.archive{padding:4rem 0 3.2rem}}
+.archive .stamp{display:inline-block;font-family:var(--sans);font-weight:700;font-size:.72rem;
+  letter-spacing:.16em;text-transform:uppercase;color:var(--price);border:2px solid var(--price);
+  border-radius:4px;padding:.3rem .6rem;transform:rotate(-2.5deg);margin:0 0 1rem}
+.archive h2{font-family:var(--display);font-weight:900;font-size:clamp(2.6rem,9vw,5.2rem);
+  line-height:.95;letter-spacing:-.02em;margin:0 0 1.2rem}
+.archive h2 em{font-weight:400;color:var(--price)}
+.archive p{max-width:58ch;margin:0 0 .9rem;font-size:1.05rem}
+.archive .sign{margin-top:1.2rem !important}
+.archive .then{font-family:var(--sans);font-size:.75rem;font-weight:700;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-soft);margin:2rem 0 0}
+.archive-pic{display:none}
+@media(min-width:960px){
+  .archive .wrap{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:3.5rem;align-items:center}
+  .archive-pic{display:block;margin:0;transform:rotate(1.5deg)}
+  .archive-pic iframe{display:block;width:100%;height:506px;border:2px solid var(--ink);
+    border-radius:6px;background:#fff;box-shadow:6px 6px 0 var(--ink)}
+  .archive-pic figcaption{font-family:var(--sans);font-size:.75rem;color:var(--ink-soft);
+    margin:.9rem 0 0;text-align:center}
+}
+body.archived .add,body.archived #basketBtn,body.archived #mineChip,
+body.archived #basket,body.archived #scrim{display:none !important}
 </style>
 </head>
-<body>
+<body class="archived">
+
+<section class="archive" aria-labelledby="archived-h">
+  <div class="wrap">
+    <div class="archive-text">
+    <p class="stamp">Moving sale &#183; closed 31 October 2026</p>
+    <h2 id="archived-h">Everything <em>went</em></h2>
+    <p>The flat is empty, the keys are back with the landlord, and I'm off to London. Thank you
+      to everyone who came by, sent me a list, carried off a board game, or just came for a drink
+      and a goodbye.</p>
+    <p>Twenty-one of you booked things through this page and took them home. The rest went to
+      friends, to neighbours, to strangers off Craigslist and AptDeco, to the Salvation Army in
+      Woodside and, at the very end, to the curb and a junk-removal van.</p>
+    <p>The basket is switched off and the flat's address has gone, but you can still scroll,
+      search and judge my taste in lamps.</p>
+    <p class="sign">&#8212; Robin, Coco and Petal. The cats flew ahead on 30 October, and have
+      opinions about it.</p>
+    <p class="then">&#8595; The page as it was, on the last day</p>
+    </div>
+    <figure class="archive-pic">
+      <iframe src="https://www.instagram.com/p/Dew-FmwJ91e/embed/" title="Robin's curb pile, posted by Stooping in Queens on Instagram" loading="lazy" scrolling="no"></iframe>
+      <figcaption>Stooping in Queens posted one of the curb piles</figcaption>
+    </figure>
+  </div>
+</section>
 
 {% assign all = site.data.available %}
 {% assign freebies = all | where:"free",true %}
@@ -315,13 +363,10 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
       whatever takes your fancy into the basket and send me the list, and I'll write back, though nothing is held until I do. You're also welcome to just turn up and browse.</p>
 
     <div class="when">
-      <p class="when-line date-line"><b>Saturday 3 October</b> <span>11am &#8211; 5pm</span>
-        <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261003T150000Z/20261003T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
-      <p class="when-line date-line"><b>Saturday 10 October</b> <span>11am &#8211; 5pm</span>
-        <a class="cal" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Robin%27s+moving+sale+%28and+goodbye%29&amp;dates=20261010T150000Z/20261010T210000Z&amp;location=30-83+32nd+Street+Apt+1B%2C+Astoria+NY+11102&amp;details=Everything+must+go%3A+https%3A%2F%2Frobinkwong.com%2Fmoving-sale%2F">Add to calendar</a></p>
+      <p class="when-line date-line"><b>Saturday 3 October</b> <span>11am &#8211; 5pm</span></p>
+      <p class="when-line date-line"><b>Saturday 10 October</b> <span>11am &#8211; 5pm</span></p>
       <p class="tick" id="tick"></p>
-      <p class="when-line where-line"><b>30-83 32nd Street, Apt 1B</b> <span>Astoria, NY 11102 &#183;
-        buzz 1B &#183; four minutes from the N and W at 30th Avenue</span></p>
+      <p class="when-line where-line"><b>Astoria, Queens</b> <span>four minutes from the N and W at 30th Avenue</span></p>
       <p class="when-note">Can't make either? Say so when you send your list. Cash, Venmo or Zelle
         for anything priced.</p>
     </div>
@@ -447,10 +492,10 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
 <footer>
   <div class="wrap">
     <h3>The small print, such as it is</h3>
-    <p><b>Who's asking.</b> I'm Robin Kwong. I've lived on 32nd Street in Astoria for four and a
+    <p><b>Who's asking.</b> I'm Robin Kwong. I've lived in Astoria for four and a
     half years and I'm moving to London at the start of November. This is my actual flat and
     these are my actual things.</p>
-    <p><b>Collection only.</b> 30-83 32nd Street, Apt 1B, Astoria NY 11102 &mdash; about twenty
+    <p><b>Collection only.</b> From the flat in Astoria, about twenty
     minutes from midtown on the N or W, and easy enough from most of Brooklyn. I'll help you carry
     things down and out to a car, but I can't deliver.</p>
     <p><b>Nothing is held until I reply.</b> If two people want the same thing, it goes to
@@ -908,7 +953,7 @@ hundred and twenty-seven reads as nothing happening.{% endcomment %}
     } else if(nyc === d2){
       msg = "Last day. The doors are open today, eleven until five.";
     } else {
-      msg = "Both Saturdays have been and gone. If something here is still listed, ask anyway \u2014 I'm in the flat until the end of October.";
+      msg = "Both Saturdays have been and gone, and so has nearly everything else.";
     }
     el.textContent=msg;
   })();
