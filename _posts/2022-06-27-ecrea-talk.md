@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactivity is not &#40;the&#41; objective
-date: 2021-10-20 09:00
+date: 2022-06-27 09:00
 tags: [conference, journalism, talk]
 permalink: /ecrea-talk/
 ---
