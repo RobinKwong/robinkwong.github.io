@@ -17,3 +17,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
+
+# Private research folders, excluded from git, must also stay out of the build.
+# Jekyll 3 replaces its default exclude list when this is set, so its defaults are restated.
+exclude: [raw, wiki, outputs, CLAUDE.md, Gemfile, Gemfile.lock, node_modules, vendor]
